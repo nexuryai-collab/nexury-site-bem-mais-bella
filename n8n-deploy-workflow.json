@@ -1,0 +1,28 @@
+{
+  "name": "Bem Mais Bella — Deploy para Cloudflare Pages",
+  "description": "Build e deploy do site Bem Mais Bella para Cloudflare Pages",
+  "nodes": [
+    {
+      "type": "n8n-nodes-base.http_request",
+      "options": {
+        "url": "https://github.com/nexuryai-collab/nexury-site-bem-mais-bella/archive/refs/heads/master.zip",
+        "method": "POST",
+        "headers": {
+          "Authorization": "Bearer YOUR_GITHUB_TOKEN",
+          "Accept": "application/json"
+        }
+      }
+    },
+    {
+      "type": "n8n-nodes-base.http_response",
+      "options": {
+        "response_url": "https://bem-mais-bella.com.br/",
+        "status_check": true
+      }
+    }
+  ],
+  "settings": {
+    "concurrency": 1,
+    "timeout": 300
+  }
+}
