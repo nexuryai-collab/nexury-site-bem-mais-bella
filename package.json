@@ -10,7 +10,7 @@
     "image-optimize": "node scripts/optimize-images.js"
   },
   "dependencies": {
-    "next": "14.2.5",
+    "next": "14.3.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "tailwindcss": "^3.4.0",
