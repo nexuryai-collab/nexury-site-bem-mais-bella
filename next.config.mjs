@@ -2,9 +2,9 @@
 const nextConfig = {
   // Cloudflare Pages Optimization
   output: "export",
-  // Image optimization via Cloudflare (não via next/image)
+  // Image optimization via Cloudflare (not via next/image)
   images: {
-    // Desabilitamos o next/image padrão para usar Cloudflare Mirage/ Polish
+    // Desabilitamos o next/image padrão para usar Cloudflare Mirage/Polish
     dangerouslyAllowSVG: true,
     contentSecurityPolicy: "",
     // Desabilitamos loader padrão
@@ -36,4 +36,5 @@ const nextConfig = {
   },
 }
 
-module.exports = nextConfig
+// ES module export
+export default nextConfig
