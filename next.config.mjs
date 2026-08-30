@@ -15,26 +15,7 @@ const nextConfig = {
       },
     ],
   },
-  // Headers para Cloudflare
-  async headers() {
-    return [
-      {
-        source: "/(.*)",
-        headers: [
-          // Cloudflare Polish: otimiza imagens automaticamente
-          {
-            key: "Accept-Ch",
-            value: "DPR, width, viewport-width",
-          },
-          {
-            key: "Cache-Control",
-            value: "public, max-age=31536000, immutable",
-          },
-        ],
-      },
-    ]
-  },
-}
+};
 
 // ES module export
-export default nextConfig
+export default nextConfig;
