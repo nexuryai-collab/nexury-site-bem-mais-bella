@@ -1,5 +1,4 @@
-import { GeistSans } from 'geist/font/sans'
-import ClientLayout from './client-layout'
+import './globals.css'
 
 export const metadata = {
   title: "Bem Mais Bella - Notícias",
@@ -8,9 +7,9 @@ export const metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="pt-BR" className={geistSans.variable}>
+    <html lang="pt-BR">
       <body>
-        <ClientLayout>{children}</ClientLayout>
+        {children}
       </body>
     </html>
   )
