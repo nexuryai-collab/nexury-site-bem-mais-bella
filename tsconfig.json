@@ -9,12 +9,10 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "noImplicitAny": true,
-    "moduleResolution": "node",
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
     },
-    "baseUrl": ".",
     "noEmit": true
   },
   "include": ["src/**/*"],
