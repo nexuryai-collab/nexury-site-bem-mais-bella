@@ -1,5 +1,3 @@
-"use client"
-
 import { GeistSans as GeistSans } from 'next/font/google'
 import './globals.css'
 
