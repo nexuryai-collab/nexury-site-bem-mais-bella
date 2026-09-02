@@ -17,4 +17,10 @@ const nextConfig = {
   },
 };
 
+const isStaticExport = process.env.NODE_ENV === "production" && !process.env.NEXT_PREVIEW;
+
+if (isStaticExport) {
+  console.log("[CONFIG] Generating static export for Cloudflare Pages");
+}
+
 export default nextConfig;
