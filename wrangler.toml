@@ -1,9 +1,11 @@
 name = "bem-mais-bella"
-compatibility_date = "2026-09-02"
-main = ".n"
-build = { command = "npm run build", cwd = "." }
-publish = "out"
+compatibility_date = "2026-08-30"
+
+[build]
+command = "npm run build"
+
+[pages_build_output_dir]
+dir = ".next"
 
 [env.production]
-binding = "NODE_ENV"
-value = "production"
+NODE_ENV = "production"
