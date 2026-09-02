@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { notícias } from '@/lib/mock-data'
+import { NOTICIAS_MOCK } from '@/lib/mock-data'
 
 export const metadata = {
   title: 'Viagens | Bem Mais Bella',
@@ -14,15 +14,15 @@ export default function ViagensPage() {
         Destinos, dicas para mulheres viajantes, roteiros culturais e viagens acessíveis.
       </p>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-        {notícias.map((notícia) => (
-          <article key={notícia.id} className="border rounded-lg p-6 hover:shadow-lg transition">
+        {NOTICIAS_MOCK.map((noticia) => (
+          <article key={noticia.slug} className="border rounded-lg p-6 hover:shadow-lg transition">
             <h2 className="text-xl font-semibold mb-2">
-              <Link href={`/noticias/${notícia.slug}`}>{notícia.título}</Link>
+              <Link href={`/noticias/${noticia.slug}`}>{noticia.title}</Link>
             </h2>
-            <p className="text-gray-600 mb-4">{notícia.resumo}</p>
+            <p className="text-gray-600 mb-4">{noticia.excerpt}</p>
             <div className="flex justify-between text-sm text-gray-500">
-              <span>{notícia.categoria}</span>
-              <span>{notícia.data}</span>
+              <span>{noticia.category}</span>
+              <span>{noticia.date}</span>
             </div>
           </article>
         ))}
