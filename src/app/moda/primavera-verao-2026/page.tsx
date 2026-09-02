@@ -1,5 +1,5 @@
 import NewsCard from '@/components/NewsCard'
-import { TENDENCIAS_PRIMAVERA_VERAO } from '@/lib/mock-data'
+import { NOTICIAS_MOCK } from '@/lib/mock-data'
 
 export default function ModaPrimaveraVerao2026() {
   return (
@@ -15,16 +15,16 @@ export default function ModaPrimaveraVerao2026() {
         </header>
 
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {TENDENCIAS_PRIMAVERA_VERAO.map((tendencia) => (
+          {NOTICIAS_MOCK.map((noticia) => (
             <NewsCard
-              key={tendencia.slug}
-              title={tendencia.title}
-              excerpt={tendencia.excerpt}
-              date={tendencia.date}
-              image={tendencia.image}
-              imageAlt={tendencia.imageAlt}
-              slug={tendencia.slug}
-              category={tendencia.category}
+              key={noticia.slug}
+              title={noticia.title}
+              excerpt={noticia.excerpt}
+              date={noticia.date}
+              image={noticia.image}
+              imageAlt={noticia.imageAlt}
+              slug={noticia.slug}
+              category={noticia.category}
             />
           ))}
         </div>
