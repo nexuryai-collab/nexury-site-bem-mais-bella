@@ -1,8 +1,9 @@
 build_command = "npm run build"
-destination_dir = "out"
-main = "."
-production_branch = "master"
+destination_dir = ".next"
+compatibility_date = "2026-08-30"
 
-[build.environment]
+[build]
+build_image = "version_2"
+
+[env]
 NODE_VERSION = "22"
-# Forçar rebuild em 2026-09-02T16:21:09.978422
