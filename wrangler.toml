@@ -1,11 +1,2 @@
-name = "bem-mais-bella"
+name = "nexury-site-bem-mais-bella"
 compatibility_date = "2026-08-30"
-
-[build]
-command = "npm run build"
-
-[pages_build_output_dir]
-dir = ".next"
-
-[env.production]
-NODE_ENV = "production"
