@@ -1,0 +1,9 @@
+name = "bem-mais-bella"
+compatibility_date = "2026-09-02"
+main = ".n"
+build = { command = "npm run build", cwd = "." }
+publish = "out"
+
+[env.production]
+binding = "NODE_ENV"
+value = "production"
