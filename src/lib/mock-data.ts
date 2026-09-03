@@ -619,3 +619,5 @@ export const tiktokLinks4 = {"@webloved":"https://vt.tiktok.com/ZSq1Wnk9A/"};
 export const tiktokAccounts = {"@webloved": ["https://vt.tiktok.com/ZSq1nvA1U/", "https://vt.tiktok.com/ZSq1WgAa1/", "https://vt.tiktok.com/ZSq1Wnk9A/"], "@whitewhoadie": ["https://vt.tiktok.com/ZSq1noYyn/"], "@hyliox.io": ["https://vt.tiktok.com/ZSq1W9BXP/", "https://vt.tiktok.com/ZSq1Wnk9A/"]};
 
 export const tiktokCount = 6;
+
+export const tiktokLinkZSq17H5xP = "https://vt.tiktok.com/ZSq17H5xP/";
