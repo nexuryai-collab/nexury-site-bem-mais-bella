@@ -59,6 +59,12 @@ O autocuidado, o mindfulness e a terapia holística — já abordados em artigos
 
 > **Observação da Lillith:** Se você está passando por momentos de dúvida, de olhar para o espelho e sentir que falta algo — eu quero que saiba: não há nada de errado com você. Eu já senti esse vazio, já achei que precisava ser outra. Mas a verdade é que o amor começa em você, não no espelho. Se você está sozinha agora, se sente que ninguém entende — eu entendo. E você é amada, não apesar de quem é, mas exatamente por quem é. Continue.
 
+
+## A Guerra dos Filtros e o Fim da Ditadura da Perfeição
+
+As redes sociais criaram uma ditadura silenciosa. Filtros de beleza que afinam rostos, clareiam peles, alargam olhos e escondem marcas se tornaram tão naturais que muitas mulheres passaram a se sentir 'desajustadas' sem eles. Em 2026, o TikTok Brasil viu uma explosão de vídeos sem filtros com a hashtag #CorpoRealBrasil — mais de 42 milhões de visualizações até setembro. Influenciadoras como Carol Bassi, Juliana Paes e até artistas internacionais como Lizzo e Ashley Graham inspiraram milhões de brasileiras a abandonarem os filtros e a mostraram seus corpos reais. O movimento não é apenas estético: é uma declaração de liberdade. Quando uma mulher posta uma foto sem filtro, ela está dizendo ao mundo: 'Eu existo assim, e meu valor não depende da minha aparência retocada.' Essa declaração é política, é emocional, é revolucionária.
+
+> **Observação da Lillith:** Querida, quando você posta uma foto sem filtro e sente aquele frio na barriga — saiba que você está fazendo algo corajoso. Eu já passei por isso: o medo do julgamento, do 'não é bonita o suficiente'. Mas eu aprendi que a coragem não é a ausência do medo — é seguir em frente apesar dele. E cada vez que uma mulher mostra seu corpo real, ela abre caminho para outra. Você é parte de algo maior do que você imagina. Continue. A liberdade que você conquista é também a liberdade que você oferece para a próxima mulher que precisa ver que é possível.
 ## Como Adotar o Corpo Real no Seu Dia a Dia
 
 ![Mulher sorrindo, aceitando seu corpo](/artigos/corpo-real-2026/section-4.webp)
@@ -72,5 +78,11 @@ Recomendações práticas: curadoria de feed (remover conteúdos que geram compa
 ![Futuro do corpo real — mulheres se abraçando](/artigos/corpo-real-2026/section-5.webp)
 
 Em 2026 e além, o movimento "corpo real" está se consolidando como uma nova norma cultural — não uma moda passageira, mas uma mudança estrutural. As novas gerações estão crescendo em um ambiente onde a diversidade corporal é celebrada, não escondida. E as marcas que não se adaptarem vão ficar para trás. Para Fellipe e para todas as mulheres que acompanham o Bem Mais Bella, o corpo real é uma promessa: você não precisa ser outra para ser amada. Você já é.
+
+
+## O Papel das Marcas Brasileiras na Revolução do Corpo Real
+Marcas nacionais têm um papel fundamental nessa revolução. A Natura lançou em 2026 uma linha completa de maquiagem para todos os tons de pele brasileira, com 45 tonalidades distintas — um marco para uma empresa brasileira. A Avon lançou uma campanha "Sem Filtros, Sem Medo" que alcançou 8 milhões de mulheres. Pequenas marcas independentes de cosméticos também estão aderindo, criando produtos inclusivos e campanhas autênticas. A indústria brasileira de beleza está finalmente refletindo a diversidade do país. E isso não é apenas bom para a sociedade — é bom para os negócios. Marcas autênticas vendem mais, criam lealdade e constroem uma relação duradoura com suas consumidoras.
+
+> **Observação da Lillith:** Querida, se você está pensando que é "apenas uma mulher comum" e que sua voz não importa — eu quero que você pense de novo. Cada escolha que você faz, cada marca que você apoia, cada foto que você posta sem filtro, cada conversa honesta com uma amiga — tudo isso é parte de uma mudança maior. Você não precisa ser uma influencer para fazer diferença. Você já faz diferença apenas existindo, resistindo, escolhendo ser gentil consigo mesma. Continue.
 
 Relacionados: [Beleza Inclusiva 2026](https://bemmaisbella.com.br/artigos/beleza-inclusiva-2026), [Auto-Cuidado Mindfulness 2026](https://bemmaisbella.com.br/artigos/auto-cuidado-mindfulness-2026), [Moda Consciente 2026](https://bemmaisbella.com.br/artigos/moda-consciente-2026-tendencias)
