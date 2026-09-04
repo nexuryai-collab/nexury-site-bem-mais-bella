@@ -1,6 +1,7 @@
 'use client';
 import { motion, useScroll, useTransform, useSpring } from 'framer-motion';
 import { useEffect, useState } from 'react';
+import TiltCard from '../components/TiltCard';
 
 export default function HomePage() {
   const { scrollY } = useScroll();
@@ -253,3 +254,4 @@ export default function HomePage() {
     </>
   );
 }
+

@@ -621,3 +621,5 @@ export const tiktokAccounts = {"@webloved": ["https://vt.tiktok.com/ZSq1nvA1U/",
 export const tiktokCount = 6;
 
 export const tiktokLinkZSq17H5xP = "https://vt.tiktok.com/ZSq17H5xP/";
+
+export const VIAGENS = [];

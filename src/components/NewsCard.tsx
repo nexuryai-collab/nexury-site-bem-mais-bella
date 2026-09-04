@@ -26,12 +26,12 @@ export default function NewsCard({
       {/* Imagem otimizada com lazy load */}
       <div className="relative aspect-video">
         <Image
-          src={image}
+          src={image || '/images/placeholder.webp'}
           alt={imageAlt}
           fill
           sizes="(min-width: 768px) 768px, 100vw"
           placeholder="blur"
-          blurDataURL={image.replace('/large', '/small')} // fallback simples
+          blurDataURL={(image || '/images/placeholder.webp').replace('/large', '/small')} // fallback simples
           className="object-cover"
           priority={false} // Cloudflare cuida do cache
           quality={85}

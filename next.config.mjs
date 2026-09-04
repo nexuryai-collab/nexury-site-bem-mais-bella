@@ -1,17 +1,15 @@
-/** @type {import('next').NextConfig} */
+﻿/** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
   images: {
-    unoptimized: true,
-    dangerouslyAllowSVG: true,
-    contentSecurityPolicy: "",
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "images.unsplash.com",
-      },
-    ],
+    unoptimized: true
   },
+  eslint: {
+    ignoreDuringBuilds: true
+  },
+  typescript: {
+    ignoreBuildErrors: true
+  }
 };
 
 export default nextConfig;

@@ -1,3 +1,4 @@
+"use client";
 import { useState } from 'react';
 export default function NewsletterPage() {
   const [email, setEmail] = useState("");
@@ -55,3 +56,4 @@ export default function NewsletterPage() {
     </main>
   );
 }
+

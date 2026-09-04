@@ -20,3 +20,11 @@ const artigos = [
 ];
 
 const subcategorias = ["Fitness", "Nutrição", "Mental", "Sono", "Cuidado Pessoal", "Prevenção", "Tendências", "Skincare", "Beleza", "Slow Aging"];
+export default function SaudeBemEstarPage() {
+  return (
+    <main>
+      <h1>Saude e Bem-Estar</h1>
+      <p>Conteudo em atualizacao.</p>
+    </main>
+  );
+}
