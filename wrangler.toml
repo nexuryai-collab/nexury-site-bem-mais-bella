@@ -1,3 +1,8 @@
 name = "nexury-site-bem-mais-bella"
 compatibility_date = "2026-09-02"
-pages_build_output_dir = "./out"
+pages_build_output_dir = "."
+trailingSlash = true
+routes = [
+  { pattern = "bemmaisbella.com.br/*", custom_domain = true },
+  { pattern = "www.bemmaisbella.com.br/*", custom_domain = true },
+]
