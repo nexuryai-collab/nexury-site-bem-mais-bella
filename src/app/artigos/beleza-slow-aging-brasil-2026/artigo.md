@@ -205,7 +205,7 @@ Se o slow aging fosse um manifesto, seria assim:
 
 Esse é o **slow aging** brasileiro em 2026.
 
-** slow aging também é sobre legado.** Quando você cuida de si, você inspira quem está ao redor. Mães que abraçam o slow aging ensinam filhas a se amarem. Avós que praticam slow aging mostram que beleza não tem prazo de validade. O impacto de uma mulher que se cuida com gentileza reverbera por gerações inteiras.
+** slow aging também é sobre legado.** Quando você cuida de si, você inspira quem está ao redor. Mães que abraçam o slow aging ensinam filhas a se amarem. Avós que praticam slow aging mostram que beleza não tem prazo de validade. O impacto de uma mulher que se cuida com gentileza reverbera por gerações inteiras, criando uma cultura de respeito e amor que transcende o tempo.
 
 ## Conclusão
 
