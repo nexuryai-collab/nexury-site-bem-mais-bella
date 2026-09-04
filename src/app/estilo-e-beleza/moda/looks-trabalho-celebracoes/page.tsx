@@ -1,0 +1,1 @@
+export default () => <main className="min-h-screen bg-[#0f051a] p-12"><h1 className="text-3xl text-[#F72585]">Looks Trabalho Celebracoes</h1></main>

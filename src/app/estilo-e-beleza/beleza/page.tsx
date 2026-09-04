@@ -1,0 +1,1 @@
+export default () => <main className="min-h-screen bg-[#0f051a] p-12"><h1 className="text-4xl text-[#F72585]">Beleza</h1><p>Cuidados com pele, cabelo, maquiagem, tendências.</p></main>
