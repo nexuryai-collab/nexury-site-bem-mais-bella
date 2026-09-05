@@ -50,7 +50,7 @@ export default function HomePage() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.7 }}
-            className="text-xl lg:text-2xl text-[#9AABAF] max-w-2xl leading-relaxed font-light mb-10"
+            className="text-xl lg:text-2xl text-[#9AA4AF] max-w-2xl leading-relaxed font-light mb-10"
           >
             Notícias, estilo, saúde e desenvolvimento para a mulher brasileira. Conteúdo que respeita o seu ritmo e celebra a sua história.
           </motion.p>
@@ -61,7 +61,7 @@ export default function HomePage() {
         </div>
 
         {/* Scroll indicator */}
-        <motion.div animate={{ y: [0, 10, 0] }} transition={{ repeat: Infinity, duration: 2 }} className="absolute bottom-8 left-1/2 -translate-x-1/2 z-10 text-[#9AABAF] text-xs tracking-widest uppercase flex flex-col items-center gap-2">
+        <motion.div animate={{ y: [0, 10, 0] }} transition={{ repeat: Infinity, duration: 2 }} className="absolute bottom-8 left-1/2 -translate-x-1/2 z-10 text-[#9AA4AF] text-xs tracking-widest uppercase flex flex-col items-center gap-2">
           <span>Scroll</span>
           <span className="w-px h-8 bg-gradient-to-b from-[#F72585] to-transparent" />
         </motion.div>
@@ -71,7 +71,7 @@ export default function HomePage() {
       <section className="bg-[#1a0a2e] py-5 overflow-hidden border-y border-[rgba(240,72,133,0.15)]">
         <div className="flex gap-6 animate-[marquee_40s_linear_infinite] whitespace-nowrap w-max">
           {[...Array(2)].flatMap((_, i) => ["Estilo e Beleza","Saúde e Bem-Estar","Maternidade","Relacionamentos","Carreira","Desenvolvimento","Histórias Inspiradoras","Comunidade"].map(t => (
-            <a key={`${i}-${t}`} href="#" className="inline-flex items-center gap-2 px-6 py-2 rounded-full bg-[#45495f]/40 text-[#9AABAF] border border-[rgba(240,72,133,0.15)] hover:border-[#F72585] hover:text-[#F72585] transition-all text-sm font-medium">
+            <a key={`${i}-${t}`} href="#" className="inline-flex items-center gap-2 px-6 py-2 rounded-full bg-[#45495f]/40 text-[#9AA4AF] border border-[rgba(240,72,133,0.15)] hover:border-[#F72585] hover:text-[#F72585] transition-all text-sm font-medium">
               <span className="w-1.5 h-1.5 rounded-full bg-[#F72585]" /> {t}
             </a>
           )))}
@@ -84,7 +84,7 @@ export default function HomePage() {
           <div>
             <span className="text-[#F72585] text-xs uppercase tracking-[0.3em] font-bold">Em destaque</span>
             <h2 className="font-[family-name:var(--font-cormorant)] text-5xl lg:text-6xl text-[#f5f0e6] mt-2">A semana em escolhas</h2>
-            <p className="text-[#9AABAF] mt-3 max-w-xl">Artigos selecionados para você, com curadoria e voz editorial.</p>
+            <p className="text-[#9AA4AF] mt-3 max-w-xl">Artigos selecionados para você, com curadoria e voz editorial.</p>
           </div>
           <a href="#" className="text-[#F72585] hover:text-[#f08eb0] transition text-sm font-bold uppercase tracking-widest flex items-center gap-2 self-start md:self-auto">
             Ver todos <span>→</span>
@@ -114,8 +114,8 @@ export default function HomePage() {
               </div>
               <div className="p-7">
                 <h3 className="font-[family-name:var(--font-cormorant)] text-2xl text-[#f5f0e6] leading-tight mb-3 group-hover:text-[#F72585] transition-colors">{a.title}</h3>
-                <p className="text-[#9AABAF]/80 text-sm leading-relaxed mb-5">{a.desc}</p>
-                <div className="flex items-center justify-between text-xs text-[#9AABAF]/60">
+                <p className="text-[#9AA4AF]/80 text-sm leading-relaxed mb-5">{a.desc}</p>
+                <div className="flex items-center justify-between text-xs text-[#9AA4AF]/60">
                   <span>Por <strong className="text-[#F72585]">{a.author}</strong></span>
                   <span>⏱ {a.read}</span>
                 </div>
@@ -145,13 +145,13 @@ export default function HomePage() {
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             { name: "Estilo e Beleza", sub: "Moda • Beleza • Maquiagem", icon: "💄", color: "from-[#F72585]/20" },
-            { name: "Saúde e Bem-Estar", sub: "Nutrição • Fitness • Autocuidado", icon: "🧘", color: "from-[#9AABAF]/20" },
+            { name: "Saúde e Bem-Estar", sub: "Nutrição • Fitness • Autocuidado", icon: "🧘", color: "from-[#9AA4AF]/20" },
             { name: "Maternidade", sub: "Gravidez • Bebê • Família", icon: "👶", color: "from-[#F72585]/20" },
-            { name: "Relacionamentos", sub: "Conexão • Intimidade", icon: "💞", color: "from-[#9AABAF]/20" },
+            { name: "Relacionamentos", sub: "Conexão • Intimidade", icon: "💞", color: "from-[#9AA4AF]/20" },
             { name: "Carreira e Finanças", sub: "Vocação • Investimento", icon: "💼", color: "from-[#F72585]/20" },
-            { name: "Estilo de Vida", sub: "Viagens • Decoração • Gastronomia", icon: "✈️", color: "from-[#9AABAF]/20" },
+            { name: "Estilo de Vida", sub: "Viagens • Decoração • Gastronomia", icon: "✈️", color: "from-[#9AA4AF]/20" },
             { name: "Desenvolvimento", sub: "Autoconhecimento • Espiritualidade", icon: "🌱", color: "from-[#F72585]/20" },
-            { name: "Histórias", sub: "Relatos • Entrevistas • Reflexões", icon: "✨", color: "from-[#9AABAF]/20" },
+            { name: "Histórias", sub: "Relatos • Entrevistas • Reflexões", icon: "✨", color: "from-[#9AA4AF]/20" },
           ].map((c, i) => (
             <motion.a
               key={c.name}
@@ -167,7 +167,7 @@ export default function HomePage() {
               <div className="relative z-10">
                 <span className="text-4xl mb-3 block transform group-hover:scale-110 transition-transform">{c.icon}</span>
                 <h3 className="font-[family-name:var(--font-cormorant)] text-xl text-[#f5f0e6] mb-1 group-hover:text-[#F72585] transition">{c.name}</h3>
-                <p className="text-xs text-[#9AABAF]/60">{c.sub}</p>
+                <p className="text-xs text-[#9AA4AF]/60">{c.sub}</p>
               </div>
             </motion.a>
           ))}
@@ -187,12 +187,12 @@ export default function HomePage() {
           <div className="relative z-10 text-center">
             <span className="inline-block px-3 py-1 bg-[#F72585]/20 text-[#F72585] rounded-full text-xs font-bold tracking-[0.2em] uppercase mb-6 border border-[#F72585]/30">📬 Newsletter</span>
             <h2 className="font-[family-name:var(--font-cormorant)] text-5xl lg:text-7xl text-[#f5f0e6] mb-6 leading-tight">Receba o essencial</h2>
-            <p className="text-[#9AABAF] text-lg mb-10 max-w-xl mx-auto leading-relaxed">Dicas de estilo, saúde e desenvolvimento — direto para você. Sem spam, sem pressa.</p>
+            <p className="text-[#9AA4AF] text-lg mb-10 max-w-xl mx-auto leading-relaxed">Dicas de estilo, saúde e desenvolvimento — direto para você. Sem spam, sem pressa.</p>
             <form className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto" onSubmit={e => { e.preventDefault(); (e.target as HTMLFormElement).reset(); alert('Inscrição confirmada. Bem-vinda.'); }}>
-              <input type="email" placeholder="Seu melhor e-mail" required className="flex-1 px-6 py-4 rounded-full bg-[#240046]/80 border border-[rgba(240,72,133,0.3)] text-[#f5f0e6] placeholder:text-[#9AABAF]/40 focus:outline-none focus:border-[#F72585] focus:ring-2 focus:ring-[#F72585]/20 transition-all" />
+              <input type="email" placeholder="Seu melhor e-mail" required className="flex-1 px-6 py-4 rounded-full bg-[#240046]/80 border border-[rgba(240,72,133,0.3)] text-[#f5f0e6] placeholder:text-[#9AA4AF]/40 focus:outline-none focus:border-[#F72585] focus:ring-2 focus:ring-[#F72585]/20 transition-all" />
               <button type="submit" className="btn-rosa px-8 py-4 rounded-full font-bold whitespace-nowrap">Quero Receber</button>
             </form>
-            <p className="text-xs text-[#9AABAF]/50 mt-4">Você pode cancelar quando quiser. A gente também.</p>
+            <p className="text-xs text-[#9AA4AF]/50 mt-4">Você pode cancelar quando quiser. A gente também.</p>
           </div>
         </motion.div>
       </section>
@@ -222,7 +222,7 @@ export default function HomePage() {
             >
               <span className="text-[10px] font-bold uppercase tracking-wider text-[#F72585]">{p.tag}</span>
               <h3 className="font-[family-name:var(--font-cormorant)] text-2xl text-[#f5f0e6] mb-2 mt-1 group-hover:text-[#F72585] transition">{p.name}</h3>
-              <p className="text-sm text-[#9AABAF]/80 mb-4 leading-relaxed">{p.desc}</p>
+              <p className="text-sm text-[#9AA4AF]/80 mb-4 leading-relaxed">{p.desc}</p>
               <div className="flex items-center justify-between">
                 <span className="text-xl font-bold text-[#F72585]">{p.price}</span>
                 <span className="text-[#F72585] text-sm font-bold uppercase tracking-wider group-hover:translate-x-1 transition-transform">Ver →</span>
@@ -233,10 +233,10 @@ export default function HomePage() {
       </section>
 
       {/* === BARRA DE PROGRESSO DE SCROLL === */}
-      <motion.div style={{ scaleX: progress }} className="fixed top-0 left-0 right-0 h-[3px] bg-gradient-to-r from-[#F72585] via-[#e85d8a] to-[#9AABAF] z-[100] origin-left" />
+      <motion.div style={{ scaleX: progress }} className="fixed top-0 left-0 right-0 h-[3px] bg-gradient-to-r from-[#F72585] via-[#e85d8a] to-[#9AA4AF] z-[100] origin-left" />
 
       {/* === INDICADOR DE HORA — TOQUE ÚNICO === */}
-      <div className="fixed bottom-6 right-6 z-40 px-4 py-2 rounded-full bg-[#240046]/80 backdrop-blur border border-[#F72585]/30 text-[#9AABAF] text-xs font-mono hidden lg:flex items-center gap-2">
+      <div className="fixed bottom-6 right-6 z-40 px-4 py-2 rounded-full bg-[#240046]/80 backdrop-blur border border-[#F72585]/30 text-[#9AA4AF] text-xs font-mono hidden lg:flex items-center gap-2">
         <span className="w-1.5 h-1.5 rounded-full bg-[#F72585] animate-pulse" />
         <span>{time || '...'}</span>
       </div>
@@ -247,7 +247,7 @@ export default function HomePage() {
 @keyframes float { 0%,100%{transform:translateY(0);} 50%{transform:translateY(-6px);} }
 .glass-card { background: rgba(36,0,70,0.65); backdrop-filter: blur(24px) saturate(140%); border: 1px solid rgba(240,72,133,0.12); border-radius: 1.5rem; }
 .glass-card:hover { border-color: rgba(240,72,133,0.35); box-shadow: 0 8px 32px rgba(240,72,133,0.15); }
-.glass-text { color: #9AABAF; text-shadow: 0 1px 0 rgba(255,255,255,0.05); }
+.glass-text { color: #9AA4AF; text-shadow: 0 1px 0 rgba(255,255,255,0.05); }
 .btn-rosa { background: linear-gradient(135deg, #F72585 0%, #e85d8a 100%); color: #fff; font-weight: 700; padding: 0.875rem 2rem; border-radius: 9999px; border: none; box-shadow: 0 8px 32px rgba(240,72,133,0.3); transition: all 0.3s ease; }
 .btn-rosa:hover { box-shadow: 0 16px 48px rgba(240,72,133,0.5); transform: translateY(-2px); }
 `}</style>

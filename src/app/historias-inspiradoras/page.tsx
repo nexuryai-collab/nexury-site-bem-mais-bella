@@ -1,1 +1,1 @@
-export default function Page() { return <main className="min-h-screen bg-[#0f051a] text-[#f5f0e6] p-12"><h1 className="text-5xl text-[#F72585]">Histórias Inspiradoras</h1><p className="text-[#9AABAF] mt-4">Categoria Bem Mais Bella — conteudo em breve.</p></main> }
+export default function Page() { return <main className="min-h-screen bg-[#0f051a] text-[#f5f0e6] p-12"><h1 className="text-5xl text-[#F72585]">Histórias Inspiradoras</h1><p className="text-[#9AA4AF] mt-4">Categoria Bem Mais Bella — conteudo em breve.</p></main> }

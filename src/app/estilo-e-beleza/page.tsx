@@ -28,7 +28,7 @@ export default function EstiloBelezaPage() {
           <h1 className="font-[family-name:var(--font-cormorant)] text-6xl lg:text-8xl font-light text-[#f5f0e6] leading-[0.9] mb-6">
             <KineticText text="Estilo e Beleza" />
           </h1>
-          <p className="text-xl text-[#9AABAF] max-w-2xl">Moda, beleza, cuidados e autocuidado. Para a mulher que sabe que estilo é uma escolha — e toda escolha merece ser consciente.</p>
+          <p className="text-xl text-[#9AA4AF] max-w-2xl">Moda, beleza, cuidados e autocuidado. Para a mulher que sabe que estilo é uma escolha — e toda escolha merece ser consciente.</p>
         </div>
       </section>
 
@@ -37,7 +37,7 @@ export default function EstiloBelezaPage() {
         <div className="max-w-6xl mx-auto px-6">
           <div className="flex gap-3 overflow-x-auto pb-2 scrollbar-hide">
             {subcategorias.map((s, i) => (
-              <motion.a key={s} href="#" initial={{ opacity:0,x:20 }} animate={{ opacity:1,x:0 }} transition={{delay:i*0.05}} className="flex-shrink-0 px-5 py-2 rounded-full bg-[#45495f]/60 text-[#9AABAF] border border-[rgba(240,72,133,0.15)] hover:border-[#F72585] hover:text-[#F72585] transition-all text-sm font-medium">{s}</motion.a>
+              <motion.a key={s} href="#" initial={{ opacity:0,x:20 }} animate={{ opacity:1,x:0 }} transition={{delay:i*0.05}} className="flex-shrink-0 px-5 py-2 rounded-full bg-[#45495f]/60 text-[#9AA4AF] border border-[rgba(240,72,133,0.15)] hover:border-[#F72585] hover:text-[#F72585] transition-all text-sm font-medium">{s}</motion.a>
             ))}
           </div>
         </div>
@@ -68,8 +68,8 @@ export default function EstiloBelezaPage() {
                 </div>
                 <div className="p-6">
                   <h3 className="font-[family-name:var(--font-cormorant)] text-2xl text-[#f5f0e6] leading-tight mb-3 group-hover:text-[#F72585] transition-colors">{a.title}</h3>
-                  <p className="text-[#9AABAF]/80 text-sm leading-relaxed mb-4">{a.desc}</p>
-                  <div className="flex items-center justify-between text-xs text-[#9AABAF]/60">
+                  <p className="text-[#9AA4AF]/80 text-sm leading-relaxed mb-4">{a.desc}</p>
+                  <div className="flex items-center justify-between text-xs text-[#9AA4AF]/60">
                     <span>Por <strong className="text-[#F72585]">{a.author}</strong></span>
                     <span>⏱ {a.read}</span>
                   </div>
@@ -94,9 +94,9 @@ export default function EstiloBelezaPage() {
         <motion.div initial={{ opacity:0, y:30 }} whileInView={{ opacity:1, y:0 }} viewport={{ once:true }} className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-[#240046] to-[#45495f] p-10 lg:p-14 border border-[rgba(240,72,133,0.2)]">
           <div className="relative z-10 text-center">
             <h2 className="font-[family-name:var(--font-cormorant)] text-4xl lg:text-6xl text-[#f5f0e6] mb-4">Receba o Essencial</h2>
-            <p className="text-[#9AABAF] mb-8 max-w-xl mx-auto">Dicas de estilo e beleza — direto para você. Sem spam.</p>
+            <p className="text-[#9AA4AF] mb-8 max-w-xl mx-auto">Dicas de estilo e beleza — direto para você. Sem spam.</p>
             <form className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto" onSubmit={e => { e.preventDefault(); (e.target as HTMLFormElement).reset(); alert('Inscrição confirmada.'); }}>
-              <input type="email" placeholder="Seu melhor e-mail" required className="flex-1 px-6 py-4 rounded-full bg-[#240046]/80 border border-[rgba(240,72,133,0.3)] text-[#f5f0e6] placeholder:text-[#9AABAF]/40 focus:outline-none focus:border-[#F72585] transition-all" />
+              <input type="email" placeholder="Seu melhor e-mail" required className="flex-1 px-6 py-4 rounded-full bg-[#240046]/80 border border-[rgba(240,72,133,0.3)] text-[#f5f0e6] placeholder:text-[#9AA4AF]/40 focus:outline-none focus:border-[#F72585] transition-all" />
               <button type="submit" className="btn-rosa px-8 py-4 rounded-full font-bold whitespace-nowrap">Quero Receber</button>
             </form>
           </div>
