@@ -163,7 +163,7 @@ Se você reconhece três ou mais desses sinais, **procure um profissional**. Voc
 
 ## Conclusão
 
-Em 2026, a saúde mental deixou de ser um “extra” para se tornar um **pilar da qualidade de vida**. A combinação de autoconhecimento, tecnologia acessível e apoio profissional criou um ecossistema onde o bem-estar emocional é valorizado como tal. Para as mulheres brasileiras, que historicamente carregam múltiplas responsabilidades, essa mudança é transformadora: elas não apenas se cuidam, mas também inspiram outras a fazerem o mesmo.
+Em 2026, a saúde mental deixou de ser um “extra” para se tornar um **pilar da qualidade de vida** — uma mudança cultural profunda que afeta como as mulheres brasileiras trabalham, se relacionam, cuidam das famílias e se olham no espelho. O movimento de autocuidado não é apenas uma tendência estética; é uma resposta à sobrecarga emocional que muitas mulheres carregam há gerações. Quando uma mulher decide cuidar de sua mente, ela não está apenas melhorando sua própria vida — está criando um modelo para suas filhas, suas amigas, suas colegas. A saúde mental, portanto, é um ato coletivo, uma revolução silenciosa que começa dentro de cada uma, mas se propaga como uma onda de esperança.
 
 > A saúde mental não é um luxo, é uma necessidade básica. Quando cuidamos da mente, cuidamos de tudo o resto: do trabalho, das relações, da família e da própria autoestima.
 
