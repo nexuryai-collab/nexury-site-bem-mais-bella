@@ -31,8 +31,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <header className="sticky top-0 z-50 bg-[#240046]/90 backdrop-blur-xl border-b border-[rgba(240,72,133,0.15)]">
           <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between gap-4">
             <a href="/" className="flex items-center gap-3 group">
-              <div className="w-10 h-10 rounded-full bg-gradient-to-br from-[#F72585] to-[#e85d8a] flex items-center justify-center shadow-[0_0_20px_rgba(240,72,133,0.3)] group-hover:shadow-[0_0_30px_rgba(240,72,133,0.5)] transition-all">
-                <span className="text-white font-serif text-xl">B</span>
+              <div className="w-20 h-20 rounded-full overflow-hidden ring-1 ring-[rgba(247,37,133,0.4)] shadow-[0_0_20px_rgba(240,72,133,0.3)] group-hover:shadow-[0_0_30px_rgba(240,72,133,0.5)] transition-all">
+                <img src="/images/logo-bem-mais-bella.png" alt="Bem Mais Bella" className="w-full h-full object-contain scale-110" />
               </div>
               <div>
                 <h1 className="text-xl font-[family-name:var(--font-cormorant)] text-[#f5f0e6] leading-none tracking-tight">Bem Mais Bella</h1>
