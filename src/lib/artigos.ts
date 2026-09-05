@@ -64,7 +64,14 @@ export function getArtigo(slug: string): Artigo | null {
   const m = safeMatter(raw);
   if (!m) return null;
   const { data, content } = m;
-  const hero = data.images?.hero || data.ogImage || '';
+  // Hero: sempre tenta carregar, usa fallback se não existir
+  const hero = data.images?.hero || data.ogImage || FALLBACK;
+  // Seções: apenas as que realmente existem no disco
+  const sec1 = data.images?.section1 ? (exists(data.images.section1) ? data.images.section1 : '') : '';
+  const sec2 = data.images?.section2 ? (exists(data.images.section2) ? data.images.section2 : '') : '';
+  const sec3 = data.images?.section3 ? (exists(data.images.section3) ? data.images.section3 : '') : '';
+  const sec4 = data.images?.section4 ? (exists(data.images.section4) ? data.images.section4 : '') : '';
+  const sec5 = data.images?.section5 ? (exists(data.images.section5) ? data.images.section5 : '') : '';
   return {
     slug: data.slug || slug,
     title: data.title || slug,
@@ -74,8 +81,18 @@ export function getArtigo(slug: string): Artigo | null {
     author: data.author || 'Bem Mais Bella',
     publishedAt: data.publishedAt || '',
     readingTime: data.readingTime || '',
-    hero: exists(hero) ? hero : FALLBACK,
+    hero,
     content,
+    images: {
+      hero,
+      section1: sec1,
+      section2: sec2,
+      section3: sec3,
+      section4: sec4,
+      section5: sec5,
+      // Total de imagens disponíveis (para contagem no frontend)
+      totalSections: sec1 || sec2 || sec3 || sec4 || sec5 ? 5 : 1,
+    },
   };
 }
 
