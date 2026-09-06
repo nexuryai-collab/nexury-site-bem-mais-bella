@@ -129,6 +129,8 @@ O futuro da beleza é brilhante, inclusivo e tecnológicas. E você faz parte de
 - [beleza-inclusiva-2026](https://bemmaisbella.com.br/artigos/beleza-inclusiva-2026) — Beleza inclusiva
 - [saude-mental-digital-2026](https://bemmaisbella.com.br/artigos/saude-mental-digital-2026) — Saúde mental digital
 - [glow-up-feminino-2026](https://bemmaisbella.com.br/artigos/glow-up-feminino-2026) — Glow up feminino
+- [moda-inclusiva-hype-2026](https://bemmaisbella.com.br/artigos/moda-inclusiva-hype-2026) — Moda inclusiva com hype 2026
+- [tendencias-modas-beleza-hype-2026](https://bemmaisbella.com.br/artigos/tendencias-modas-beleza-hype-2026) — Tendências de moda e beleza hype 2026
 
 ---
 
