@@ -37,7 +37,7 @@ labels = [
     ('MISTURA DE ESTILOS', 'LIBERDADE TOTAL'),
     ('RESISTENCIA CULTURAL', 'ARTE E ALMA')]
 
-for i, ((c, l, s), fn_name) in enumerate(zip(colors, ['hero'] + [f'sec{i}' for i in range(1,6)]))):
+for i, ((c, l, s), fn_name) in enumerate(zip(colors, ['hero'] + [f'sec{i}' for i in range(1, 6)])):
     fn = f'{base}/{fn_name}.webp'
     path, size = create_img(1600, 800, c, l, fn, s)
     print(f"OK: {path} ({size:.0f}KB)")
