@@ -27,6 +27,22 @@ const INTENCOES = [
 ];
 
 export default function HomePage() {
+  /**
+   * A faixa do topo alterna area e novidade: primeiro a area com quantos
+   * artigos ela tem, depois o titulo de um dos ultimos publicados. Assim ela
+   * diz o que mudou, em vez de repetir o menu deitado.
+   */
+  const faixa: { tipo: 'area' | 'novo'; texto: string; url: string; total?: number }[] = [];
+  const novidades = home.novidades.slice(0, 5);
+  home.populares.forEach((c, i) => {
+    faixa.push({ tipo: 'area', texto: c.nome, url: '/' + c.slug, total: c.total });
+    const n = novidades[i];
+    if (n) {
+      const curto = n.title.length > 46 ? n.title.slice(0, 44).trimEnd() + '…' : n.title;
+      faixa.push({ tipo: 'novo', texto: curto, url: '/artigos/' + n.slug });
+    }
+  });
+
   const { scrollY } = useScroll();
   const parado = useReducedMotion();
   const heroY = useTransform(scrollY, [0, 500], [0, 200]);
@@ -109,20 +125,37 @@ export default function HomePage() {
         </motion.div>
       </section>
 
-      {/* === MARQUEE === */}
+      {/* === FAIXA VIVA === */}
       <section className="bg-[#1a0a2e] py-5 overflow-hidden border-y border-[rgba(240,72,133,0.15)]">
-        <div className="flex gap-6 animate-[marquee_40s_linear_infinite] whitespace-nowrap w-max">
-          {[...Array(2)].flatMap((_, i) =>
-            home.populares.map(c => (
-              <a
-                key={`${i}-${c.slug}`}
-                href={'/' + c.slug}
-                className="inline-flex items-center gap-2 px-6 py-2 rounded-full bg-[#45495f]/40 text-[#9AA4AF] border border-[rgba(240,72,133,0.15)] hover:border-[#F72585] hover:text-[#F72585] transition-all text-sm font-medium"
-              >
-                <span className="w-1.5 h-1.5 rounded-full bg-[#F72585]" /> {c.nome}
-              </a>
-            ))
-          )}
+        <div className="faixa-viva gap-6 whitespace-nowrap">
+          {[0, 1].map(volta => (
+            <div key={volta} className="flex gap-6 pr-6" aria-hidden={volta === 1}>
+              {faixa.map(item =>
+                item.tipo === 'area' ? (
+                  <a
+                    key={volta + item.url}
+                    href={item.url}
+                    className="inline-flex items-center gap-2 px-6 py-2 rounded-full bg-[#45495f]/40 text-[#9AA4AF] border border-[rgba(240,72,133,0.15)] hover:border-[#F72585] hover:text-[#F72585] transition-all text-sm font-medium"
+                  >
+                    <span className="w-1.5 h-1.5 rounded-full bg-[#F72585]" />
+                    {item.texto}
+                    <span className="text-[#9AA4AF]/45 tabular-nums">{item.total}</span>
+                  </a>
+                ) : (
+                  <a
+                    key={volta + item.url}
+                    href={item.url}
+                    className="inline-flex items-center gap-2 px-6 py-2 rounded-full bg-[#F72585]/10 text-[#f5f0e6] border border-[#F72585]/35 hover:border-[#F72585] hover:bg-[#F72585]/20 transition-all text-sm"
+                  >
+                    <span className="text-[9px] uppercase tracking-[0.18em] font-bold text-[#F72585]">
+                      novo
+                    </span>
+                    {item.texto}
+                  </a>
+                )
+              )}
+            </div>
+          ))}
         </div>
       </section>
 

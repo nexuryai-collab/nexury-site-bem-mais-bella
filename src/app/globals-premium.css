@@ -100,3 +100,53 @@ h1,h2,h3,h4 { font-family: 'Cormorant Garamond', serif; }
     transition: none;
   }
 }
+
+/* --------------------------------------------------------------------------
+   Faixa deslizante (marquee) do topo da home.
+
+   A classe `animate-[marquee_...]` era usada no page.tsx e o keyframe não
+   existia em CSS nenhum — mesmo caso do `.btn-rosa`. A faixa ficava parada,
+   parecendo uma lista cortada pela borda da tela em vez de uma esteira.
+
+   A translação é de -50%: o conteúdo é duplicado no JSX, então meia volta
+   fecha o ciclo sem salto visível.
+   -------------------------------------------------------------------------- */
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+.faixa-viva {
+  display: flex;
+  width: max-content;
+  animation: marquee 48s linear infinite;
+  will-change: transform;
+}
+
+/* Parar ao passar o mouse: link em movimento é difícil de clicar. */
+.faixa-viva:hover,
+.faixa-viva:focus-within {
+  animation-play-state: paused;
+}
+
+/* Quem pediu menos movimento recebe a faixa parada, e ela vira uma lista
+   normal com rolagem — o conteúdo continua todo acessível. */
+@media (prefers-reduced-motion: reduce) {
+  .faixa-viva {
+    animation: none;
+    width: 100%;
+    overflow-x: auto;
+    /* Barra de rolagem escondida, rolagem preservada: a faixa vira uma
+       esteira que a pessoa empurra com o dedo ou com o trackpad, em vez de
+       uma caixa com uma barra cinza atravessada no meio do design. */
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .faixa-viva::-webkit-scrollbar {
+    display: none;
+  }
+  /* Sem movimento automatico, a segunda copia so duplicaria a rolagem. */
+  .faixa-viva > div[aria-hidden='true'] {
+    display: none;
+  }
+}
