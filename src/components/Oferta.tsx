@@ -45,11 +45,29 @@ export default function Oferta({ areaSlug }: { areaSlug: string }) {
             ) : null}
           </div>
 
-          {o.afiliado ? (
-            <p className="text-[#9AA4AF]/55 text-xs mt-5 leading-relaxed">
-              Este link é de afiliado: se você comprar, o Bem Mais Bella recebe uma comissão, sem
-              custo a mais para você. A comissão não muda o que a gente escreve sobre o produto.
-            </p>
+          {o.afiliado || o.tipo === 'achadinho' ? (
+            <div className="mt-6 pt-5 border-t border-[rgba(240,72,133,0.12)] space-y-2">
+              {o.oque ? (
+                <p className="text-[#9AA4AF]/70 text-xs leading-relaxed">
+                  <strong className="text-[#9AA4AF]">O que é:</strong> {o.oque}. As promessas de
+                  resultado são do fabricante, não nossas.
+                </p>
+              ) : null}
+              <p className="text-[#9AA4AF]/70 text-xs leading-relaxed">
+                <strong className="text-[#9AA4AF]">
+                  {o.testado ? 'Testado por aqui.' : 'Não testamos este produto.'}
+                </strong>{' '}
+                {o.testado
+                  ? 'Alguém do Bem Mais Bella usou antes de indicar.'
+                  : 'É uma indicação, não uma recomendação de uso. Quando alguém daqui testar, esta linha muda.'}
+              </p>
+              {o.afiliado ? (
+                <p className="text-[#9AA4AF]/55 text-xs leading-relaxed">
+                  Link de afiliado: se você comprar, o Bem Mais Bella recebe comissão, sem custo a
+                  mais para você. A comissão não muda o que a gente escreve.
+                </p>
+              ) : null}
+            </div>
           ) : null}
         </div>
       </div>

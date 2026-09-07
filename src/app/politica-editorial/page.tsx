@@ -93,7 +93,15 @@ export default function Page() {
         Conteúdo patrocinado é identificado como tal no próprio texto. Link de afiliado é
         identificado onde aparece, com a informação de que o site recebe comissão e de que quem
         compra não paga a mais por isso. <strong>A existência de comissão não muda a avaliação</strong>:
-        produto ruim continua descrito como ruim, e produto que ninguém daqui usou não é indicado.
+        produto ruim continua descrito como ruim.
+      </p>
+      <p>
+        Sobre o que indicamos, há duas situações e elas nunca se misturam. Quando alguém daqui usou
+        o produto, o bloco diz <strong>"testado por aqui"</strong>. Quando não usou, diz
+        <strong> "não testamos este produto"</strong> — e continua sendo uma indicação, não uma
+        recomendação de uso. A frase aparece sozinha, tirada do dado; ninguém precisa lembrar de
+        escrevê-la. E promessa de resultado que venha na página do fabricante é dele, não nossa:
+        não repetimos número de vendas, nota de avaliação nem registro que não conferimos na origem.
       </p>
 
       <h2>Quando erramos</h2>

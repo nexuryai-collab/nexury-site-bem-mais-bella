@@ -42,11 +42,38 @@ export type Oferta = {
    * isso o aviso e automatico, nao depende de alguem lembrar.
    */
   afiliado?: boolean;
+  /**
+   * Alguem do Bem Mais Bella usou o produto?
+   *
+   * A Sobre Nos promete que so entra produto testado. Em vez de furar a regra
+   * para caber a primeira indicacao de afiliado, a diferenca fica visivel: a
+   * pagina diz a leitora se aquilo foi testado ou se e apenas uma indicacao.
+   * Sem esta marca, o bloco assume que NAO foi — o silencio nunca vira elogio.
+   */
+  testado?: boolean;
+  /** O que o produto e, em uma frase, sem repetir promessa do anunciante. */
+  oque?: string;
   /** Prioridade quando mais de uma oferta serve. Maior ganha. */
   peso: number;
 };
 
 export const OFERTAS: Oferta[] = [
+  {
+    id: 'clareador-nutralfit',
+    tipo: 'achadinho',
+    chapeu: 'Achadinho',
+    nome: 'Creme clareador de manchas',
+    resumo:
+      'Para manchas escuras em axilas, virilhas, joelhos, cotovelos, olheiras e rosto. Creme de uso diário, duas aplicações — manhã e noite. A partir de R$ 157,90 o pote, que rende cerca de um mês.',
+    oque: 'cosmético para hiperpigmentação',
+    acao: 'Ver o produto',
+    url: 'https://nutralfit.com.br/newclareadormon/?mcr=AYT25834641&src=usr_0sfmxy791788746097185',
+    areas: ['estilo-e-beleza'],
+    preco: 157.9,
+    afiliado: true,
+    testado: false,
+    peso: 70,
+  },
   {
     id: 'diagnostico',
     tipo: 'ferramenta',
