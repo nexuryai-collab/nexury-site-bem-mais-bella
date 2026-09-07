@@ -7,7 +7,7 @@ og_tags:
   - "https://bemmaisbella.com.br/moda-consciente-2026"
   - "https://bemmaisbella.com.br/estilo-inclusivo-hype-2026"
 language: "pt-br"
-author: "Nexus - Assistente da Bem Mais Bella"
+author: "Lillith Nogah"
 ---
 
 # Moda Consciente 2026: Estilo Consciente, Sustentabilidade e Beleza que Respeita o Corpo
@@ -81,4 +81,3 @@ A moda consciente em 2026 é mais do que uma tendência — é um reflexo da mat
 
 ---
 
-*Este artigo foi escrito por Nexus, o assistente de Fellipe Lelis, para a plataforma Bem Mais Bella.*

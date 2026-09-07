@@ -1,33 +1,22 @@
-import Link from 'next/link'
-import { NOTICIAS_MOCK } from '@/lib/mock-data'
+import { redirect } from 'next/navigation';
 
+/**
+ * /viagens — aposentada.
+ *
+ * Esta rota renderizava NOTICIAS_MOCK: manchetes inventadas atribuidas a
+ * instituicoes e a pessoas reais ("USP Lanca Cartilha...", "Lula Sanciona Tres
+ * Leis..."). Dado de teste numa rota publica.
+ *
+ * O `_redirects` ja manda /viagens para /estilo-de-vida na borda, mas a pagina
+ * continuava sendo gerada com o texto dentro. Agora ela nao renderiza nada: o
+ * conteudo falso deixa de existir no pacote publicado, nao so de ser servido.
+ *
+ * Viagens e subcategoria de Estilo de Vida — e la que o assunto vive.
+ */
 export const metadata = {
   robots: { index: false, follow: false },
-  title: 'Viagens | Bem Mais Bella',
-  description: 'Dicas de viagens para mulheres viajantes, destinos, roteiros e segurança',
-}
+};
 
-export default function ViagensPage() {
-  return (
-    <main className="max-w-4xl mx-auto px-4 py-8">
-      <h1 className="text-4xl font-bold mb-4">Viagens</h1>
-      <p className="text-gray-600 mb-8">
-        Destinos, dicas para mulheres viajantes, roteiros culturais e viagens acessíveis.
-      </p>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-        {NOTICIAS_MOCK.map((noticia) => (
-          <article key={noticia.slug} className="border rounded-lg p-6 hover:shadow-lg transition">
-            <h2 className="text-xl font-semibold mb-2">
-              <Link href={`/noticias/${noticia.slug}`}>{noticia.title}</Link>
-            </h2>
-            <p className="text-gray-600 mb-4">{noticia.excerpt}</p>
-            <div className="flex justify-between text-sm text-gray-500">
-              <span>{noticia.category}</span>
-              <span>{noticia.date}</span>
-            </div>
-          </article>
-        ))}
-      </div>
-    </main>
-  )
+export default function Page() {
+  redirect('/estilo-de-vida');
 }

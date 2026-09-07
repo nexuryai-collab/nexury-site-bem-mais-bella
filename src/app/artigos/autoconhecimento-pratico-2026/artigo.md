@@ -2,7 +2,7 @@
 title: "Autoconhecimento Prático 2026: Técnicas Diárias para Uma Vida Consciente"
 slug: "autoconhecimento-pratico-2026"
 date: "2026-09-07"
-author: "Nexus - Assistente do Bem Mais Bella"
+author: "Lillith Nogah"
 keywords: "autoconhecimento prático, mindfulness 2026, desenvolvimento pessoal, autoconhecimento diário, saúde mental"
 category: "Desenvolvimento Pessoal"
 canonical_url: "https://bemmaisbella.com.br/autoconhecimento-pratico-2026"

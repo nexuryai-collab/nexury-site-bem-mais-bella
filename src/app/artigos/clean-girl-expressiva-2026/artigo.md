@@ -25,8 +25,6 @@ Este artigo explora como a moda feminina brasileira está redefinindo o que sign
 
 ## O Que Mudou: Da Austeridade à Expressão
 
-[IMAGEM: section-clean-girl-hero.webp]
-
 A estética clean original, popularizada por influenciadoras de Nova York e Londres, pregava uma uniformidade quase clínica: cabelo liso, pele de porcelana, roupas em tons neutros e uma paleta cromática que beirava o monótono. No Brasil, onde a diversidade é a regra e não a exceção, essa estética encontrou resistência natural. Mulheres de São Paulo, Salvador, Recife e Belém começaram a adaptar o conceito às suas realidades — incorporando estampas tropicais, texturas artesanais, maquiagem colorida e peças de moda sustentável produzidas localmente. O resultado? Uma fusão única que celebra tanto a leveza quanto a exuberância tipicamente brasileira.
 
 Segundo dados de tendência do Google Trends Brasil para 2026, buscas por "moda inclusiva 2026" cresceram 312% em comparação ao ano anterior. Termos como "estilo expressivo", "beleza autêntica" e "moda consciente brasileira" também estão entre os mais pesquisados. Isso confirma uma mudança cultural profunda: as mulheres brasileiras não querem apenas seguir tendências — querem criá-las. A era do consumidor passivo acabou. Em 2026, a mulher brasileira é protagonista, curadora e criadora do próprio estilo.
@@ -34,8 +32,6 @@ Segundo dados de tendência do Google Trends Brasil para 2026, buscas por "moda 
 A evolução da estética clean no Brasil reflete também um movimento maior de autocuidado emocional. Em vez de se esconder atrás de uma máscara de perfeição, a mulher contemporânea busca se expressar com honestidade. E isso, no contexto da moda, se traduz em escolhas que respeitam o corpo, o orçamento, o clima e a identidade cultural. Não é sobre seguir uma regra — é sobre criar a própria regra.
 
 ## Como Aplicar o Clean Girl 2.0 no Seu Dia a Dia
-
-[IMAGEM: section-tendencias-moda.webp]
 
 A aplicação prática da estética expressiva começa com uma mudança de mentalidade. Em vez de perguntar "o que está na moda?", a pergunta passa a ser "o que me faz sentir viva?". Abaixo, estratégias concretas baseadas em tendências observadas na Vogue Brasil e em análises de comportamento de consumo da Carta Capital:
 
@@ -59,8 +55,6 @@ A moda inclusiva não é um nicho — é o futuro. Roupas que respeitam diferent
 
 ## A Voz das Mulheres: Histórias Reais que Transformam
 
-[IMAGEM: section-mulheres-autenticas.webp]
-
 Em entrevistas realizadas com mulheres de diversas regiões do Brasil para o projeto editorial da Marie Claire Brasil, um padrão emergiu com clareza inquestionável: a mulher brasileira de 2026 quer ser vista como é, não como deveria ser. Uma entrevistada de 42 anos, mãe de três filhos e empreendedora em Belo Horizonte, disse com uma simplicidade desarmante: "Eu passei anos tentando me encaixar no que a moda dizia ser bonito. Hoje, uso o que me faz sentir poderosa — e isso inclui vestidos coloridos, maquiagem vibrante e cabelo natural." E completou: "Quando eu me aceitei, o mundo me aceitou também. Não o contrário."
 
 Esse tipo de relato não é exceção — é a norma. A estética expressiva brasileira é, no fundo, uma forma de resistência cultural. Quando uma mulher escolhe vestir sua identidade em vez de se conformar a um padrão externo, ela está praticando uma forma de autocuidado profundo e político. Ela está dizendo: eu decido quem eu sou. Eu escolho como me apresento. Eu tenho poder sobre a minha própria narrativa. E essa é a forma mais genuína de empowerment que existe.
@@ -76,8 +70,6 @@ Para as mulheres que estão passando por momentos difíceis — seja uma separa�
 ---
 
 ## Tendências Específicas por Região Brasileira
-
-[IMAGEM: section-regioes-brasil.webp]
 
 O Brasil é vasto e diverso, e a moda expressiva reflete essa diversidade com riqueza impressionante. Abaixo, um panorama das tendências que estão emergindo em diferentes regiões, com base em análises de moda publicadas na Carta Capital e observações de comportamento de consumo de mercado:
 
@@ -105,8 +97,6 @@ Moda inspirada na biodiversidade. Cores intensas, estampas de folhas, flores e a
 
 ## O Futuro da Moda Brasileira: Inclusão como Padrão
 
-[IMAGEM: section-futuro-inclusivo.webp]
-
 A moda brasileira de 2026 está caminhando para um futuro em que a inclusão não será uma categoria separada, mas o padrão. Marcas que não oferecem diversidade de tamanhos, estilos e preços estão ficando para trás. Consumidoras estão exigindo transparência, sustentabilidade e autenticidade — e estão recompensando as marcas que atendem a essas exigências com lealdade e divulgação orgânica.
 
 Segundo a WGSN, uma das principais consultorias de tendências globais, a moda de 2026 será definida por três pilares: autenticidade, sustentabilidade e expressão cultural. O Brasil, com sua riqueza cultural e sua população diversa, está naturalmente posicionado para liderar esse movimento. Não é por acaso que marcas brasileiras estão conquistando espaço internacional com propostas que celebram identidade, diversidade e responsabilidade socioambiental.
@@ -116,8 +106,6 @@ Para você, leitora, isso significa que não precisa mais escolher entre estar n
 ---
 
 ## Dicas Práticas para Adotar a Estética Expressiva Hoje
-
-[IMAGEM: section-dicas-praticas.webp]
 
 **1. Faça uma limpeza consciente no seu guarda-roupa**
 
@@ -146,8 +134,6 @@ A expressão autêntica não significa jogar tudo fora e começar do zero. Signi
 ---
 
 ## Conclusão: A Beleza Que Você Já Possui
-
-[IMAGEM: section-conclusao-bela.webp]
 
 A estética expressiva brasileira de 2026 não é uma tendência passageira — é uma revolução cultural. Ela afirma que a beleza não é um padrão a ser alcançado, mas uma verdade a ser celebrada. Quando você veste a sua autenticidade, quando escolhe cores que refletem a sua alegria, quando apoia marcas que respeitam o planeta e as pessoas, você está fazendo mais do que seguir uma tendência: você está construindo um mundo mais belo.
 

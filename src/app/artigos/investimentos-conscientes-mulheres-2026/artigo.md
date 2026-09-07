@@ -1,28 +1,19 @@
+---
+title: "Investimentos Conscientes para Mulheres em 2026"
+slug: "investimentos-conscientes-mulheres-2026"
+description: "Descubra como investimentos conscientes estão transformando a vida financeira de mulheres brasileiras em 2026, com estratégias sustentáveis e alinhadas a valores."
+keywords: "investimentos conscientes 2026"
+canonical: "https://bemmaisbella.com.br/artigos/investimentos-conscientes-mulheres-2026"
+category: "Carreira e Finanças"
+subcategory: "Investimentos Conscientes"
+author: "Lillith Nogah"
+publishDate: "2026-09-07"
+readingTime: "20 min"
+ogTitle: "Investimentos Conscientes 2026 – Financeira com Propósito para Mulheres"
+ogDescription: "Explore como investimentos conscientes estão revolucionando a vida financeira de mulheres brasileiras em 2026, com foco em sustentabilidade, ética e retorno financeiro sólido."
+---
+
 # Investimentos Conscientes para Mulheres em 2026
-
-## Slug: investimentos-conscientes-mulheres-2026
-
-## Título: Investimentos Conscientes para Mulheres em 2026
-
-## Meta Description (155 chars): Descubra como investimentos conscientes estão transformando a vida financeira de mulheres brasileiras em 2026, com estratégias sustentáveis e alinhadas a valores.
-
-## Palavra-chave: investimentos conscientes 2026
-
-## Canonical URL: https://bemmaisbella.com.br/artigos/investimentos-conscientes-mulheres-2026
-
-## OG Title: Investimentos Conscientes 2026 – Financeira com Propósito para Mulheres
-
-## OG Description: Explore como investimentos conscientes estão revolucionando a vida financeira de mulheres brasileiras em 2026, com foco em sustentabilidade, ética e retorno financeiro sólido.
-
-## Autor: Lillith Nogah
-
-## Categoria: Carreira e Finanças
-
-## Subcategoria: Investimentos Conscientes
-
-## Data de Publicação: 2026-09-07
-
-## Tempo de Leitura: 20 min
 
 ## Palavras: 2750
 
@@ -320,4 +311,3 @@ Em 2026, investir com consciência está mais acessível do que nunca:
 
 ---
 
-*Artigo gerado automaticamente pelo Nexus (Nexus = segunda mente de Fellipe Lelis) para Bem Mais Bella. Palavras: 2750.*

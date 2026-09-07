@@ -51,13 +51,13 @@
    "date": "2026-09-11"
   },
   {
-   "slug": "skinimalismo-2026",
-   "title": "Skinimalismo 2026: A Revolução da Pele Natural com Poucos Ativos",
+   "slug": "autocuidado-brasileiro-2026",
+   "title": "Autocuidado Brasileiro 2026: O Hype do Bem-Estar que Está Transformando Vidas",
    "cat": "estilo-e-beleza",
-   "desc": "Descubra o skinimalismo 2026: a revolução da pele natural com poucos ativos. Saiba como simplificar sua rotina de skincare, cuidar da saúde da pele e alcançar resultados duradouros com menos produtos.",
-   "img": "/artigos/skinimalismo-2026/hero.webp",
+   "desc": "O movimento de autocuidado brasileiro em 2026: rituais de bem-estar inspirados na biodiversidade nativa, práticas holísticas e a nova filosofia de se amar primeiro.",
+   "img": "/artigos/autocuidado-brasileiro-2026/hero.webp",
    "author": "Lillith Nogah",
-   "read": "",
+   "read": "22 min",
    "date": "2026-09-10"
   }
  ],
@@ -65,57 +65,57 @@
   {
    "slug": "estilo-e-beleza",
    "nome": "Estilo e Beleza",
-   "total": 51,
+   "total": 67,
    "img": "/categorias/estilo-e-beleza.webp"
   },
   {
    "slug": "saude-e-bem-estar",
    "nome": "Saúde e Bem-Estar",
-   "total": 23,
+   "total": 34,
    "img": "/categorias/saude-e-bem-estar.webp"
   },
   {
    "slug": "maternidade-e-familia",
    "nome": "Maternidade e Família",
-   "total": 10,
+   "total": 16,
    "img": "/categorias/maternidade-e-familia.webp"
   },
   {
    "slug": "casamentos-com-proposito",
    "nome": "Casamentos com Propósito",
-   "total": 5,
+   "total": 6,
    "img": "/categorias/casamentos-com-proposito.webp"
   },
   {
    "slug": "relacionamentos-conscientes",
    "nome": "Relacionamentos Conscientes",
-   "total": 6,
+   "total": 7,
    "img": "/categorias/relacionamentos-conscientes.webp"
   },
   {
    "slug": "carreira-e-financas",
    "nome": "Carreira e Finanças",
-   "total": 14,
+   "total": 21,
    "img": "/categorias/carreira-e-financas.webp"
   },
   {
    "slug": "estilo-de-vida",
    "nome": "Estilo de Vida",
-   "total": 10,
+   "total": 14,
    "img": "/categorias/estilo-de-vida.webp"
   },
   {
    "slug": "desenvolvimento-pessoal",
    "nome": "Desenvolvimento Pessoal",
-   "total": 19,
+   "total": 25,
    "img": "/categorias/desenvolvimento-pessoal.webp"
   },
   {
    "slug": "historias-inspiradoras",
    "nome": "Histórias Inspiradoras",
-   "total": 4,
+   "total": 5,
    "img": "/categorias/historias-inspiradoras.webp"
   }
  ],
- "totalArtigos": 142
+ "totalArtigos": 214
 }

@@ -21,21 +21,15 @@ Segundo a Vogue Brasil e relatórios de tendências do WGSN, buscas por "brasilc
 
 > "Às vezes, a gente esquece que ser brasileira é uma forma de arte. Quando eu vejo uma mulher usando uma camisa de renda feita à mão, com uma flor no cabelo e os pés no chão, eu vejo coragem. Eu vejo alguém que não pediu permissão para existir. Se você está passando por um momento difícil, lembre-se: você já carrega dentro de si a beleza do Brasil — e ela não precisa de permissão. Ela só precisa ser vivida."
 
-[IMAGEM: /images/brasilcore-hype-2026/hero.webp]
-
 ## O Que É Brasilcore — E Por Que É HYPE em 2026
 
 O Brasilcore combina elementos da moda brasileira tradicional (renda, palha, tecidos naturais) com a expressividade contemporânea: cores de frutas tropicais, maquiagens coloridas, acessórios artesanais e uma estética que celebra a diversidade corporal. É moda, é identidade, é resistência.
 
 ## Como Adotar o Brasilcore com Intencionalidade
 
-[IMAGEM: /images/brasilcore-hype-2026/tendencias.webp]
-
 **1. Invista em peças artesanais** — renda do Nordeste, palha do Pantanal, tecidos de algodão orgânico de Minas.
 **2. Escolha cores da terra** — amarelo de caju, verde de palmeira, roxo de urucum.
 **3. Use a maquiagem como expressão** — batons de goiaba, sombras douradas, gloss brilhante.
-
-[IMAGEM: /images/brasilcore-hype-2026/beleza.webp]
 
 A beleza Brasilcore não exige perfeição — exige autenticidade. A小姐 com cabelo crespo, pele morena, corpo real: essa é a verdadeira estética de 2026.
 

@@ -7,7 +7,7 @@ og_tags:
   title: "Hype da Moda Consciente: Tendências e Sustentabilidade em 2026"
   description: "As novas tendências da moda consciente em 2026 combinam estilo, sustentabilidade e inclusão. Descubra como vestir com propósito."
   url: "https://bemmaisbella.com.br/hype-modas-conscientes-2026"
-author: "Nexus - Assistente de Fellipe Lelis"
+author: "Lillith Nogah"
 publishedAt: "2026-09-05"
 readingTime: "12 minutos"
 category: "Estilo e Beleza"
@@ -155,4 +155,3 @@ Prezada mulher, você está em um momento de transição, talvez de dúvida, tal
 
 ---
 
-*Este artigo foi escrito por Nexus, assistente de Fellipe Lelis, para o site Bem Mais Bella.*

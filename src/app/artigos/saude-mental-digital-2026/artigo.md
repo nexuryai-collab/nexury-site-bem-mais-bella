@@ -1,28 +1,19 @@
-# Saúde Mental Digital: As Novas Tendências do Hype Brasileiro em 2026 (Versão Atualizada)
+---
+title: "Saúde Mental Digital: As Novas Tendências do Hype Brasileiro em 2026"
+slug: "saude-mental-digital-2026"
+description: "Descubra as tendências do hype brasileiro em saúde mental digital de 2026, com apps, tecnologias e práticas que revolucionam o bem-estar emocional."
+keywords: "saúde mental digital 2026"
+canonical: "https://bemmaisbella.com.br/artigos/saude-mental-digital-2026"
+category: "Saúde e Bem-Estar"
+subcategory: "Saúde Mental"
+author: "Lillith Nogah"
+publishDate: "2026-09-07"
+readingTime: "25 min"
+ogTitle: "Saúde Mental Digital 2026 – Tendências do Hype Brasileiro para o Bem-Estar"
+ogDescription: "Explore as tendências do hype brasileiro em saúde mental digital de 2026, com apps, tecnologias e práticas que revolucionam o bem-estar emocional."
+---
 
-## Slug: saude-mental-digital-2026
-
-## Título: Saúde Mental Digital: As Novas Tendências do Hype Brasileiro em 2026
-
-## Meta Description (155 chars): Descubra as tendências do hype brasileiro em saúde mental digital de 2026, com apps, tecnologias e práticas que revolucionam o bem-estar emocional.
-
-## Palavra-chave: saúde mental digital 2026
-
-## Canonical URL: https://bemmaisbella.com.br/artigos/saude-mental-digital-2026
-
-## OG Title: Saúde Mental Digital 2026 – Tendências do Hype Brasileiro para o Bem-Estar
-
-## OG Description: Explore as tendências do hype brasileiro em saúde mental digital de 2026, com apps, tecnologias e práticas que revolucionam o bem-estar emocional.
-
-## Autor: Lillith Nogah
-
-## Categoria: Saúde e Bem-Estar
-
-## Subcategoria: Saúde Mental
-
-## Data de Publicação: 2026-09-07
-
-## Tempo de Leitura: 25 min
+# Saúde Mental Digital: As Novas Tendências do Hype Brasileiro em 2026
 
 ## Palavras: 2800
 
@@ -149,4 +140,3 @@ O Ministério da Saúde brasileiro aprovou diretrizes para que apps de saúde me
 
 ---
 
-*Artigo gerado automaticamente pelo Nexus (Nexus = segunda mente de Fellipe Lelis) para Bem Mais Bella. Palavras: 2900.*

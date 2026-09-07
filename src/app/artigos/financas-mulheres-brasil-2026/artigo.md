@@ -2,7 +2,7 @@
 title: "Finanças Conscientes para Mulheres 2026: O Guia Definitivo para Independência Financeira"
 slug: "financas-mulheres-brasil-2026"
 date: "2026-09-07"
-author: "Nexus - Assistente do Bem Mais Bella"
+author: "Lillith Nogah"
 keywords: "finanças femininas, independência financeira mulheres, investimento para iniciantes, educação financeira Brasil 2026, prosperidade"
 category: "Carreira e Finanças"
 canonical_url: "https://bemmaisbella.com.br/financas-mulheres-brasil-2026"

@@ -1,7 +1,7 @@
 ---
 title: "Girl Math Feminino 2026: Como Mulheres Brasileiras Estão Redesenhando o Conceito de Prosperidade — Finanças Conscientes para uma Nova Era"
 slug: "girl-math-feminino-2026-financas-conscientes"
-description: "Girl Math Feminino 2026: descubra como as mulheres brasileiras estão criando uma nova linguagem de finanças — investimento consciente, criptomoedas femininas e a observação inspiradora de Lillith Nogah sobre prosperidade com alma. 2500+ palavras."
+
 keywords: [girl math feminino 2026, finanças conscientes mulheres, prosperidade feminina, investimento ético Brasil, criptomoeda feminina 2026, Lillith Nogah]
 canonical: "https://bemmaisbella.com.br/artigos/girl-math-feminino-2026-financas-conscientes"
 og_title: "Girl Math Feminino 2026: Prosperidade com Alma"

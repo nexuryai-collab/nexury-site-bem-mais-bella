@@ -1,24 +1,20 @@
+---
+title: "Beleza Inclusiva 2026: Celebrando a Diversidade de Corpo, Identidade e Expressão"
+slug: "beleza-inclusiva-2026"
+description: "Beleza inclusiva 2026: diversidade de corpo, identidade e expressão que transformam a moda e a sociedade brasileira."
+keywords: "beleza inclusiva 2026"
+canonical: "https://bemmaisbella.com.br/artigos/beleza-inclusiva-2026"
+category: "Estilo e Beleza"
+subcategory: "Moda Consciente e Inclusão"
+author: "Lillith Nogah"
+publishDate: "2026-09-12"
+readingTime: "18 min"
+ogTitle: "Beleza Inclusiva 2026 – Diversidade de Corpo, Identidade e Expressão que Transformam o Brasil"
+ogDescription: "Descubra como a beleza inclusiva se tornou um movimento global em 2026, com moda, moda consciente e estilo que abraçam todos os corpos, identidades e expressões."
+---
+
 # Beleza Inclusiva 2026: Celebrando a Diversidade de Corpo, Identidade e Expressão
 
-## Slug: beleza-inclusiva-2026
-
-## Título: Beleza Inclusiva 2026: Celebrando a Diversidade de Corpo, Identidade e Expressão
-
-## Meta Description (155 chars): Beleza inclusiva 2026: diversidade de corpo, identidade e expressão que transformam a moda e a sociedade brasileira.
-
-## Palavra-chave: beleza inclusiva 2026
-
-## Canonical URL: https://bemmaisbella.com.br/artigos/beleza-inclusiva-2026
-
-## OG Title: Beleza Inclusiva 2026 – Diversidade de Corpo, Identidade e Expressão que Transformam o Brasil
-
-## OG Description: Descubra como a beleza inclusiva se tornou um movimento global em 2026, com moda, moda consciente e estilo que abraçam todos os corpos, identidades e expressões.
-
-## Autor: Lillith Nogah
-## Categoria: Estilo e Beleza
-## Subcategoria: Moda Consciente e Inclusão
-## Data de Publicação: 2026-09-12
-## Tempo de Leitura: 18 min
 ## Palavras: 2650
 ## Imagens: hero.webp + 5 imagens de seção
 

@@ -495,6 +495,4 @@ Em um mundo que nos pede constantemente para produzir, performar e agradar, o jo
 
 ---
 
-*Este artigo foi criado automaticamente pelo Nexus (segunda mente de Fellipe Lelis) para o Bem Mais Bella. Inspirado em estudos da USP, Fiocruz, Unicamp e UFSC sobre journaling e saúde mental, além das tendências do Google Trends Brasil e conversas reais com mulheres brasileiras sobre suas práticas de escrita terapêutica.*
-
 **Dica do dia**: Quando não souber o que escrever, pergunte-se simplesmente: "Como eu estou me sentindo neste exato momento, em uma frase?" Escreva essa frase. Isso já é journaling.

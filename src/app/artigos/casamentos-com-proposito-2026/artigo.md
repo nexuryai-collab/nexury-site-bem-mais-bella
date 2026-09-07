@@ -1,28 +1,19 @@
+---
+title: "Casamentos com Propósito em 2026: Como Viver um Amor Consciente e Autêntico"
+slug: "casamentos-com-proposito-2026"
+description: "Descubra como casamentos com propósito estão se tornando a norma em 2026, com cerimônias conscientes e cerimônias focadas em essência."
+keywords: "casamentos com propósito 2026"
+canonical: "https://bemmaisbella.com.br/artigos/casamentos-com-proposito-2026"
+category: "Casamentos com Propósito"
+subcategory: "Planejamento"
+author: "Lillith Nogah"
+publishDate: "2026-09-07"
+readingTime: "28 min"
+ogTitle: "Casamentos com Propósito 2026 – Casamentos Conscientes e Autênticos"
+ogDescription: "Explore como casamentos com propósito estão revolucionando o amor em 2026, com cerimônias conscientes e cerimônias focadas em essência para casais brasileiros."
+---
+
 # Casamentos com Propósito em 2026: Como Viver um Amor Consciente e Autêntico
-
-## Slug: casamentos-com-proposito-2026
-
-## Título: Casamentos com Propósito em 2026: Como Viver um Amor Consciente e Autêntico
-
-## Meta Description (155 chars): Descubra como casamentos com propósito estão se tornando a norma em 2026, com cerimônias conscientes e cerimônias focadas em essência.
-
-## Palavra-chave: casamentos com propósito 2026
-
-## Canonical URL: https://bemmaisbella.com.br/artigos/casamentos-com-proposito-2026
-
-## OG Title: Casamentos com Propósito 2026 – Casamentos Conscientes e Autênticos
-
-## OG Description: Explore como casamentos com propósito estão revolucionando o amor em 2026, com cerimônias conscientes e cerimônias focadas em essência para casais brasileiros.
-
-## Autor: Lillith Nogah
-
-## Categoria: Casamentos com Propósito
-
-## Subcategoria: Planejamento
-
-## Data de Publicação: 2026-09-07
-
-## Tempo de Leitura: 28 min
 
 ## Palavras: 2850
 
@@ -368,4 +359,3 @@ Casais devem conhecer-se profundamente antes de se comprometer:
 
 ---
 
-*Artigo gerado automaticamente pelo Nexus (Nexus = segunda mente de Fellipe Lelis) para Bem Mais Bella. Palavras: 2850.*

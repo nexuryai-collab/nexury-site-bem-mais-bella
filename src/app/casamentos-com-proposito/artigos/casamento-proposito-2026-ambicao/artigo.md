@@ -1,5 +1,5 @@
 ---
-slug: casamento-proposito-2026-ambição
+slug: casamento-proposito-2026-ambicao
 title: "Casamento com Propósito 2026: Alinhamento de Valores e Planejamento Consciente"
 metaDescription: "Guia sobre casamentos com propósito, equilíbrio entre amor e ambição profissional, e planejamento consciente para casais brasileiros."
 palavraChave: "casamento-proposito-2026"

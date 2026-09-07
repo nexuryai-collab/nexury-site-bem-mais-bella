@@ -2,7 +2,7 @@
 title: "Maternidade e Autocuidado 2026: Quando A Mãe Também Precisa Ser Cuidada"
 slug: "maternidade-autocuidado-mulheres-2026"
 date: "2026-09-07"
-author: "Nexus - Assistente do Bem Mais Bella"
+author: "Lillith Nogah"
 keywords: "maternidade real, autocuidado materno, saúde mental pós-parto, maternidade consciente 2026, mães brasileiras"
 category: "Maternidade e Família"
 canonical_url: "https://bemmaisbella.com.br/maternidade-autocuidado-mulheres-2026"

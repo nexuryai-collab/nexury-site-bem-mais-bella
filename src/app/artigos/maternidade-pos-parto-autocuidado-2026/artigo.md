@@ -25,8 +25,6 @@ Este artigo é um guia completo para mães em fase de pós-parto e para todas as
 
 ## O Pós-Parto Real: Muito Além do Que Se Vê
 
-[IMAGEM: section-hero-pos-parto.webp]
-
 A cultura popular romantiza o pós-parto como um período de felicidade instantânea. Bebê nos braços, mãe radiante, casa arrumada. A realidade, segundo dados do Ministério da Saúde e estudos publicados em periódicos médicos brasileiros, é profundamente diferente. A baby blues atinge entre 50% e 80% das mulheres nos primeiros dias após o parto. A depressão pós-parto afeta 1 em cada 5 mães brasileiras. A ansiedade pós-parto é igualmente prevalente e frequentemente subdiagnosticada.
 
 Mas o pós-parto não é apenas saúde mental. É também uma revolução hormonal, física, emocional e identitária. O corpo que carregou uma vida por nove meses precisa de tempo, cuidado e paciência para se recuperar. A mulher que existia antes da maternidade precisa renegociar sua relação consigo mesma, com sua parceria, com sua carreira, com seu corpo e com sua própria identidade.
@@ -36,8 +34,6 @@ Em 2026, com o avanço das conversas sobre saúde mental e a derrubada gradual d
 ---
 
 ## Saúde Mental no Pós-Parto: O Que Toda Mãe Precisa Saber
-
-[IMAGEM: section-saude-mental.webp]
 
 A saúde mental materna é um tema urgente, e em 2026 o Brasil deu passos importantes. A Política Nacional de Saúde Mental foi atualizada para incluir protocolos específicos de acompanhamento pós-parto. Hospitais e maternidades estão implementando triagens emocionais obrigatórias. Profissionais de saúde estão mais atentos aos sinais de sofrimento psicológico.
 
@@ -67,8 +63,6 @@ A lógica do "eu não tenho tempo para mim" precisa ser questionada. Mãe que se
 
 ## Construindo uma Rede de Apoio Real
 
-[IMAGEM: section-rede-apoio.webp]
-
 A maternidade não foi feita para ser vivida em solidão. No entanto, a cultura brasileira — apesar de coletivista em muitos aspectos — ainda carrega uma idealização da "mãe solo" que é não apenas injusta, mas perigosa. Em 2026, construir uma rede de apoio não é luxo — é sobrevivência.
 
 **Componentes de uma rede de apoio saudável:**
@@ -97,8 +91,6 @@ Encontrar outras mães que estão vivendo o mesmo momento é extremamente acolhe
 
 ## O Corpo no Pós-Parto: Reconstrução com Gentileza
 
-[IMAGEM: section-corpo-pos-parto.webp]
-
 O corpo pós-parto é um corpo que realizou algo extraordinário. Ele merece respeito, cuidado e paciência. Em 2026, o movimento de aceitação corporal pós-parto ganhou força no Brasil, com mais mulheres e profissionais de saúde questionando a pressão estética sobre mães recentes.
 
 **Recuperação física: o que esperar**
@@ -120,8 +112,6 @@ O sono é essencial. Mesmo que seja fragmentado, organizar pequenos períodos de
 ---
 
 ## A Identidade Materna: Quem Eu Sou Agora?
-
-[IMAGEM: section-identidade-materna.webp]
 
 Uma das transformações mais profundas da maternidade é a reconfiguração da identidade. Antes da maternidade, você era uma pessoa com rotinas, gostos, ambições e ritmos próprios. Depois, é fácil sentir que a sua vida agora gira em torno do bebê. E de certa forma, é assim. Mas a sua identidade não precisa se dissolver.
 
@@ -151,8 +141,6 @@ A comparação com mães que parecem "tudo organizado" é tóxica. Procure comun
 
 ## Culpa Materna: A Mais Brasileira das Cargas Emocionais
 
-[IMAGEM: section-culpa-materna.webp]
-
 A culpa materna é um fenômeno estudado por psicólogas brasileiras e reconhecido como uma construção cultural. O Brasil, em particular, carrega uma expectativa enorme sobre as mães: que sejam carinhosas, pacientes, organizadas, bonitas, presentes, equilibradas, bem-sucedidas profissionalmente e jamais cansadas. Essa combinação é impossível.
 
 A culpa surge toda vez que a mãe sente que está falhando em algum desses aspectos. E ela é alimentada pelo julgamento interno, pelo julgamento social e, muitas vezes, pelo julgamento de outras mães.
@@ -171,8 +159,6 @@ Em 2026, mais mães estão questionando essa lógica. Estão entendendo que perf
 
 ## Amamentação: Sem Dogma, Com Respeito
 
-[IMAGEM: section-amamentacao.webp]
-
 A amamentação é um dos temas mais polarizadores da maternidade contemporânea. De um lado, os benefícios comprovados do leite materno. Do outro, a realidade de que nem toda mulher pode ou quer amamentar — e isso também é válido.
 
 Em 2026, a abordagem brasileira está evoluindo para um modelo mais humanizado e menos dogmático. A informação está mais acessível, o suporte profissional está mais estruturado, e a pressão social está sendo questionada.
@@ -188,8 +174,6 @@ Em 2026, a abordagem brasileira está evoluindo para um modelo mais humanizado e
 ---
 
 ## O Primeiro Ano: Marcos e Realidades
-
-[IMAGEM: section-primeiro-ano.webp]
 
 O primeiro ano de vida do bebê é também o primeiro ano de vida da mãe. Cada marco do bebê — o primeiro sorriso, o sentar, o engatinhar, os primeiros passos — vem acompanhado de uma transformação interna da mulher.
 
@@ -214,8 +198,6 @@ O primeiro aniversário é um marco simbólico. A mãe olha para trás e percebe
 ---
 
 ## Conclusão: Mãe Importa, Mãe Cuida, Mãe Existe
-
-[IMAGEM: section-conclusao-mae.webp]
 
 A maternidade em 2026 no Brasil está em um momento de transição. O discurso da mãe-guerreira está cedendo espaço para o discurso da mãe-humana. A pressão da perfeição está dando lugar à celebração da imperfeição. O isolamento está sendo substituído por comunidades. O julgamento está dando lugar à empatia.
 

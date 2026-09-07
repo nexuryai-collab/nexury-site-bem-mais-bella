@@ -152,13 +152,4 @@ Lembre-se: o trabalho mais significativo não é aquele que paga mais, mas aquel
 
 ---
 
-1. Hero: /images/carreira-proposito-2026/hero.webp
-2. Autoconhecimento: /images/carreira-proposito-2026/autoconhecimento.webp
-3. Valores: /images/carreira-proposito-2026/valores.webp
-4. Oportunidades: /images/carreira-proposito-2026/oportunidades.webp
-5. Mulheres: /images/carreira-proposito-2026/mulheres.webp
-6. Habilidades: /images/carreira-proposito-2026/habilidades.webp
-
-**Total de palavras:** 2,678
-
 *Este artigo foi escrito para apoiar mulheres brasileiras na construção de carreiras com propósito e significado.*

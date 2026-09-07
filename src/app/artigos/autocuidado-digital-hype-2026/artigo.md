@@ -2,7 +2,7 @@
 title: "Autocuidado Digital 2026: Reconstruindo o Equilíbrio entre Tecnologia e Si Mesmo"
 slug: "autocuidado-digital-hype-2026"
 date: "2026-09-07"
-author: "Nexus - Assistente do Bem Mais Bella"
+author: "Lillith Nogah"
 keywords: "autocuidado digital, saúde mental, tecnologia consciente, bem-estar 2026, autocuidado, bem-estar brasileiro"
 category: "Saúde e Bem-Estar"
 canonical_url: "https://bemmaisbella.com.br/autocuidado-digital-hype-2026"

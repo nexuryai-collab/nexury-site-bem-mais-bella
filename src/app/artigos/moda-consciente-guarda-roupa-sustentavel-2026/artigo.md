@@ -127,11 +127,3 @@ Lembre-se: cada peça que você escolhe com consciência é um passo em direçã
 
 ---
 
-1. Hero: /images/moda-consciente-2026-tendencias/hero.webp
-2. Tendências de Cores: /images/moda-consciente-2026-tendencias/tendencias-cores.webp
-3. Blazer Sustentável: /images/moda-consciente-2026-tendencias/blazer.webp
-4. Jeans Sustentáveis: /images/moda-consciente-2026-tendencias/jeans.webp
-5. Vestido Versátil: /images/moda-consciente-2026-tendencias/vestido.webp
-6. Calças Inclusivas: /images/moda-consciente-2026-tendencias/calcas.webp
-
-**Total de palavras:** 2,587

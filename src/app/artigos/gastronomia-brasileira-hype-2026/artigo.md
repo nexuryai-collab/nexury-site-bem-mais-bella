@@ -361,6 +361,4 @@ Que este artigo seja um convite:
 
 ---
 
-*Este artigo foi criado automaticamente pelo Nexus (segunda mente de Fellipe Lelis) para o Bem Mais Bella. Inspirado em tendências do Google Trends Brasil, dados da ABRESI (Associação Brasileira de Bares e Restaurantes), pesquisas acadêmicas sobre gastronomia brasileira e conversas reais com empreendedores do setor alimentício.*
-
 **Dica do dia**: Hoje, prepare uma refeição simples com ingredientes que você já tem em casa. Antes de comer, olhe para a mesa e agradeça. Essa gratidão é o tempero mais poderoso da cozinha brasileira.

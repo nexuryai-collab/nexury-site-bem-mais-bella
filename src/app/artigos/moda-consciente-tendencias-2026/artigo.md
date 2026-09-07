@@ -1,28 +1,19 @@
+---
+title: "Moda Consciente: Tendências Sustentáveis e Inovadoras de 2026"
+slug: "moda-consciente-tendencias-2026"
+description: "Descubra as tendências de moda consciente de 2026, com foco em sustentabilidade, inclusão e estilo que respeita o planeta e o corpo."
+keywords: "moda consciente 2026"
+canonical: "https://bemmaisbella.com.br/artigos/moda-consciente-tendencias-2026"
+category: "Moda"
+subcategory: "Moda Sustentável"
+author: "Lillith Nogah"
+publishDate: "2026-09-07"
+readingTime: "18 min"
+ogTitle: "Moda Consciente 2026 – Tendências Sustentáveis e Inovadoras"
+ogDescription: "Explore as principais tendências de moda consciente de 2026 no Brasil, com foco em sustentabilidade, inclusão de todos os corpos e estilo que respeita o planeta e o corpo."
+---
+
 # Moda Consciente: Tendências Sustentáveis e Inovadoras de 2026
-
-## Slug: moda-consciente-tendencias-2026
-
-## Título: Moda Consciente: Tendências Sustentáveis e Inovadoras de 2026
-
-## Meta Description (155 chars): Descubra as tendências de moda consciente de 2026, com foco em sustentabilidade, inclusão e estilo que respeita o planeta e o corpo.
-
-## Palavra-chave: moda consciente 2026
-
-## Canonical URL: https://bemmaisbella.com.br/artigos/moda-consciente-tendencias-2026
-
-## OG Title: Moda Consciente 2026 – Tendências Sustentáveis e Inovadoras
-
-## OG Description: Explore as principais tendências de moda consciente de 2026 no Brasil, com foco em sustentabilidade, inclusão de todos os corpos e estilo que respeita o planeta e o corpo.
-
-## Autor: Lillith Nogah
-
-## Categoria: Moda
-
-## Subcategoria: Moda Sustentável
-
-## Data de Publicação: 2026-09-07
-
-## Tempo de Leitura: 18 min
 
 ## Palavras: 2700
 
@@ -101,4 +92,3 @@ O conceito de "fashion regenerativa" vai além da sustentabilidade – visa rest
 
 ---
 
-*Artigo gerado automaticamente pelo Nexus (Nexus = segunda mente de Fellipe Lelis) para Bem Mais Bella. Palavras: 2750.*
