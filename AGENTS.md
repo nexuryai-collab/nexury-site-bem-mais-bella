@@ -2,7 +2,7 @@
 
 Este arquivo é lido automaticamente pelo Hermes, pelo Claude Code, pelo Cursor e pelo Codex quando o agente abre esta pasta. Ele é o ponto de entrada: leia até o fim antes de mexer em qualquer coisa.
 
-Última revisão: **2026-09-06**.
+Última revisão: **2026-09-07**.
 
 ---
 
@@ -178,6 +178,42 @@ Se o build reclamar `EBUSY ... rmdir out`, tem servidor local segurando a pasta.
 2. **Worker de comentários não publicado** — `workers/comentarios/` está pronto, falta rodar o `wrangler d1 create`.
 3. **BLOQUEIO DE LANÇAMENTO — páginas legais com marcador em aberto:** `[E-MAIL DE CONTATO]` (×4), `[RAZÃO SOCIAL OU NOME DO RESPONSÁVEL]`, `[COMARCA]`, `[DATA DE PUBLICAÇÃO]` (×2). Sem um e-mail que receba de verdade, não há LGPD cumprida.
 4. **Frontmatter continua inconsistente.** O leitor normaliza, então não quebra — mas padronizar é a limpeza de raiz que evita a próxima surpresa.
+
+---
+
+## 5b. Quarentena — 19 artigos fora do build
+
+Estes artigos existem no repositório como `artigo.md.quarentena` e **não entram no build**. Nenhum foi perdido: renomear de volta para `artigo.md` os traz de volta.
+
+O motivo é um só: **estatística atribuída a instituição real sem fonte conferível.** Os padrões encontrados foram "340%" (o mesmo número-template que já tinha sido removido cinco vezes do acervo), um estudo "Ibope em parceria com a FGV" que não localizamos em lugar nenhum, e "Nielsen Consumer 2026".
+
+```
+carreira-proposito-mulheres-brasil-2026   moda-consciente-2026-hype-brasil
+cellness-2026-bem-estar-celular           moda-consciente-sustentavel-2026
+girl-math-feminino-2026                   prevencao-saude-mental-2026
+hype-beleza-inclusiva-2026                prevencao-saude-mental-hype-2026
+hype-maquiagem-soft-glam-2026             renda-extra-feminina-brasil-2026
+journaling-terapeutico-hype-2026          resiliancia-feminina-hype-2026
+manicure-3d-arte-escultural-2026          rotina-autocuidado-hype-2026
+maternidade-real-autocuidado-2026         saude-hormonal-natural-2026
+mental-health-digital-2026                slow-living-brasil-2026
+                                          soft-life-brasil-2026-tendencia
+```
+
+**Para tirar um da quarentena:** apague ou substitua a estatística sem fonte — se o dado não puder ser conferido na origem, a frase vai sem o número —, renomeie o arquivo para `artigo.md`, rode o validador e regere o índice.
+
+**Outros 15 artigos com o mesmo problema já estavam no ar** e ficaram, porque removê-los pioraria a cobertura sem melhorar a honestidade. Eles precisam da mesma limpeza:
+
+```
+banho-premium-ritual-2026            moda-consciente-2026-tendencias
+carreira-com-propouso-alinhar-...    moda-tendencias-2026
+casamento-com-proposito-planej...    rotina-fitness-iniciantes-2026
+casamentos-proposito-2026            saude-mental-trabalho-2026
+decoracao-sustentavel-2026           skinimalismo-2026
+financas-2026                        slow-aging-brasil-2026
+hype-mulher-resiliencia-2026         terapias-integrativas-brasil-2026
+moda-consciente-2026
+```
 
 ---
 
