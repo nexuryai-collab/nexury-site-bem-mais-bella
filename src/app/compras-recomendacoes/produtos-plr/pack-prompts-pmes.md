@@ -6,11 +6,12 @@ category: "PLR / Prompts IA"
 format: "PDF 20pg + Prompts .txt + Guia"
 pages: 20
 include: ["PDF 20pg", "15 prompts .txt", "Guia PDF 8pg", "Exemplos reais"]
-niche: "Prompts IA para pequenas empresas (WhatsApp, vendas, atendimento, Instagram)"
+niche: "Prompts IA para pequenas empresas"
 ---
 # PROMPTS PRONTOS PARA PMEs — 15 PROMPTS EDITAVEIS
 
 ## Conteudo (20 paginas, sem copywriter, original)
+
 1. Introducao — por que usar prompts (2 pg)
 2. 15 prompts para WhatsApp (vendas, atendimento, recuperacao) (5 pg)
 3. 5 prompts para Instagram (legendas, hooks, CTAs) (4 pg)
@@ -19,6 +20,4 @@ niche: "Prompts IA para pequenas empresas (WhatsApp, vendas, atendimento, Instag
 6. Checklist de uso (2 pg)
 
 ## Diferencial
-Prompts baseados em artigos e fluxos reais do ecossistema (BMB + TechHearts). Nao e PLR generico.
-
-## Entrega: arquivo .txt com 15 prompts + PDF explicativo.
+Prompts baseados em artigos e fluxos reais do ecossistema. Nao e PLR generico.
