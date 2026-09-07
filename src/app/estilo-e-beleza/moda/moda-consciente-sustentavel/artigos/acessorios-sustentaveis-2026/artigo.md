@@ -179,12 +179,6 @@ Para ajudar você a fazer escolhas mais conscientes, seguem critérios essenciai
 
 ## 7. O Impacto do Consumo Consciente: Dados e Perspectivas
 
-Segundo o **Pew Research Center** (2025), 78% das brasileiras entre 18 e 35 anos afirmam que pagariam mais por produtos sustentáveis. O relatório **"Fashion on Climate"** da McKinsey aponta que a indústria da moda responde por 8-10% das emissões globais de gases de efeito estufa, sendo que acessórios respondem por cerca de 12% desse total.
-
-No Brasil, o **IBGE** registrou que o setor de acessórios cresceu 15% em 2025, com destaque para o segmento de produtos "eco-friendly", que cresceu 89%.
-
-O **WGSN** prevê que, até 2027, 60% de todos os acessórios de moda vendidos no Brasil terão algum tipo de certificação sustentável ou rastreabilidade de materiais.
-
 > **Dica de Lillith**: "Cada vez que você escolhe conscientemente, está plantando uma semente de mudança. Não precisa ser perfeita — apenas presente. Uma bolsa a menos do fast fashion, uma joia que conta a história de uma artesã, um par de sapatos que vai durar anos... Essas pequenas escolhas são como estrelas: sozinhas parecem pouca coisa, mas juntas iluminam o céu inteiro."
 
 ## 8. Tendências de 2026 para Acessórios

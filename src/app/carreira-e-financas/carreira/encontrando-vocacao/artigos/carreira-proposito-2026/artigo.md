@@ -27,35 +27,15 @@ relatedArticles:
 
 # Carreira com Propósito 2026: Encontrando Significado no Trabalho que Você Faz
 
-![Mulher brasileira trabalhando em ambiente colaborativo e criativo, com sorriso e foco, representando carreira com propósito](/artigos/carreira-proposito-2026/hero.webp)
-
-*Imagem hero: mulher brasileira de 30+ anos com expressão confiante, em ambiente de trabalho colaborativo, laptop aberto, plantas, luz natural.*
-
 Em 2026, o mercado de trabalho brasileiro está passando por uma transformação profunda. Longe da ideia de que "emprego é só para ganhar dinheiro", surge um novo paradigma: **a carreira como fonte de significado, identidade e contribuição**. A Bem Mais Bella acredita que o trabalho pode — e deve — ser uma expressão de quem você é, não apenas uma forma de pagar contas.
 
 Este artigo vai te guiar na construção de uma carreira que alinhe seus valores, talentos e propósito, criando não apenas prosperidade financeira, mas também realização profissional.
 
 ## O que mudou na carreira em 2026?
 
-![Mudanças no mercado de trabalho 2026](/artigos/carreira-proposito-2026/section-1.webp)
-
-*Imagem seção 1: infográfico mostrando tendências do mercado de trabalho - trabalho remoto, economia criativa, propósito, flexibilidade, IA.*
-
-Segundo dados do IBGE e da FGV (2026):
-
-- **62%** dos brasileiros entre 25-45 anos buscam trabalho com propósito
-- **Trabalho remoto/híbrido**: 45% dos profissionais com essa opção (crescimento 300% vs 2020)
-- **Economia criativa**: cresceu 18% ao ano no Brasil, gerando 2,5 milhões de empregos
-- **Gig economy**: 40% dos trabalhadores têm pelo menos uma renda freelance
-- **IA generativa**: 78% dos profissionais já usam IA para auxiliar em tarefas profissionais
-
 A consultora de carreira **Dra. Renata Fonseca** explica: "O profissional de 2026 não busca apenas um salário alto. Busca reconhecimento, flexibilidade, propósito e impacto. Quem não oferece isso, perde talentos."
 
 ## Os 5 pilares da Carreira com Propósito
-
-![Os 5 pilares da carreira com propósito](/artigos/carreira-proposito-2026/section-2.webp)
-
-*Imagem seção 2: ilustração dos 5 pilares - alinhamento de valores, competências, impacto, crescimento, equilíbrio.*
 
 ### 1. **Alinhamento de Valores**
 Seu trabalho deve refletir o que importa para você.
@@ -113,10 +93,6 @@ Carreira que dura a vida toda.
 
 ## Como transitar para uma carreira com propósito
 
-![Transição de carreira com propósito](/artigos/carreira-proposito-2026/section-3.webp)
-
-*Imagem seção 3: roteiro de transição - avaliação, planejamento, ações, validação, consolidação.*
-
 ### Passo 1: **Avalie seu momento**
 Responda com honestidade:
 - Estou feliz no trabalho que faço hoje?
@@ -152,10 +128,6 @@ Responda com honestidade:
 
 ## Oportunidades emergentes em 2026
 
-![Oportunidades emergentes em 2026](/artigos/carreira-proposito-2026/section-4.webp)
-
-*Imagem seção 4: lista de oportunidades - tech, economia criativa, saúde mental, educação, sustentabilidade.*
-
 ### **Tech e IA**
 - Engenheiro de prompts (nenhuma faculdade necessária)
 - Especialista em automação de processos
@@ -176,7 +148,6 @@ Responda com honestidade:
 - Assessor de bem-estar corporativo
 
 ### **Educação**
-- Professor de idiomas online (50% mais barato que presencial)
 - Mentor de carreira
 - Criador de cursos digitais
 - Tutor escolar (plataformas como Profes, QConcursos)
@@ -190,10 +161,6 @@ Responda com honestidade:
 > **Observação da Lillith:** Querida, eu preciso te dizer uma coisa que talvez você ainda não tenha parado para pensar: **você não é o seu trabalho**. Não importa o que você faz — se é analista, professora, empreendedora, dona de casa — o seu valor não se mede pelo cargo que ocupa ou pelo salário que recebe. Você é uma pessoa inteira, com sonhos, talentos, beleza e luz. Se hoje você não se sente realizada com o que faz, saiba que **é possível mudar**. Não é fácil, não é rápido, e muitas vezes é assustador. Mas é possível. E o primeiro passo é reconhecer que merece algo que te faça brilhar — não apenas sobreviver. A carreira com propósito não é luxo para poucos. É direito de toda mulher que decide acreditar que existe algo mais para ela.
 
 ## Como se destacar sem perder a essência
-
-![Se destacar sem perder a essência no mercado de trabalho 2026](/artigos/carreira-proposito-2026/section-5.webp)
-
-*Imagem seção 5: mulheres em entrevistas, apresentações, conversas, networking com autenticidade.*
 
 ### **Dicas práticas:**
 
@@ -223,6 +190,6 @@ A Bem Mais Bella está aqui para caminhar com você nessa exploração. Você n�
 
 ---
 
-*Quer continuar explorando seu potencial? Leia também nossos artigos sobre [Finanças Conscientes](/artigos/financas-conscientes-2026), [Investimentos para Mulheres](/artigos/investimentos-2026) e [Desenvolvimento Pessoal](/artigos/desenvolvimento-pessoal-2026).*
+*Quer continuar explorando seu potencial? Leia também nossos artigos sobre [Finanças Conscientes](/artigos/financas-conscientes-2026), Investimentos para Mulheres e [Desenvolvimento Pessoal](/artigos/desenvolvimento-pessoal-hype-2026).*
 
 **Sobre a autora:** Lillith Nogah é jornalista especializada em carreira e desenvolvimento profissional. Acredita que o trabalho mais belo é aquele que conecta talento, propósito e contribuição.

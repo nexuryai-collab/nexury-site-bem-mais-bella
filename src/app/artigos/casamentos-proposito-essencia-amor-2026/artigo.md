@@ -29,8 +29,6 @@ images:
 
 # Casamentos com Propósito: Amor, Essência e Propósito no Brasil de 2026
 
-![Pareja brasileira celebrando seu casamento com decoração minimalista e elementos naturais — casamentos com propósito em 2026](/artigos/casamentos-proposito-essencia-amor-2026/images/hero.webp)
-
 ## Introdução: O Amor que Vai Além do Sim
 
 Em 2026, o casamento brasileiro deixou de ser apenas um evento social para se tornar um **ato de propósito e autenticidade**. As tendências indicam que as noivas e noivos estão priorizando **essência sobre ostentação**, **história sobre tradição** e **conexão sobre formalidade**. De acordo com o *Instituto Brasileiro de Casamentos (IBC)*, 62% dos casamentos realizados em 2026 foram planejados com foco em propósito, valorizando a jornada do casal e os significados que carregam.
@@ -40,8 +38,6 @@ Este artigo explora como o **casamento com propósito** está revolucionando o m
 --
 
 ## 1. O Novo Paradigma: Do Padrão ao Propósito
-
-![Pareja brasileira em cerimônia simples com decoração natural — casamentos com propósito em 2026](/artigos/casamentos-proposito-essencia-amor-2026/images/sec1.webp)
 
 ### A Revolução do "Sim"
 
@@ -54,8 +50,6 @@ A **Lillith Nogah** escreve: "Um casamento com propósito não é sobre o quanto
 --
 
 ## 2. Planejar com Propósito: Os 5 Pilares
-
-![Pareja planejando seu casamento com um caderno e café — casamentos com propósito em 2026](/artigos/casamentos-proposito-essencia-amor-2026/images/sec2.webp)
 
 ### 1. Defina seu "Porquê"
 
@@ -81,8 +75,6 @@ Um ritual simples, mas significativo, como **acender uma vela juntos**, **planta
 
 ## 3. O Papel da Comunicação e da Autenticidade
 
-![Pareja conversando sobre planos de casamento — casamentos com propósito em 2026](/artigos/casamentos-proposito-essencia-amor-2026/images/sec3.webp)
-
 A autenticidade é o alicerce do casamento com propósito. Muitos casais relatam que, ao se comunicarem com honestidade sobre expectativas, medos e sonhos, criam uma base mais sólida para o relacionamento.
 
 A **psicóloga Dra. Carla Mendes** afirma: "Casamentos que se baseiam na autenticidade têm maior chance de sobreviver. Quando vocês se casam por propósito, não por pressão social, o amor se fortalece naturalmente."
@@ -92,8 +84,6 @@ A tecnologia também tem ajudado. Plataformas como **Casamento.com.br** e **Noiv
 --
 
 ## 4. Tendências de 2026: O que está em alta
-
-![Pareja com decoração de flores silvestres e cores naturais — tendências de casamentos com propósito em 2026](/artigos/casamentos-proposito-essencia-amor-2026/images/sec4.webp)
 
 ### 1. Cerimônias ao Ar Livre
 
@@ -121,8 +111,6 @@ Casamentos com propósito incentivam a participação ativa dos convidados. Isso
 --
 
 ## 5. Como Começar: Um Plano de 6 Meses
-
-![Pareja com calendário e checklist — planejamento de casamento com propósito em 2026](/artigos/casamentos-proposito-essencia-amor-2026/images/sec5.webp)
 
 ### Mês 1-2: Definição de Propósito
 

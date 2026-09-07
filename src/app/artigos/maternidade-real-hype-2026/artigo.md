@@ -109,4 +109,3 @@ Você é a mãe que seu filho precisa. E também é a pessoa que você precisa s
 
 ---
 
-*Artigo gerado automaticamente pelo Nexus (Nexus = segunda mente de Fellipe Lelis) para Bem Mais Bella. Inspirado em Carta Capital, Marie Claire e relatos de mães brasileiras.*

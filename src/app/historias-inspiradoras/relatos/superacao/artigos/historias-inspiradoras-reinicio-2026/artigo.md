@@ -25,8 +25,9 @@ tags:
   - mulheres inspiradoras brasil
   - recomeçar após divórcio
   - coragem para recomeçar
-conteudo: |
-  Em 2026, uma das tendências mais poderosas no Brasil é o que chamamos de "Reali-TEA" — o desejo profundo por histórias reais, não filtradas, que mostrem como as mulheres estão reconstruindo suas vidas após perdas. Este artigo traz a história verdadeira de mulheres brasileiras que recomeçaram do zero após o fim de um casamento, e como essa experiência, embora dolorosa, pode ser o ponto de partida para uma vida mais autêntica, mais alinhada e mais livre do que qualquer outra.
+---
+
+ Em 2026, uma das tendências mais poderosas no Brasil é o que chamamos de "Reali-TEA" — o desejo profundo por histórias reais, não filtradas, que mostrem como as mulheres estão reconstruindo suas vidas após perdas. Este artigo traz a história verdadeira de mulheres brasileiras que recomeçaram do zero após o fim de um casamento, e como essa experiência, embora dolorosa, pode ser o ponto de partida para uma vida mais autêntica, mais alinhada e mais livre do que qualquer outra.
 ---
 
 # Histórias Inspiradoras 2026: A Mulher Que Recomeçou do Zero Após o Fim do Casamento aos 40 Anos
@@ -37,7 +38,7 @@ conteudo: |
 
 Aos 40 anos, após 15 anos de casamento, Ana Beatriz — uma arquiteta de São Paulo — recebeu o pedido de separação. O que começou como uma conversa difícil se transformou em uma reviravolta completa: ela precisou vender a casa, dividir os bens, reorganizar a vida com dois filhos adolescentes e, principalmente, reencontrar quem ela era além do papel de esposa e mãe. "Eu olhei no espelho e não me reconheci", conta Ana. "Mas depois, descobri que a mulher que eu vi no reflexo era alguém que eu ainda estava conhecendo."
 
-Essa história não é única. Segundo pesquisas recentes sobre separações no Brasil, o número de divórcios entre mulheres na faixa dos 35 aos 45 anos cresceu 28% entre 2024 e 2026. E, mais importante, o número de mulheres que relatam ter uma vida melhor após o término também aumentou — para 62%, segundo uma pesquisa da Carta Capital. A separação, embora dolorosa, pode ser um portal para a autenticidade.
+Essa história não é única. Segundo pesquisas recentes sobre separações no Brasil, o número de divórcios entre mulheres na faixa dos 35 aos 45 anos cresceu 28% entre 2024 e 2026. A separação, embora dolorosa, pode ser um portal para a autenticidade.
 
 ## 1. O Fim Como Início — A Realidade das Separações no Brasil
 

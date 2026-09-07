@@ -3,7 +3,7 @@ title: "Banho Premium: O Ritual de Autocuidado que Transformou a Higiene em Luxo
 description: "Descubra como o banho premium virou o ritual de autocuidado mais hype do Brasil em 2026. Esfoliação, fragrâncias e sensorialidade para transformar seu banheiro em spa."
 keywords: "banho premium, ritual autocuidado, skincare banho, autocuidado feminino, banho spa, higiene premium 2026, autocuidado 2026"
 canonical: "https://bemmaisbella.com.br/artigos/banho-premium-ritual-2026"
-og_image: "https://bemmaisbella.com.br/images/banho-premium-ritual-2026-hero.webp"
+og_image: /artigos/banho-premium-ritual-2026/hero.webp
 og_title: "Banho Premium: O Ritual que Transformou a Higiene em Luxo | Bem Mais Bella"
 og_description: "O banho premium é o ritual de autocuidado mais comentado de 2026. Aprenda a montar o seu com esfoliação, fragrâncias e sensorialidade completa."
 slug: "banho-premium-ritual-2026"
@@ -17,7 +17,7 @@ tempo_leitura: "14 minutos"
 
 # Banho Premium: O Ritual de Autocuidado que Transformou a Higiene em Luxo em 2026
 
-![Banho Premium Ritual](https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&q=80&fm=webp)
+![Banho Premium Ritual](/artigos/banho-premium-ritual-2026/hero.webp)
 
 Existe um momento no seu dia que você pode estar subestimando — e que o Brasil inteiro descobriu em 2026 como a forma mais acessível, gostosa e transformadora de praticar autocuidado. Esse momento é o seu banho. Não o banho corrido de sempre, não aquele cinco minutos entre uma tarefa e outra. Falamos do **banho premium**: um ritual completo que transforma o ato de se lavar em uma experiência sensorial, emocional e profundamente reparadora.
 
@@ -29,7 +29,7 @@ Neste artigo completo, vamos explorar tudo o que você precisa saber para montar
 
 ## O Que É Realmente o Banho Premium
 
-![Ritual de Banho Spa](https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=800&q=80&fm=webp)
+![Ritual de Banho Spa](/artigos/banho-premium-ritual-2026/sec1.webp)
 
 Antes de qualquer coisa, é importante entender o que define um banho premium — e o que ele *não* é. Não se trata de comprar os produtos mais caros do mercado ou de demorar duas horas debaixo do chuveiro. O banho premium é uma **mudança de postura**: é decidir que aquele momento é seu, e que ele merece atenção plena.
 
@@ -49,7 +49,7 @@ Na prática, o banho premium envolve:
 
 ## Por Que o Banho Premium Virou Tendência em 2026
 
-![Tendência Autocuidado Brasil](https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&q=80&fm=webp)
+![Tendência Autocuidado Brasil](/artigos/banho-premium-ritual-2026/sec2.webp)
 
 O Brasil tem mais de 120 milhões de usuários ativos no TikTok, e uma parcela enorme deles está consumindo e criando conteúdo sobre rituais de autocuidado. O movimento não é à toa: após anos de hiperconectividade, de telas, de correria, as pessoas — especialmente as mulheres — estão buscando **experiências táteis e sensoriais** que as tirem do piloto automático.
 
@@ -69,7 +69,7 @@ O relatório da Mintel sobre beleza global aponta que 2026 marca uma nova fase d
 
 ### 1. Preparação do Ambiente (5 minutos)
 
-![Ambiente Banho Premium](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80&fm=webp)
+![Ambiente Banho Premium](/artigos/banho-premium-ritual-2026/sec3.webp)
 
 Antes de entrar no box, prepare o cenário. Isso faz toda a diferença:
 
@@ -95,7 +95,7 @@ Misture tudo em um recipiente e aplique com movimentos circulares ascendentes, d
 
 ### 3.shampoo e Tratamento Capilar (5 minutos)
 
-![Cuidados Capilares Banho](https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?w=800&q=80&fm=webp)
+![Cuidados Capilares Banho](/artigos/banho-premium-ritual-2026/sec4.webp)
 
 Enquanto a máscara de tratamento age no cabelo (deixe por pelo menos 5 minutos, embrulhada numa touca térmica improvisada com um coque alto), você já pode seguir para as próximas etapas do corpo.
 
@@ -114,7 +114,7 @@ Enquanto o tratamento capilar age, dedique 3 minutos aos lábios e ao rosto:
 
 ### 5. Hidratação e Perfumação (10 minutos)
 
-![Hidratação Pós-Banho](https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=800&q=80&fm=webp)
+![Hidratação Pós-Banho](/artigos/banho-premium-ritual-2026/sec5.webp)
 
 O pós-banho é onde a mágica realmente acontece. É aqui que você aplica os produtos que vão **trabalhar por você** enquanto a pele ainda está úmida (o melhor momento para absorver umidade):
 

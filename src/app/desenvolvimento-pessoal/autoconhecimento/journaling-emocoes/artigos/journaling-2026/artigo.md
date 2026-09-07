@@ -131,7 +131,7 @@ Escreva uma linha por dia — uma observação, uma saudade, uma gratidão. Essa
 
 ### Journaling de Voce
 
- Grave sua voz lendo um diário e depois ouça para criar um diário audível que você pode ouvir em vez de ler.
+Grave sua voz lendo um diário e depois ouça para criar um diário audível que você pode ouvir em vez de ler.
 
 ### Journaling de Criatividade
 
@@ -245,8 +245,8 @@ O journaling é mais do que um hobby — é uma ponte entre quem você é hoje e
 - APA — Diretrizes Clínicas para Journaling Terapêutico (2026)
 
 **Links Internos para Outros Artigos:**
-- [Beleza Caseira 2026](/artigos/beleza-caseira-2026/artigo.md) — Como cuidar de si mesma com recursos simples.
-- [Mindfulness e Meditação](/artigos/mindfulness-2026/artigo.md) — Técnicas simples de mindfulness para o dia a dia.
-- [Saúde Mental no Trabalho](/artigos/saude-mental-trabalho-2026/artigo.md) — Como proteger a saúde mental no trabalho.
+- [Beleza Caseira 2026](/artigos/beleza-caseira-2026) — Como cuidar de si mesma com recursos simples.
+- [Mindfulness e Meditação](/artigos/mindfulness-2026) — Técnicas simples de mindfulness para o dia a dia.
+- [Saúde Mental no Trabalho](/artigos/saude-mental-trabalho-2026) — Como proteger a saúde mental no trabalho.
 
 *Este artigo foi escrito com carinho por Lillith Nogah para o Bem Mais Bella — onde cada mulher encontra força, inspiração e propósito.*

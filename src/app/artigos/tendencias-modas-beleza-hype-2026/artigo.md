@@ -77,12 +77,11 @@ Lembre-se: o hype é um espelho da nossa vontade de evoluir. Use-o para se renov
 
 ## Links Internos
 
-- [Moda Consciente e Cuidado com a Pele 2026](/artigos/moda-consciente-cuidado-pele-2026)
-- [Beleza Natural e Autocuidado](/artigos/beleza-natural-autocuidado-2026)
+- Moda Consciente e Cuidado com a Pele 2026
+- Beleza Natural e Autocuidado
 - [Estilos Inclusivos 2026](/src/app/artigos/estilos-inclusivos-2026)
 - [Saúde e Bem-Estar 2026](/src/app/artigos/saude-bem-estar-2026)
 - [Hype de Moda e Beleza 2026](https://bemmaisbella.com.br/artigos/tendencias-modas-beleza-hype-2026)
 
 ---
 
-*Artigo gerado automaticamente pelo Nexus (Nexus = segunda mente de Fellipe Lelis) para Bem Mais Bella. Inspirado em Harper's Bazaar, Lillith Nogah e a crescente demanda por representatividade.*

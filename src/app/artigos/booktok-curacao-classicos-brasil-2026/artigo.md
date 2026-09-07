@@ -1,4 +1,5 @@
 ---
+author: "Lillith Nogah"
 title: "BookTok e a Curadoria de Clássicos: Como a Leitura Está Salvando Gerações em 2026"
 meta_description: "BookTok viraliza clássicos como Branca de Neve e Dostoevsky no Brasil com +463% de vendas. Descubra como a leitura está curando jovens e transformando a saúde mental em 2026."
 palavra_chave: "BookTok cura clássicos leitura 2026 Brasil"
@@ -45,7 +46,7 @@ Além disso, os clássicos oferecem algo que as redes sociais não conseguem: **
 
 ## A Conexão Surpreendente entre BookTok e Saúde Mental
 
-Um estudo recente da Universidade de São Paulo revelou que **72% dos jovens que participam ativamente do BookTok relatam melhora nos sintomas de ansiedade** após dois meses de leitura regular. Não é coincidência. A leitura exige foco, suspensão da descrença e imersão total — ingredientes que ativam o sistema nervoso parassimpático, o mesmo responsável por nos acalmar.
+Não é coincidência. A leitura exige foco, suspensão da descrença e imersão total — ingredientes que ativam o sistema nervoso parassimpático, o mesmo responsável por nos acalmar.
 
 É por isso que o BookTok se tornou, sem querer, uma **rede de apoio emocional informal**. Nos comentários dos vídeos, jovens compartilham: "Estou no capítulo 3 e já consegui dormir sem remédio" ou "Esse livro me fez entender que minha tristeza não é fraqueza, é resposta". São confissões que, em outra época, ficariam presas na cabeça de quem sentia. Agora, ganham voz, visibilidade e comunidade.
 

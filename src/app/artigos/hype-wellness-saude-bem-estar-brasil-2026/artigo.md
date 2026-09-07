@@ -27,7 +27,7 @@ Este artigo é um guia completo sobre o que está hype no mundo do wellness bras
 
 ## 1. O Fenômeno Hype Wellness no Brasil
 
-O wellness market brasileiro cresceu 47% nos últimos dois anos, segundo dados da Euromonitor International. Em 2026, o Brasil é o segundo maior mercado de wellness da América Latina, perdendo apenas para o México. Mas o que torna o wellness brasileiro único é a sua identidade: não é uma cópia do wellness europeu ou americano, mas uma reinvenção brasileira.
+Em 2026, o Brasil é o segundo maior mercado de wellness da América Latina, perdendo apenas para o México. Mas o que torna o wellness brasileiro único é a sua identidade: não é uma cópia do wellness europeu ou americano, mas uma reinvenção brasileira.
 
 ### 1.1 Por Que o Wellness Está Hype Agora?
 

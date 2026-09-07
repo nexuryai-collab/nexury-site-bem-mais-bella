@@ -29,19 +29,15 @@ images:
 
 # Nutrição e Fitness 2026: Alimentação Consciente e Exercícios para Todas as Corpos
 
-![Mesa com alimentos naturais coloridos e frutas tropicais brasileiras — representando a nutrição consciente em alta no Brasil 2026](/artigos/saude-bem-estar-nutricao-fitness-2026/images/hero.webp)
-
 ## Introdução: A Revolução da Alimentação que Nutre o Corpo e a Alma
 
-Em 2026, a relação entre alimentação e bem-estar atingiu um novo patamar no Brasil. O que antes era restrito a dietas extremas e contas calóricas agora se transformou em uma **filosofia de autocuidado integral**. As mulheres brasileiras estão abandonando restrições severas em favor de uma alimentação consciente que respeita o corpo, o orçamento e a cultura local. Segundo dados da **Carta Capital** e do **Gov.br**, 74% das mulheres entre 20 e 45 anos priorizam alimentos de origem vegetal e produção local, enquanto a prática de **fitness acessível** cresceu 150% entre as classes C e D.
+Em 2026, a relação entre alimentação e bem-estar atingiu um novo patamar no Brasil. O que antes era restrito a dietas extremas e contas calóricas agora se transformou em uma **filosofia de autocuidado integral**. As mulheres brasileiras estão abandonando restrições severas em favor de uma alimentação consciente que respeita o corpo, o orçamento e a cultura local.
 
 Este artigo explora como a **nutrição consciente** e o **fitness inclusivo** estão revolucionando a saúde feminina no país, com receitas práticas, sugestões de treinos e uma visão que entende que cada corpo é único e merece cuidado específico. A beleza, aqui, não é um padrão imposto, mas uma **celebração da vitalidade**.
 
 --
 
 ## 1. Nutrição Consciente: Coma Bem, Sem Culpa
-
-![Mulher preparando uma refeição colorida com vegetais frescos em cozinha brasileira — prática de alimentação consciente em 2026](/artigos/saude-bem-estar-nutricao-fitness-2026/images/sec1.webp)
 
 ### A Nova Dieta: Flexibilidade e Consciência
 
@@ -71,8 +67,6 @@ Uma das maiores barreiras à alimentação saudável é o preço. Em 2026, o **p
 
 ## 2. Fitness Inclusivo: Movimento para Todos os Corpos
 
-![Mulheres de diferentes tamanhos e idades praticando exercícios ao ar livre em grupo — fitness inclusivo em 2026](/artigos/saude-bem-estar-nutricao-fitness-2026/images/sec2.webp)
-
 ### Além da Academia: O Fitness que Respeita Diversidade
 
 O conceito de **fitness inclusivo** ganhou força em 2026 ao reconhecer que o esporte não deve ser exclusivo para corpos jovens, magros e atléticos. No Brasil, projetos como **"Mexa-se com Respeito"** e **"Corpo Livre"** oferecem aulas de ginástica adaptada para mulheres com mobilidade reduzida, gestantes e pós-parto. A filosofia é simples: **mover o corpo é um direito, não um privilégio**.
@@ -80,7 +74,7 @@ O conceito de **fitness inclusivo** ganhou força em 2026 ao reconhecer que o es
 ### Tipos de Exercícios Acessíveis
 
 #### 1. Yoga Adaptada
-A yoga de 2026 não é apenas para quem pode fazer posições avançadas. As aulas de **yoga restaurativa** focam na respiração e mobilidade articular, sem pressão por flexibilidade. Estudos da **Universidade de Brasília** mostram que 20 minutos de yoga diária reduzem o estresse em 40%.
+A yoga de 2026 não é apenas para quem pode fazer posições avançadas. As aulas de **yoga restaurativa** focam na respiração e mobilidade articular, sem pressão por flexibilidade.
 
 #### 2. Caminhada com Propósito
 Caminhar não é "pouco exercício". O **Caminhada Ativa Brasil** incentiva caminhadas de 30 minutos em parques urbanos, com grupos de apoio e música ao vivo. A prática queima calorias, melhora o humor e fortalece a comunidade.
@@ -95,8 +89,6 @@ Aplicativos como **FitBrasil** e **Movimento Sem Limite** oferecem treinos perso
 --
 
 ## 3. Saúde Mental e Alimentação: A Conexão Corpo-Mente
-
-![Mulher meditando com uma tigela de frutas frescas ao lado — representando a conexão entre alimentação saudável e saúde mental em 2026](/artigos/saude-bem-estar-nutricao-fitness-2026/images/sec3.webp)
 
 ### O Eixo Intestino-Cérebro
 
@@ -118,8 +110,6 @@ A restrição alimentar severa — dietas muito baixas em calorias, eliminação
 --
 
 ## 4. Receitas Brasileiras Adaptadas para o Novo Estilo de Vida
-
-![Pratos coloridos e apetitosos representando a culinária saudável brasileira adaptada para o estilo de vida consciente de 2026](/artigos/saude-bem-estar-nutricao-fitness-2026/images/sec4.webp)
 
 ### Açaí Nutricional
 - 200g de açaí puro
@@ -159,8 +149,6 @@ Misture tudo em panela antiaderente, mexendo até desgrudar do fundo. Desenrole 
 ---
 
 ## 5. Como Começar Hoje: Um Plano Prático de 7 Dias
-
-![Mulher planejando sua semana com calendário, frutas e garrafa de água — representando o início de uma jornada de alimentação consciente e fitness em 2026](/artigos/saude-bem-estar-nutricao-fitness-2026/images/sec5.webp)
 
 ### Dia 1-2: Avaliação
 - Registre tudo o que come por 48 horas sem julgamento.
@@ -217,4 +205,4 @@ A beleza não está no perfeccionismo. Está na **vitalidade**. Está no sorriso
 - **[Autocuidado Diário 2026](/artigos/autocuidado-diario-2026)** — Rotinas matinais para mulheres ocupadas.
 - **[Beleza Inclusiva - Cuidados Personais](#beleza-inclusiva-cuidados-personais)** — Maquiagem e cuidados para todos os tons de pele.
 - **[Desenvolvimento Pessoal - Journaling 2026](/artigos/autoconhecimento-e-jornaling-2026)** — Como o diário transforma sua relação com o corpo.
-- **[Estilo de Vida Sustentável 2026](/artigos/estilo-de-vida-sustentavel-2026)** — Como hábitos saudáveis transformam sua vida completa.
+- **Estilo de Vida Sustentável 2026** — Como hábitos saudáveis transformam sua vida completa.

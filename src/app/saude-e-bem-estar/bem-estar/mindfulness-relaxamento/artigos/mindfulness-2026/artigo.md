@@ -28,10 +28,6 @@ relatedArticles:
 
 # Mindfulness 2026: A Arte de Estar Presente no Meio do Caos
 
-![Mindfulness 2026 - meditação e presença no cotidiano](/artigos/mindfulness-2026/hero.webp)
-
-*Imagem hero: mulher brasileira em meditação silenciosa, sentada em almofada de chão, em ambiente acolhedor com luz natural filtrando pelas cortinas. Expressão serena, mãos sobre os joelhos.*
-
 Em 2026, o Brasil vive um boom de mindfulness. O que era nicho de terapeutas e praticantes de yoga tornou-se prática de milhões: escritórios oferecem salas de meditação, escolas ensinam respiração consciente a crianças, hospitais incluem mindfulness no tratamento de dor crônica, e aplicativos de meditação têm mais de 30 milhões de downloads no país. O TikTok Brasil tem a hashtag #MindfulnessDiario com mais de 2 bilhões de visualizações. Mas o que é mindfulness, realmente? E como fazer disso uma prática real, não só mais uma tarefa na lista?
 
 > **Observação da Lillith:** Querida, eu sei que a vida está corrida. Que você acorda com notificações, corre pro trabalho, janta vendo séries, dorme exausta e acorda de novo. Eu sei que "meditar" parece mais uma coisa pra fazer, mais uma cobrança. Mas deixa eu te dizer: mindfulness não é sobre fazer. É sobre **ser**. Não precisa de almofada cara, de app pago, de 30 minutos de silêncio absoluto. Mindfulness é você, agora, lendo estas palavras, sentindo seus pés no chão, notando sua respiração. É só isso. E isso já é revolução.
@@ -63,11 +59,9 @@ Em 2026, a neurociência valida o que praticantes milenares já sabiam. Estudos 
 - **Fortalecimento da ínsula** (interocepção - sentir o corpo por dentro)
 - **Melhora na conectividade** da rede de modo padrão (menos ruminação, mais presença)
 
-No Brasil, a USP, Unicamp e UFRJ têm centros de pesquisa em mindfulness aplicado à saúde, educação e trabalho. O SUS já oferece grupos de MBSR (Redução de Estresse Baseada em Mindfulness) em várias capitais.
+O SUS já oferece grupos de MBSR (Redução de Estresse Baseada em Mindfulness) em várias capitais.
 
 ## Práticas de Mindfulness Para o Dia a Dia Brasileiro
-
-![Práticas de mindfulness no cotidiano](/artigos/mindfulness-2026/section-1.webp)
 
 ### 1. Respiração Consciente (1 minuto, em qualquer lugar)
 - Pare. Sinta os pés no chão.

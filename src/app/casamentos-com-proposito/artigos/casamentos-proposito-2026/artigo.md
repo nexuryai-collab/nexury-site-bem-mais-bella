@@ -27,17 +27,11 @@ relatedArticles:
 
 # Casamentos com Propósito 2026: Como Planejar uma Celebração Significativa sem Perder a Essência
 
-![Casamentos com propósito 2026 - celebrações significativas ao ar livre](/artigos/casamentos-proposito-2026/hero.webp)
-
-*Imagem hero: casal em uma cerimônia ao ar livre em um jardim sustentável com decoração artesanal. Luz natural do pôr do sol. Flores locais, mesa de madeira rústica e convidados celebrando.*
-
 Em 2026, a forma como entendemos o casamento está em constante transformação. Não se trata mais de uma cerimônia apenas romântica ou de exibir riqueza — é um momento de propósito, autenticidade e conexão profunda com o outro e com a comunidade ao redor. As estatísticas do mercado de eventos no Brasil mostram que mais de 70% dos casais jovens escolhem se casar porque querem celebrar o amor, não porque a sociedade impõe. Os gastos com casamento caíram 35% em relação a 2019, mas a satisfação relatada subiu 52%. Isso é o casamento com propósito em ação.
 
 > **Observação da Lillith:** Querida, eu sei o que é sentir que o casamento é um evento estressante que está além do seu controle. Os vestidos caros, o salão, o fotógrafo, as flores... pode parecer que o casamento vai consumir sua vida e sua paz. Mas deixe-me te dizer algo: o casamento não é sobre perfeição, é sobre presença. É sobre celebrar o amor que vocês dois têm, não o amor que vocês acham que devem ter para serem válidos. Se você está se sentindo sobrecarregada ou ansiosa sobre os preparativos — respire fundo. O casamento é o começo de uma jornada, não o fim de uma lista de tarefas. Você não precisa se endividar para ser amada, e o verdadeiro compromisso se constrói nos dias simples, não apenas no dia da festa.
 
 ## O Renascimento do Casamento Significativo em 2026
-
-![O novo significado do casamento em 2026](/artigos/casamentos-proposito-2026/section-1.webp)
 
 O casamento moderno em 2026 é definido por quatro pilares fundamentais: propósito, sustentabilidade, autenticidade e conexão comunitária. Esses pilares não são tendências passageiras — são mudanças profundas na forma como as mulheres brasileiras entendem o matrimônio.
 
@@ -48,14 +42,12 @@ Mais de 70% dos casais brasileiros entre 18 e 40 anos declaram que escolheram se
 Mais de 60% dos casais optam por opções sustentáveis para o casamento, desde o menu até a decoração. O casamento sustentável em 2026 não é uma moda — é uma postura. As noivas escolhem vestidos de algodão orgânico, de linho ou de tecidos reciclados. Os buffets priorizam ingredientes locais e sazonais. A decoração usa flores naturais, velas de cera de abelha e materiais reutilizáveis.
 
 ### 3. Autenticidade sobre espetáculo
-Os casais querem uma cerimônia que reflita quem são, não o que as tendências ditam. Isso significa cerimônias íntimas de 30 pessoas, em vez de grandes festas de 300 convidados. Significa votos escritos à mão, músicas escolhidas com significado pessoal e decoração que conta uma história. A Vogue Brasil publicou que a tendência das "microweddings" (casamentos pequenos e íntimos) cresceu 180% em 2025 e continua em ascensão em 2026.
+Os casais querem uma cerimônia que reflita quem são, não o que as tendências ditam. Isso significa cerimônias íntimas de 30 pessoas, em vez de grandes festas de 300 convidados. Significa votos escritos à mão, músicas escolhidas com significado pessoal e decoração que conta uma história.
 
 ### 4. Conexão comunitária
 Os casamentos são cada vez mais vistos como um evento para reunir a comunidade, celebrar o amor e, muitas vezes, arrecadar fundos para uma causa. Casamentos-beneficência, casamentos com doação de alimentos e casamentos que plantam árvores em vez de enviar flores são exemplos dessa nova consciência.
 
 ## Casamentos Sustentáveis: Como Celebrar sem Destruir o Planeta
-
-![Casamentos sustentáveis em 2026](/artigos/casamentos-proposito-2026/section-2.webp)
 
 Em 2026, a palavra de ordem para casamentos é sustentável. Os casais querem celebrar sem deixar um rastro negativo no planeta. Veja como transformar seu casamento em um ato de amor ao próximo e à natureza:
 
@@ -75,8 +67,6 @@ Casamentos em 2026 estão cada vez mais usando energia renovável — painéis s
 
 ## Como Planejar um Casamento com Propósito sem Gastar uma Fortuna
 
-![Planejamento de casamento com propósito](/artigos/casamentos-proposito-2026/section-3.webp)
-
 Planejar um casamento sem gastar uma fortuna é possível, e em 2026 é uma escolha cada vez mais comum. O segredo está na intenção, na organização e na disposição de valorizar o essencial: o amor.
 
 ### 1. Defina um orçamento realista
@@ -94,8 +84,6 @@ Menos convidados significa menos gastos e mais intimidade. Em vez de 300 pessoas
 > **Observação da Lillith:** Querida, eu entendo que a pressão social para ter o casamento "perfeito" pode ser esmagadora. A família querendo cumprir protocolo, os amigos querendo uma festa como a da vizinha, as redes sociais expondo "casamentos dos sonhos" que, na maioria das vezes, são financiados por endividamento ou herança. Mas eu te pergunto: o que é perfeito para você? O que faz o seu coração acelerar de verdade? É um salão de cristal e um vestido de R$ 50 mil? Ou é a praia vazia, o pôr do sol e as mãos de alguém segurando as suas, dizendo "eu escolho você, hoje e sempre"? Escolha o que faz o seu coração cantar. Você não precisa de nada além disso para ser uma noiva linda e perfeita.
 
 ## Casamentos com Propósito: Como Celebrar com a Comunidade
-
-![Celebrar com a comunidade e os amigos](/artigos/casamentos-proposito-2026/section-4.webp)
 
 Os casamentos em 2026 são cada vez mais sobre reunir amigos e familiares, celebrar o amor e, muitas vezes, arrecadar fundos para uma causa significativa. A tendência dos "wedding for change" (casamento para a mudança) ganhou força no Brasil, e veja como incorporá-la:
 
@@ -183,7 +171,7 @@ Se você está em dúvida sobre como planejar seu casamento com propósito, aqui
 
 Os casamentos com propósito 2026 são mais do que uma moda — são a nova forma de amar. É sobre construir algo que dure, que cresça e que inspire. É sobre fazer do seu casamento não apenas um evento, mas um ato de amor, respeito e propósito. E o mais bonito de tudo é que você pode fazer isso sem gastar uma fortuna, sem perder a essência e sem perder a essência do que é o amor verdadeiro.
 
-*Continue explorando: [Brazilcore 2026](/artigos/brazilcore-hype-2026), [Moda Consciente 2026](/artigos/moda-consciente-2026-tendencias), [Beleza Inclusiva 2026](/artigos/beleza-inclusiva-2026), [Nutrição Saudável 2026](/artigos/nutricao-saudavel-2026), [Saúde Mental e Trabalho 2026](/artigos/saúde-mental-trabalho-2026).*
+*Continue explorando: [Brazilcore 2026](/artigos/brazilcore-hype-2026), [Moda Consciente 2026](/artigos/moda-consciente-2026-tendencias), [Beleza Inclusiva 2026](/artigos/beleza-inclusiva-2026), [Nutrição Saudável 2026](/artigos/nutricao-saudavel-2026), [Saúde Mental e Trabalho 2026](/artigos/saude-mental-trabalho-2026).*
 
 ---
 

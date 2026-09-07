@@ -87,7 +87,7 @@ Em 2026, o Pix transformou a forma como brasileiros lidam com dinheiro no dia a 
 
 ### Tendência 2026: Casamento com Menos Gastos e Mais Significado
 
-A chamada "recessão dos casamentos" fez surgir no Brasil um fenômeno interessante: casamentos menores, mais baratos e, paradoxalmente, mais memoráveis. O conceito de "micro wedding" (casamento para até 30 pessoas) cresceu 180% no Google Trends Brasil entre 2024 e 2026. Casais que antes gastariam R$ 80 mil em um salão decorado estão optando por celebrações de R$ 15 mil a R$ 30 mil — e relatando maior satisfação.
+A chamada "recessão dos casamentos" fez surgir no Brasil um fenômeno interessante: casamentos menores, mais baratos e, paradoxalmente, mais memoráveis. Casais que antes gastariam R$ 80 mil em um salão decorado estão optando por celebrações de R$ 15 mil a R$ 30 mil — e relatando maior satisfação.
 
 O motivo é simples: menos pessoas significa mais presença. Menos decorações significa mais atenção. Menos pressão significa mais alegria.
 
@@ -250,4 +250,4 @@ Que este guia ajude você a planejar não apenas uma festa, mas um começo de vi
 - [Relacionamentos Conscientes: Construindo uma União que Dura](/artigos/relacionamentos-conscientes-2026)
 - [Saúde Mental no Trabalho: Equilíbrio para Profissionais Exigidos](/artigos/saude-mental-trabalho-2026)
 - [Viagens Conscientes: Descobrindo o Brasil com Propósito](/artigos/viagens-conscientes-2026)
-- [Espiritualidade Feminina: Conexão com Seu Interior em 2026](/artigos/spiritualidade-feminina-2026)
+- [Espiritualidade Feminina: Conexão com Seu Interior em 2026](/artigos/espiritualidade-feminina-2026)

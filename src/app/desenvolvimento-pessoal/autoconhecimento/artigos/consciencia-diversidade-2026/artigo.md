@@ -56,7 +56,7 @@ Este artigo é um convite para refletir sobre diversidade e inclusão no Brasil 
 
 O Brasil é um dos países mais diversos do mundo — e essa diversidade é o resultado de séculos de miscigenação entre povos indígenas, europeus, africanos e asiáticos. Essa mistura criou uma cultura riquíssima, com tradições, sabores, línguas, músicas e visões de mundo que não existem em nenhum outro lugar do planeta. É uma riqueza que deveria ser celebrada — e, cada vez mais, está sendo.
 
-Mas a diversidade brasileira também é marcada por profundas desigualdades. O IBGE revela que, em 2026, mulheres negras ainda ganham, em média, 45% menos que homens brancos. A taxa de homicídio de jovens negros é três vezes maior que a de jovens brancos. O acesso à educação superior, à saúde de qualidade e à moradia digna ainda é profundamente desigual conforme a cor da pele e a região do país.
+Mas a diversidade brasileira também é marcada por profundas desigualdades. A taxa de homicídio de jovens negros é três vezes maior que a de jovens brancos. O acesso à educação superior, à saúde de qualidade e à moradia digna ainda é profundamente desigual conforme a cor da pele e a região do país.
 
 Reconhecer a diversidade brasileira não é apenas celebrar as diferenças — é confrontar as desigualdades que essas diferenças produzem. Uma mulher negra de periferia que não tem acesso a saneamento básico não está experimentando a "diversidade" de forma positiva. Ela está sendo penalizada por uma história que não escolheu.
 
@@ -70,7 +70,7 @@ A diversidade de gênero é um dos temas mais discutidos no Brasil em 2026. A vi
 
 Para as mulheres, a diversidade de gênero traz reflexões importantes. O feminismo contemporâneo reconhece que a libertação de todas as mulheres — especialmente das mais vulneráveis — requer uma aliança com pessoas de diferentes identidades de gênero. Isso significa apoiar o direito de pessoas trans deexistirem como querem, de usar banheiros correspondentes à sua identidade, de ter acesso a tratamentos de saúde afirmativa e de ser respeitadas em todos os espaços.
 
-No ambiente corporativo, a diversidade de gênero nas lideranças ainda é um desafio. Dados da ONU Mulheres de 2026 mostram que apenas 12% das diretorias de empresas brasileiras são compostas por mulheres — e esse número cai para menos de 3% quando falamos de mulheres negras ou trans.
+No ambiente corporativo, a diversidade de gênero nas lideranças ainda é um desafio.
 
 Para mulheres que querem ser aliadas da diversidade de gênero, algumas ações práticas incluem: educar-se sobre terminologia e experiências trans, usar pronomes corretos, confrontar piadas e comentários transfóbicos, e apoiar empresas e organizações que têm políticas de inclusão para pessoas trans.
 
@@ -78,7 +78,7 @@ Para mulheres que querem ser aliadas da diversidade de gênero, algumas ações 
 
 ## 3. Diversidade Funcional: Inclusão de Pessoas com Deficiência
 
-A diversidade funcional — também chamada de diversidade corporal ou deficiência — é uma das dimensões de diversidade mais negligenciadas na sociedade brasileira. Dados do IBGE mostram que 8,4% da população brasileira tem algum tipo de deficiência — um número que representa milhões de pessoas que enfrentam barreiras diárias de acessibilidade, emprego, educação e participação social.
+A diversidade funcional — também chamada de diversidade corporal ou deficiência — é uma das dimensões de diversidade mais negligenciadas na sociedade brasileira.
 
 Em 2026, o Brasil tem avançado em políticas de inclusão, como a Lei Brasileira de Inclusão (Lei 13.146/2015) e a obrigatoriedade de acessibilidade em edificações e transporte público. Mas a realidade ainda está longe do ideal. Muitas calçadas são intransitáveis, muitos prédios públicos não têm elevadores, e muitas empresas ainda veem a contratação de pessoas com deficiência como um "favor" ou um "cumprimento de cota" em vez de uma oportunidade de diversidade e inovação.
 

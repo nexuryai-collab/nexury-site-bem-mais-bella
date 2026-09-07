@@ -62,7 +62,7 @@ Uma carreira com propósito feminino é, em sua essência, um trabalho que está
 
 Em 2026, essa definição ganhou força no Brasil por três fatores principais: o aumento da conscientização sobre saúde mental no ambiente de trabalho, a emergência de novas profissões alinhadas com impacto social e ambiental, e a necessidade econômica de mulheres serem mais seletivas em suas escolhas profissionais diante da instabilidade do mercado corporativo tradicional.
 
-Uma pesquisa da Fundação Getúlio Vargas (FGV) divulgada em 2026 revela que 68% das mulheres brasileiras entre 25 e 45 anos consideram o "propósito profissional" como um fator importante ao escolher ou mudar de emprego — um número que quase dobrou desde 2018. A mesma pesquisa mostra que essas mulheres estão dispostas a aceitar salários menores em troca de trabalhos que ofereçam alinhamento com seus valores pessoais.
+A mesma pesquisa mostra que essas mulheres estão dispostas a aceitar salários menores em troca de trabalhos que ofereçam alinhamento com seus valores pessoais.
 
 Isso não é idealismo — é pragmatismo. Mulheres que trabalham em empregos alinhados com seus valores têm níveis de satisfação maiores, são mais produtivas, tomam menos dias de folga e têm menos problemas de saúde mental relacionados ao trabalho. O trabalho com propósito não é "mais macio" — é mais eficiente, mais sustentável e mais humano.
 

@@ -1,4 +1,5 @@
 ---
+author: "Lillith Nogah"
 title: "Saúde Mental em 2026: As Estratégias que Estão Mudando a Vida das Brasileiras"
 meta_description: "Saúde mental 2026 no Brasil: novas estratégias, apps de terapia, comunidades de apoio e autocuidado genuíno transformam a vida de milhões de brasileiras. Guia completo."
 palavra_chave: "saúde mental mulheres Brasil 2026 estratégias autocuidado"
@@ -23,7 +24,7 @@ status: "publicado"
 
 # Saúde Mental em 2026: As Estratégias que Estão Mudando a Vida das Brasileiras
 
-O Brasil bateu um recorde nada honroso em 2025: mais de 14 milhões de pessoas sofrem de depressão, segundo o Ministério da Saúde. A ansiedade atinge um terço da população urbana. E entre mulheres de 18 a 35 anos, os números são ainda mais alarmantes. Mas no meio desse cenário preocupante, algo novo está acontecendo: uma revolução silenciosa na forma como as brasileiras estão cuidando da saúde mental.
+A ansiedade atinge um terço da população urbana. E entre mulheres de 18 a 35 anos, os números são ainda mais alarmantes. Mas no meio desse cenário preocupante, algo novo está acontecendo: uma revolução silenciosa na forma como as brasileiras estão cuidando da saúde mental.
 
 Em 2026, não basta mais falar sobre saúde mental como tabu. O que está em alta são as **estratégias concretas, acessíveis e genuínas** — não as trends vazias de redes sociais, mas práticas que realmente transformam vidas. E o melhor: muitas delas não custam nada ou custam pouco. Vamos explorar o que está funcionando de verdade.
 
@@ -105,7 +106,7 @@ Mas é justamente nesse ponto mais escuro que a ajuda faz mais diferença. Não 
 
 Se você está em crise — pensano em se machucar ou fazer algo que coloque sua vida em risco — por favor, ligue para o **CVV (Centro de Valorização da Vida) no 188**, 24 horas por dia, gratuito. Você importa. Sua vida importa. E existe ajuda disponível.
 
-Para quem não está em crise mas quer cuidar preventivamente, explorar práticas de mindfulness pode ser um excelente caminho. Conheça nosso artigo sobre [Mindfulness para Mulheres 2026](/artigos/mindfulness-para-mulheres-2026) e descubra técnicas acessíveis para incorporar no dia a dia. E se a espiritualidade é parte da sua jornada, [Espiritualidade Prática Dia a Dia 2026](/artigos/espiritualidade-pratica-dia-a-dia-2026) oferece reflexões que podem iluminar seu caminho.
+Para quem não está em crise mas quer cuidar preventivamente, explorar práticas de mindfulness pode ser um excelente caminho. Conheça nosso artigo sobre [Mindfulness para Mulheres 2026](/artigos/mindfulness-para-mulheres-2026) e descubra técnicas acessíveis para incorporar no dia a dia. E se a espiritualidade é parte da sua jornada, Espiritualidade Prática Dia a Dia 2026 oferece reflexões que podem iluminar seu caminho.
 
 ---
 

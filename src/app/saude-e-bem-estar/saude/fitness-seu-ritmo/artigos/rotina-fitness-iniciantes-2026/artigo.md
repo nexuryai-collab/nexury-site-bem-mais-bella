@@ -27,17 +27,13 @@ relatedArticles:
 
 # Fitness Gentle 2026: A HYPE do Movimento Gentil para Mulheres Querem Começar
 
-![Mulher fazendo yoga suave ao amanhecer, fitness gentle ao ar livre](/artigos/rotina-fitness-iniciantes-2026/hero.webp)
-
-O **fitness gentle** — ou "movimento gentil" — é a maior HYPE do Brasil em 2026 para quem quer começar a se exercitar sem sofrimento. O TikTok Brasil registra 8.3 bilhões de views no hashtag #FitnessGentle, e o Google Trends mostra aumento de **312%** nas buscas por "movimento gentil" e "yoga para iniciantes" desde janeiro. A Harper's Bazaar Brasil destacou a tendência em sua edição de junho de 2026, e a WGSN listou "gentle movement" como a #1 tendência fitness global para o segundo semestre de 2026.
+O **fitness gentle** — ou "movimento gentil" — é a maior HYPE do Brasil em 2026 para quem quer começar a se exercitar sem sofrimento. A Harper's Bazaar Brasil destacou a tendência em sua edição de junho de 2026, e a WGSN listou "gentle movement" como a #1 tendência fitness global para o segundo semestre de 2026.
 
 O conceito é simples e revolucionário: **movimento que acolhe, não que puna**. Não é sobre chegar ao limite, suar tanto quanto possível ou seguir rotinas de atletas profissionais. É sobre sentir o corpo, respeitar os limites e construir o hábito com amor.
 
 > **Observação da Lillith:** Querida, eu sei que muitas de nós foram ensinadas a acreditar que exercício tem que ser dor. Que se não está sofrendo, não está fazendo certo. Que tem que se esforçar até o limite. Mas eu quero te contar algo: meu corpo pediu descanso. Não fraqueza — descanso. E aprender a ouvir isso foi o maior ato de amor que eu tive comigo mesma. Se você está acima do peso, se sua saúde não permite intenso, se você simplesmente odeia academia — você não está falhando. Você está começando de um lugar honesto. E isso já é lindo.
 
 ## O Que é Fitness Gentle?
-
-![Mulher caminhando em parque, movimento gentil e consciente](/artigos/rotina-fitness-iniciantes-2026/section-1.webp)
 
 Fitness gentle é um conceito que reúne:
 
@@ -52,31 +48,21 @@ A diferença do fitness tradicional: não há queima calórica obsessiva, não h
 
 ## Por Que Fitness Gentle é a HYPE de 2026?
 
-![Infográfico sobre os benefícios do fitness gentle para mulheres](/artigos/rotina-fitness-iniciantes-2026/section-2.webp)
+O fitness gentle surge como resposta: acessível, inclusivo, sem equipamento pesado.
 
-Os dados são claros: segundo pesquisa da Universidade Federal de São Paulo (UNIFESP) com 5.000 mulheres brasileiras, **67% desistiram de academias** em 2025 porque se sentiam julgadas, inadimplentes ou simplesmente "não pertenciam". O fitness gentle surge como resposta: acessível, inclusivo, sem equipamento pesado.
-
-A Carta Capital publicou em julho de 2026 que o mercado de "fitness inclusivo" cresceu **189%** no Brasil. Apps como Down Dog, Glo e Daily Yoga registraram aumento de 234% de novas usuárias brasileiras. Marca nacionais como Virgie e Ashua lançaram linhas de yoga premium acessíveis.
+Apps como Down Dog, Glo e Daily Yoga registraram aumento de 234% de novas usuárias brasileiras. Marca nacionais como Virgie e Ashua lançaram linhas de yoga premium acessíveis.
 
 No TikTok, criadoras como @movewithjo (6M seguidores) e @yogaconbebe (2.1M) popularizaram "movimento gentil para corpos reais". O termo #FitnessGentle tem vídeos com mulheres de 50+, com PCOS, com fibromialgia, pós-parto — todas mostrando que movimento é para TODOS corpos.
 
 ## Os 5 Benefícios Comprovados do Fitness Gentle
 
-![Mulher praticando yoga em casa, benefit do movimento gentil](/artigos/rotina-fitness-iniciantes-2026/section-3.webp)
-
-**1. Redução de Cortisol:** Estudos da USP (2026) mostram que 30 minutos de yoga suave reduzem cortisol em 27% — mais eficaz que cardio intenso para mulheres estressadas.
-
-**2. Melhora do Sono:** A prática regular de movimento gentil à noite aumenta a qualidade do sono em 38% (Journal of Sleep Research, 2026).
+**2.
 
 **3. Saúde Articular:** Pilates de chão e alongamento aumentam a flexibilidade em 22% em 8 semanas — sem risco de lesão.
-
-**4. Saúde Mental:** Caminhada consciente em natureza reduz sintomas de depressão em 26% (estudo UFRJ, 2026).
 
 **5. Adesão ao Hábito:** Mulheres que praticam fitness gentle têm 3x mais probabilidade de manter o hábito 12+ meses comparado a fitness intenso (Datafolha 2026).
 
 ## Rotina Fitness Gentle para Iniciantes (Semana 1-4)
-
-![Mulher fazendo alongamento suave em casa, rotina gentil de fitness](/artigos/rotina-fitness-iniciantes-2026/section-4.webp)
 
 **Semana 1-2 (Habituação):**
 - 10 minutos de respiração + alongamento ao acordar
@@ -97,11 +83,9 @@ No TikTok, criadoras como @movewithjo (6M seguidores) e @yogaconbebe (2.1M) popu
 
 ## Fitness Gentle x Diet Culture: A Quebra de Paradigma
 
-![Mulher feliz fazendo movimento gentil, sem foco em peso ou medida](/artigos/rotina-fitness-iniciantes-2026/section-5.webp)
-
 O fitness gentle é também uma **rebelião contra a cultura da dieta**. A WGSN publicou em agosto de 2026 que "fitness sem arrependimento" é a nova fronteira: mulheres que se exercitam pelo prazer do movimento, não pela culpa do sedentarismo.
 
-A Marie Claire Brasil entrevistou 1.200 mulheres e descobriu que **82% fazem exercício por obrigação**, não por prazer. O fitness gentle propõe inverter essa lógica: mover-se porque o corpo agradece, não porque deve.
+O fitness gentle propõe inverter essa lógica: mover-se porque o corpo agradece, não porque deve.
 
 Conexões com outros artigos do Bem Mais Bella:
 - [Beleza Regenerativa 2026](https://bemmaisbella.com.br/artigos/beleza-regenerativa-2026) — movimento gentil potencializa a regeneração celular
@@ -109,8 +93,6 @@ Conexões com outros artigos do Bem Mais Bella:
 - [Corpo Real 2026](https://bemmaisbella.com.br/artigos/corpo-real-2026) — corpos reais fazem movimento real
 
 ## Comunidades e Onde Praticar Fitness Gentle no Brasil
-
-![Grupo de mulheres praticando yoga em parque, comunidade de fitness gentle](/artigos/rotina-fitness-iniciantes-2026/hero.webp)
 
 O Brasil é um terreno fértil para fitness gentle:
 

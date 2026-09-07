@@ -185,8 +185,6 @@ Este artigo foi desenvolvido com base em fontes públicas e especializadas, incl
 
 ---
 
-*Este artigo faz parte da campanha "Moda Consciente 2026" do Bem Mais Bella. Ilustrações e imagens WebP disponíveis em /workspace/nexury-site-bem-mais-bella/public/images/maquiagem-consciente-2026/.*
-
 *Autora: Lillith Nogah — escritora, pensadora e defensora da beleza como ato de amor próprio.*
 
 ## Mensagem Final da Lillith Nogah — Você Já Está no Caminho
@@ -260,8 +258,6 @@ Nós, mulheres, temos o poder de criar uma nova narrativa para a beleza — uma 
 *Imagem principal: Uma mulher segurando um batom vegano enquanto olha para o espelho, com pétalas de rosa ao redor, simbolizando a valorização de si mesma e o respeito pela natureza.*
 
 *Imagens de seções adicionadas posteriormente conforme os temas são elaborados.*
-
-*Este artigo é baseado em pesquisas publicadas no Journal of Cosmetic Science (2025-2026) e análises de dados da Euromonitor International.*
 
 *Para mais informações sobre produtos de maquiagem conscientes e sustentáveis, visite a página de recursos do Bem Mais Bella ou entre em contato com nossa equipe editorial.*
 

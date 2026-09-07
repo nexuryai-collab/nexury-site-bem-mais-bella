@@ -64,7 +64,7 @@ O maior desafio de Carla não foi o financeiro — foi o emocional. "Eu tinha me
 
 Hoje, dois anos após abrir a loja, Carla fatura R$ 18 mil por mês, tem um negócio sustentável e, mais importante, sente que finalmente está vivendo uma vida que faz sentido para ela. "Não é sobre o dinheiro", ela diz. "É sobre acordar toda manhã sabendo que estou fazendo algo que importa — para mim, para as mulheres que emprego, para a comunidade."
 
-A história de Carla reflete uma tendência crescente no Brasil: o empreendedorismo tardio. De acordo com dados do Sebrae para 2026, 34% dos novos empreendedores brasileiros têm 40 anos ou mais — um aumento de 22% em relação a 2020. Esses empreendedores tardios tendem a ter negócios mais sustentáveis, com foco em impacto social e realização pessoal, além de lucro.
+A história de Carla reflete uma tendência crescente no Brasil: o empreendedorismo tardio. Esses empreendedores tardios tendem a ter negócios mais sustentáveis, com foco em impacto social e realização pessoal, além de lucro.
 
 Para mulheres que sonham em empreender tarde, Carla deixa três conselhos: primeiro, comece pequeno — você não precisa de um grande investimento para validar sua ideia. Segundo, busque apoio — há linhas de crédito específicas para empreendedores femininos acima de 40 anos. Terceiro, ignore o julgamento alheio — seu tempo é agora, não quando a sociedade disse que deveria ser.
 
@@ -100,7 +100,7 @@ A viagem solo trouxe para Fernanda algo que ela não sentia há anos: a sensaç�
 
 Fernanda não pretende parar de viajar tão cedo. Ela está planejando criar um blog de viagem para mulheres acima de 40 anos que querem explorar o mundo sozinhas, com dicas de segurança, orçamento e destinos acolhedores. "Quero mostrar que viajar sozinha não é apenas para jovens", ela diz. "É para qualquer mulher que tenha coragem de seguir seu próprio mapa — não o mapa que outros desenharam para ela."
 
-A história de Fernanda reflete um fenômeno crescente: o aumento do turismo solo feminino entre mulheres maduras no Brasil. Segundo o Ministério do Turismo, em 2026, 28% dos turistas brasileiros que viajaram sozinhos para o exterior tinham 40 anos ou mais — um aumento de 40% em relação a 2020. Essas viajantes tendem a priorizar experiências autênticas, imersão cultural e conexão com locais, em vez de turismo convencional de sol e praia.
+A história de Fernanda reflete um fenômeno crescente: o aumento do turismo solo feminino entre mulheres maduras no Brasil. Essas viajantes tendem a priorizar experiências autênticas, imersão cultural e conexão com locais, em vez de turismo convencional de sol e praia.
 
 Para mulheres que sonham em viajar sozinhas tarde, Fernanda deixa três conselhos: primeiro, comece com destinos próximos e seguros para ganhar confiança. Segundo, confie na sua intuição — se um lugar ou situação não parecer certo, vá embora, mesmo que isso signifique mudar seus planos. Terceiro, lembre-se de que viajar sozinha não é egoísmo — é um ato de autocuidado que permite que você volte para suas responsabilidades renovada e mais conectada consigo mesma.
 
@@ -118,7 +118,7 @@ Dois anos depois, Juliana não apenas recuperou sua saúde mental — ela descob
 
 Hoje, "Cuida de Você" atende cerca de 200 mulheres por mês, tanto online quanto presencialmente, e Juliana está treinando facilitadoras para levar o projeto a outras cidades brasileiras. "Aprendi que cuidar de si mesma não é egoísmo", ela diz. "É responsabilidade. Se eu não estou bem, não posso cuidar bem de ninguém — e mereço estar bem tanto quanto qualquer outra pessoa."
 
-A história de Juliana reflete uma conversa nacional que finalmente está ganhando espaço: a importância da saúde mental para mulheres brasileiras, especialmente aquelas em fases de transição como a pré-menopausa, o esgotamento profissional ou o ninho vazio. Segundo pesquisa do IBGE de 2026, 42% das mulheres brasileiras entre 40 e 59 anos relatam ter buscado ajuda para problemas de saúde mental nos últimos 12 meses — um aumento de 65% em relação a 2015.
+A história de Juliana reflete uma conversa nacional que finalmente está ganhando espaço: a importância da saúde mental para mulheres brasileiras, especialmente aquelas em fases de transição como a pré-menopausa, o esgotamento profissional ou o ninho vazio.
 
 Para mulheres que estão negligenciando sua própria saúde mental, Juliana deixa três conselhos: primeiro, comece pequeno — cinco minutos de respiração consciente por dia já fazem diferença. Segundo, busque apoio profissional — terapia não é apenas para crises, é para manutenção emocional. Terceiro, estabeleça limites — dizer "não" não é egoísmo, é preservação de si mesma.
 
@@ -134,7 +134,7 @@ Hoje, Luzia é coordenadora de um abrigo que acolhe mulheres em situação de vu
 
 Luzia não vê seu trabalho como sacrifício — ela vê como multiplicação. "Quando ajudo uma mulher a recomeçar, não estou apenas ajudando ela", ela explica. "Estou ajudando seus filhos, sua família, sua comunidade. Uma mulher que se levanta levanta todos ao seu redor."
 
-O trabalho de Luzia reflete um movimento poderoso no Brasil: o aumento do voluntariado e do trabalho social liderado por mulheres maduras. Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), em 2026, 31% do trabalho voluntário no país é realizado por mulheres entre 45 e 60 anos — um aumento de 38% em relação a 2010. Essas mulheres trazem para o trabalho voluntário uma combinação rara de disponibilidade de tempo, experiência de vida e empatia prática.
+O trabalho de Luzia reflete um movimento poderoso no Brasil: o aumento do voluntariado e do trabalho social liderado por mulheres maduras. Essas mulheres trazem para o trabalho voluntário uma combinação rara de disponibilidade de tempo, experiência de vida e empatia prática.
 
 Para mulheres que querem transformar seu próprio recomeço em ajuda para outras, Luzia deixa três conselhos: primeiro, comece onde você está — você não precisa esperar por condições perfeitas para fazer a diferença. Segundo, aproveite sua experiência de vida — o que você aprendeu ao longo dos anos é um recurso valioso para quem está começando agora. Terceiro, lembre-se de que ajudar os outros não diminui o seu próprio brilho — pelo contrário, ele o reflete e o multiplica.
 

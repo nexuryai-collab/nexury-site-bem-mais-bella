@@ -1,4 +1,5 @@
 ---
+author: "Lillith Nogah"
 title: "Aura Farming: A Tendência Viral dos Jovens que Transformou a Rua em Palco em 2026"
 meta_description: "Aura Farming explodiu no TikTok Brasil: jovens competem em círculos públicos para demonstrar confiança. Descubra a origem, o significado e como essa trend reflete a busca por autoestima."
 palavra_chave: "aura farming viral Brasil TikTok 2026"
@@ -97,7 +98,7 @@ O Aura Farming, de certa forma, é uma apropriação pop desses conceitos. Joven
 
 Essa conexão é especialmente relevante no Brasil, onde 26% da população segue alguma religião afro-brasileira segundo o último Censo. A spiritualidade está no DNA cultural brasileiro — e o Aura Farming é, involuntariamente, uma expressão moderna disso.
 
-Para quem quer aprofundar essa dimensão, práticas como meditação, yoga e tai chi chuan podem ajudar a desenvolver uma consciência corporal que vai muito além do "farming" de aura. E para quem busca conexões entre espiritualidade e autoconhecimento, vale conferir nosso artigo sobre [Espiritualidade Prática Dia a Dia 2026](/artigos/espiritualidade-pratica-dia-a-dia-2026).
+Para quem quer aprofundar essa dimensão, práticas como meditação, yoga e tai chi chuan podem ajudar a desenvolver uma consciência corporal que vai muito além do "farming" de aura. E para quem busca conexões entre espiritualidade e autoconhecimento, vale conferir nosso artigo sobre Espiritualidade Prática Dia a Dia 2026.
 
 ## O Lado Comercial: Como Marcas Estão Aproveitando o Aura Farming
 

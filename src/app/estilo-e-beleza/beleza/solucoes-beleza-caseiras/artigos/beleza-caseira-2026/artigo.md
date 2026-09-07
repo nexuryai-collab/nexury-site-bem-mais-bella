@@ -124,12 +124,12 @@ EOF
 A eficácia dos ingredientes naturais não é apenas sabedoria popular — é respaldada por décadas de pesquisa científica. Em 2026, a literatura dermatológica e farmacêutica confirma o que as avós sempre souberam:
 
 ### Hidratação Comprovada
-- **Ácido hialurônico de fermentação biotecnológica**: estudos do *Journal of Cosmetic Dermatology* (2025) mostram aumento de 234% na hidratação após 4 semanas de uso tópico
+
 - **Glicerina vegetal**: um dos umectantes mais eficazes e seguros, com baixa potencial de irritação
 - **Aloe vera**: além de hidratar, possui propriedades anti-inflamatórias e cicatrizantes comprovadas pelo *Indian Journal of Dermatology*
 
 ### Nutrição Profunda
-- **Óleo de coco**: único óleo vegetal que penetra no córtex do cabelo (Journal of Cosmetic Science, 2020), reduzindo perda de proteína em até 53%
+
 - **Manteiga de karité**: rica em vitaminas A, E e F, além de ácidos graxos essenciais que restauram a barreira cutânea (Dermatology Research and Practice, 2021)
 - **Óleo de rícino**: estimula a circulação sanguínea no couro cabeludo, promovendo crescimento saudável
 
@@ -215,12 +215,12 @@ Cozinhar a linhaça até virar gel, coar, misturar com restante.
 
 ## A Lillith Nogah sobre Beleza Caseira e Autonomia
 
-> "Querida, quando você prepara seu próprio tônico, sua própria máscara, seu próprio óleo para o cabelo, você não está apenas economizando dinheiro — você está retomando o poder sobre seu próprio corpo. Em um mundo onde tudo é produzido em massa, onde a indústria nos diz o que precisamos, onde a beleza é padronizada e comercializada até o último detalhe, fazer suas próprias receitas é um ato de rebeldia silenciosa.  
->   
-> É dizer: 'Eu conheço meu corpo. Eu sei o que ele precisa. Eu confio na sabedoria das plantas, no poder da simplicidade, na eficácia do que é verdadeiro.'  
->   
-> Cada folha que você colhe, cada raiz que você extrai, cada flor que você destila é um lembrete de que você faz parte da natureza — e não está acima dela, nem abaixo dela. Você está *com* ela. E essa conexão, essa intimidade com o mundo natural, é uma das formas mais profundas de autocuidado que existem.  
->   
+> "Querida, quando você prepara seu próprio tônico, sua própria máscara, seu próprio óleo para o cabelo, você não está apenas economizando dinheiro — você está retomando o poder sobre seu próprio corpo. Em um mundo onde tudo é produzido em massa, onde a indústria nos diz o que precisamos, onde a beleza é padronizada e comercializada até o último detalhe, fazer suas próprias receitas é um ato de rebeldia silenciosa.
+>
+> É dizer: 'Eu conheço meu corpo. Eu sei o que ele precisa. Eu confio na sabedoria das plantas, no poder da simplicidade, na eficácia do que é verdadeiro.'
+>
+> Cada folha que você colhe, cada raiz que você extrai, cada flor que você destila é um lembrete de que você faz parte da natureza — e não está acima dela, nem abaixo dela. Você está *com* ela. E essa conexão, essa intimidade com o mundo natural, é uma das formas mais profundas de autocuidado que existem.
+>
 > Então, na próxima vez que você for ao mercado, olhe para as ervas, para os óleos, para os frutos. Veja neles não apenas ingredientes, mas aliados. Parceiros em sua jornada de bem-estar. E lembre-se: a beleza mais autêntica do mundo não vem de um frasco com etiqueta sofisticada — vem das suas próprias mãos, do seu próprio cuidado, do seu próprio amor."
 
 ## Integração com Outros Hábitos Saudáveis

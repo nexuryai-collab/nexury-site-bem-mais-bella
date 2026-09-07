@@ -67,10 +67,8 @@ Investir não é apenas ganhar mais — é apoiar o que você acredita. Em 2026,
 
 ## A Educação Financeira no Brasil: Onde Estamos e Para Onde Vamos
 
-De acordo com pesquisas do Instituto de Pesquisa Econômica Aplicada (IPEA), apenas 35% dos brasileiros se consideram "financeiramente alfabetizados" em 2026 — embora esse número tenha crescido significativamente desde 2020, quando era de apenas 18%.
-
 As mulheres ainda enfrentam barreiras adicionais:
-- **Salário médio 22% inferior** ao dos homens (dados do IBGE 2025)
+
 - **Maior carga de trabalho não remunerado** (cuidados, tarefas domésticas)
 - **Menor acesso à educação financeira formal** em escolas tradicionais
 - **Maior vulnerabilidade** em situações de divórcio ou separação
@@ -183,10 +181,10 @@ Quando seu dinheiro trabalha para algo maior que você, ele deixa de ser apenas 
 
 > **Observação Final da Lillith Nogah — Para você que precisa de esperança financeira:**
 >
-> "Querida, se você está lendo isso e sente que o dinheiro nunca será suficiente, que cada mês é uma luta, que você nunca vai conseguir sair do lugar — eu quero que você ouça isso com o coração: você não está condenada. Você não é o que deve. Você não é a falta. Você é uma mulher com capacidades, com inteligência, com resiliência. E o primeiro passo para mudar qualquer situação é acreditar que a mudança é possível.  
->   
-> Comece com uma única ação: anote tudo o que você ganha e gasta por uma semana. Só isso. Não julgue. Só observe. Essa observação é o começo de tudo. E depois, uma ação de cada vez: negociem uma dívida, abra uma conta de investimento, busque um curso gratuito, peça ajuda.  
->   
+> "Querida, se você está lendo isso e sente que o dinheiro nunca será suficiente, que cada mês é uma luta, que você nunca vai conseguir sair do lugar — eu quero que você ouça isso com o coração: você não está condenada. Você não é o que deve. Você não é a falta. Você é uma mulher com capacidades, com inteligência, com resiliência. E o primeiro passo para mudar qualquer situação é acreditar que a mudança é possível.
+>
+> Comece com uma única ação: anote tudo o que você ganha e gasta por uma semana. Só isso. Não julgue. Só observe. Essa observação é o começo de tudo. E depois, uma ação de cada vez: negociem uma dívida, abra uma conta de investimento, busque um curso gratuito, peça ajuda.
+>
 > A prosperidade não é um destino — é uma jornada. E você pode caminhar essa jornada no seu ritmo, com suas condições, com suas limitações. Porque você merece uma vida sem medo. E você pode construí-la. Um passo, um real, um dia de cada vez. Eu acredito em você. Sempre."
 
 ![Seção 5 - Propósito](/images/financas-2026/secao-5.webp)
@@ -225,8 +223,6 @@ Comece onde você está. Com o que você tem. E com a certeza de que cada passo,
 - Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (ANBIMA) — Relatório ESG 2026
 - Publicações do Banco Central do Brasil sobre Educação Financeira
 - Relatórios da Organização para Cooperação e Desenvolvimento Econômico (OCDE) sobre Inclusão Financeira
-
-*Ilustrações e imagens WebP disponíveis em /workspace/nexury-site-bem-mais-bella/public/images/financas-2026/*
 
 *Autora: Lillith Nogah — defensora da prosperidade feminina, da educação financeira acessível e da crença de que cada mulher merece uma vida sem medo de contas.*
 ENDBLOCK

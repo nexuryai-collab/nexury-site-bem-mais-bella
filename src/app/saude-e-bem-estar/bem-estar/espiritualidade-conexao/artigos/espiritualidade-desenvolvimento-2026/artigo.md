@@ -215,8 +215,8 @@ Comece onde você está. Use o que você tem. Faça o que você pode. Sua espiri
 *Este artigo foi escrito com carinho por Lillith Nogah para o Bem Mais Bella — onde cada mulher encontra força, inspiração e propósito.*
 
 **Continue lendo:**
-- [Journaling 2026](/artigos/journaling-2026/artigo.md)
-- [Metas e Planejamento 2026](/artigos/metas-planejamento-2026/artigo.md)
-- [Equilíbrio e Autocuidado 2026](/artigos/equilibrio-autocuidado-2026/artigo.md)
+- [Journaling 2026](/artigos/journaling-2026)
+- [Metas e Planejamento 2026](/artigos/metas-planejamento-2026)
+- [Equilíbrio e Autocuidado 2026](/artigos/equilibrio-autocuidado-2026)
 
 **Palavras-chave:** espiritualidade desenvolvimento pessoal, práticas espirituais femininas, meditação mindfulness, conexão interior, autoconhecimento espiritual, espiritualidade não religiosa, crescimento pessoal 2026, mulher espiritual Brasil

@@ -24,7 +24,7 @@ Este guia completo revela como pequenas escolhas diárias podem transformar noss
 
 No Brasil, onde a cultura do consumo está profundamente enraizada, a evolução para uma mentalidade mais sustentável tem sido acelerada pela tecnologia e por uma nova geração consciente. Em 2026, o conceito de **consumo consciente** não é mais visto como um sacrifício — é uma **jornada de autoconhecimento** que alinha nossos valores pessoais com nosso impacto no planeta.
 
-Dados da Nielsen de 2026 mostram que 73% dos consumidores brasileiros dizem que **a sustentabilidade influencia suas decisões de compra**, um aumento significativo em relação aos 45% de 2023. Esse movimento é impulsionado por:
+Esse movimento é impulsionado por:
 
 - **Transparência digital:** QR codes e blockchain revelando cadeias de suprimentos
 - **Educação ambiental:** Conteúdo viral sobre impacto do consumo

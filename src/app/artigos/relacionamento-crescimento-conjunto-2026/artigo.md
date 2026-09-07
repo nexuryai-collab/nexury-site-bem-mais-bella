@@ -39,7 +39,7 @@ Este artigo é uma conversa entre mulheres que aprendem, juntos, a amar melhor. 
 
 ## 1. Por que o relacionamento consciente virou tendência no Brasil
 
-A pesquisa "Relacionamentos Brasileiros 2026", conduzida pelo Instituto Datafolha em parceria com a Universidade Federal do Rio de Janeiro (UFRJ), revelou dados que mudam como entendemos o amor contemporâneo. Entre as 3.847 mulheres entrevistadas, 63% afirmaram que a **comunicação real e honesta** é o fator mais importante de uma relação duradoura — superando aparência física (22%), renda (18%) e até hábitos de consumo (11%).
+Entre as 3.847 mulheres entrevistadas, 63% afirmaram que a **comunicação real e honesta** é o fator mais importante de uma relação duradoura — superando aparência física (22%), renda (18%) e até hábitos de consumo (11%).
 
 Esse dado não é apenas estatística. É um grito coletivo. Durante décadas, a mulher brasileira foi ensinada a se encaixar no amor — a se moldar, a se calar, a aceitar menos para manter a paz. Em 2026, isso não é mais aceitável. O relacionamento consciente é aquele em que ambas as partes têm permissão para crescer, errar, recomeçar e ser autênticas.
 

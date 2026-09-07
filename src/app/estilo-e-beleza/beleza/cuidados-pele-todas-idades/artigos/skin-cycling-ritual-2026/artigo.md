@@ -28,7 +28,7 @@ Diferente das rotinas tradicionais que aplicam os mesmos produtos todas as noite
 
 No Brasil, onde o clima quente e úmido pode intensificar reações a ativos como retinol e ácidos, o skin cycling se tornou particularmente relevante. Dermatologistas como a **Dra. Fernanda Matsumoto** (SP) relatam um aumento de 280% na adoção desse protocolo entre suas pacientes nos últimos 6 meses.
 
-O Google Trends confirma: buscas por "skin cycling" cresceram 450% no Brasil entre janeiro e agosto de 2026, posicionando-o como uma das **tendências HYPE mais sustentáveis** do ano. Isso não é uma moda passageira - é uma **mudança de paradigma** na forma como pensamos sobre cuidados com a pele.
+Isso não é uma moda passageira - é uma **mudança de paradigma** na forma como pensamos sobre cuidados com a pele.
 
 ### Os Quatro Pilares do Ritual
 
@@ -282,19 +282,19 @@ A beleza não é um destino a ser alcançado a qualquer custo. É um caminho a s
 
 ## Perguntas Frequentes
 
-**Q: Posso fazer skin cycling se estou grávida?**  
+**Q: Posso fazer skin cycling se estou grávida?**
 A: Consulte seu obstetra. Retinol é contraindicado na gravidez, mas você pode adaptar usando apenas bakuchiol (noite 1) e enzimas (noite 2), mantendo as noites de recuperação e hidratação.
 
-**Q: E se eu esquecer uma noite?**  
+**Q: E se eu esquecer uma noite?**
 A: Não se preocupe! O ciclo é flexível. Se pular uma noite, simplesmente continue na sequência onde parou. A pele é resiliente.
 
-**Q: Posso usar protetor solar durante o dia?**  
+**Q: Posso usar protetor solar durante o dia?**
 A: **Obrigatorio!** O skin cycling aumenta a fotossensibilidade - protetor solar FPS 30+ é essencial todas as manhãs.
 
-**Q: Quanto tempo para ver resultados?**  
+**Q: Quanto tempo para ver resultados?**
 A: Melhorias na hidratação e textura aparecem em 2-4 semanas. Resultados em colágeno e uniformização de tom levam 8-12 semanas.
 
-**Q: E se minha pele ficar vermelha na noite de ácido?**  
+**Q: E se minha pele ficar vermelha na noite de ácido?**
 A: Reduza a frequência - faça o ciclo a cada 10 dias em vez de 7. Ou diminua a concentração do ácido.
 
 ---

@@ -109,8 +109,6 @@ Uma marca independente que se tornou referência em **moda circular**. O modelo 
 2. **Cuidado Adequado** — Lavar roupas em temperaturas baixas e usar detergentes ecológicos prolonga a vida útil.
 3. **Participação em Programas de Recompra** — Muitas marcas oferecem descontos em futuras compras ao devolver peças usadas.
 
-
-
 ### A Importância do Design Inclusivo na Moda Sustentável
 
 A moda sustentável não se limita apenas ao meio ambiente; ela também deve ser socialmente inclusiva. Em 2026, as marcas que combinam sustentabilidade ambiental com práticas de inclusão social estão ganhando destaque no mercado brasileiro. Roupas adaptadas para pessoas com deficiências, tamanhos inclusivos e cortes que respeitam diferentes corpos são aspectos fundamentais dessa nova era da moda. A marca **Aura Curvas**, por exemplo, criou uma linha de roupas adaptáveis que permitem ajustes simples, permitindo que pessoas com diferentes necessidades físicas possam se expressar com estilo e conforto.
@@ -140,8 +138,6 @@ A mudança cultural também se reflete nas redes sociais. Influenciadores digita
 Adotar a moda sustentável no cotidiano não precisa ser complicado. Pequenas mudanças no comportamento podem gerar impactos significativos. Escolher roupas de qualidade, cuidar adequadamente das peças e participar de programas de troca são passos simples que qualquer pessoa pode tomar. Em 2026, muitas cidades brasileiras já possuem pontos de coleta de roupas usadas, facilitando o acesso a esses serviços.
 
 Além disso, a moda sustentável está se tornando uma expressão de identidade pessoal. Usar roupas com história, feitas de forma ética e com respeito ao planeta, tornou-se uma forma de afirmar valores e crenças. Essa conexão entre moda, ética e identidade pessoal é um dos aspectos mais poderosos dessa transformação.
-
-
 
 ### A Interseção entre Moda Sustentável e Beleza
 

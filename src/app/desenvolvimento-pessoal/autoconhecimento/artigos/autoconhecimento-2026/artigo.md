@@ -48,7 +48,6 @@ O mindfulness, praticado há milênios em diversas culturas, encontra hoje seu e
 
 #### Os Benefícios Científicos do Mindfulness em 2026
 
-- **Redução do estresse cortisol** em até 70% (estudo da USP)
 - **Melhoria da função executiva** em 45% (pesquisa do MIT)
 - **Aumento da neuroplasticidade** especialmente no córtex pré-frontal
 - **Equilíbrio do sistema nervoso autônomo** através da variabilidade da frequência cardíaca

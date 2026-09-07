@@ -3,7 +3,7 @@ title: "Moda Curadoria: Como Montar um Guarda-Roupa Intencional em 2026"
 description: "Aprenda a montar um guarda-roupa curado e intencional para 2026: menos peças, mais significado, consumo consciente e estilo autêntico para mulheres reais."
 keywords: "moda curadoria, guarda-roupa intencional, moda consciente 2026, minimalismo curado, consumo consciente moda, estilo autêntico, curadoria moda"
 canonical: "https://bemmaisbella.com.br/artigos/moda-curadoria-guardaruopa-2026"
-og_image: "https://bemmaisbella.com.br/images/moda-curadoria-guardaruopa-2026-hero.webp"
+og_image: /artigos/moda-curadoria-guardaruopa-2026/hero.webp
 og_title: "Moda Curadoria: Guarda-Roupa Intencional 2026 | Bem Mais Bella"
 og_description: "Montar um guarda-roupa curado é resistir ao consumo compulsivo. Descubra como fazer com menos peças, mais estilo e significado real."
 slug: "moda-curadoria-guardaruopa-2026"
@@ -17,13 +17,13 @@ tempo_leitura: "12 minutos"
 
 # Moda Curadoria: Como Montar um Guarda-Roupa Intencional em 2026
 
-![Moda Curadoria Guarda-Roupa](https://images.unsplash.com/photo-1483985988355-763728e1935b?w=800&q=80&fm=webp)
+![Moda Curadoria Guarda-Roupa](/artigos/moda-curadoria-guardaruopa-2026/hero.webp)
 
 Em 2026, uma das tendências mais fortes do Brasil não é uma cor, não é uma peça específica, e não é uma marca. É uma **postura**: a moda curatoria, o guarda-roupa intencional, a decisão consciente de que cada peça que entra no seu armário precisa ter um propósito real. Menos compras, mais significado. Menos peças, mais versatilidade.
 
 Esse movimento tem raízes profundas. O Pinterest Predicts 2026 aponta que buscas por "moda sem regras" e "beleza sem filtros" estão crescendo exponencialmente. O TikTok Next 2026 reforça o "Chá de Realidade" — o fim do consumo passivo e do "doomscrolling" de moda — e o ROI Emocional, que diz que a melhor compra é aquela que gera retorno emocional real. Juntas, essas tendências criaram o terreno perfeito para o guarda-roupa curado.
 
-Neste artigo, você vai aprender a fazer uma curadoria real: como avaliar o que já tem, o que precisa sair, o que precisa entrar, e como montar um armário que funciona para a sua vida real — não para uma vida imaginada. Com links para [moda consciente 2026](/artigos/moda-consciente-2026-tendencias) e [estilo inclusivo](/artigos/estilo-inclusivo-2026).
+Neste artigo, você vai aprender a fazer uma curadoria real: como avaliar o que já tem, o que precisa sair, o que precisa entrar, e como montar um armário que funciona para a sua vida real — não para uma vida imaginada. Com links para [moda consciente 2026](/artigos/moda-consciente-2026-tendencias) e [estilo inclusivo](/artigos/estilos-inclusivos-2026).
 
 ---
 
@@ -99,4 +99,4 @@ O guarda-roupa curado é, por definição, mais sustentável: você compra menos
 
 Moda curadoria não é sobre ter menos — é sobre ter **melhor**. Sobre ter peças que te representam, que te ajudam, que te fazem sentir você mesma. Em um mundo que tenta te convencer de que você precisa de tudo o tempo todo, a curadoria é a resposta mais elegante e poderosa: **escolher com intenção é também resistir com beleza**.
 
-Se este artigo te inspirou, explore também [moda inclusiva para todos os corpos](/artigos/inclusao-estilo-2026), [acessórios maximalistas que complementam](/artigos/acessorios-maximalismo-2026), e [compreendendo seu estilo autêntico](/artigos/autoconhecimento-2026).
+Se este artigo te inspirou, explore também [moda inclusiva para todos os corpos](/artigos/looks-para-todos-os-corpos-2026), [acessórios maximalistas que complementam](/artigos/acessorios-maximalismo-2026), e [compreendendo seu estilo autêntico](/artigos/autoconhecimento-2026).

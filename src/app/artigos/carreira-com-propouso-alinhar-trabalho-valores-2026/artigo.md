@@ -1,4 +1,5 @@
 ---
+author: "Lillith Nogah"
 title: "Carreira com Propósito: Como Alinhar Trabalho e Valores em 2026"
 description: "Descubra como construir uma carreira com propósito em 2026: alinhando trabalho, valores pessoais e impacto social. Guia completo para mulheres brasileiras que buscam significado."
 slug: carreira-com-propouso-alinhar-trabalho-valores-2026
@@ -7,9 +8,8 @@ category: Carreira e Finanças
 subcategory: Carreira com Propósito
 keywords: [carreira com propósito, trabalho significativo, alinhamento de valores, carreira 2026, propósito profissional]
 image: /images/carreira-proposito-2026/hero.webp
-og:image: https://bemmaisbella.com.br/images/carreira-proposito-2026/hero.webp
+og:image: /artigos/carreira-com-propouso-alinhar-trabalho-valores-2026/hero.webp
 date: 2026-09-05T00:00:00Z
-author: Nexury
 ---
 
 ## Introdução: O Novo Paradigma do Trabalho
@@ -152,7 +152,6 @@ Lembre-se: o trabalho mais significativo não é aquele que paga mais, mas aquel
 
 ---
 
-**Imagens WebP utilizadas:**
 1. Hero: /images/carreira-proposito-2026/hero.webp
 2. Autoconhecimento: /images/carreira-proposito-2026/autoconhecimento.webp
 3. Valores: /images/carreira-proposito-2026/valores.webp
@@ -161,6 +160,5 @@ Lembre-se: o trabalho mais significativo não é aquele que paga mais, mas aquel
 6. Habilidades: /images/carreira-proposito-2026/habilidades.webp
 
 **Total de palavras:** 2,678
-**Total de imagens WebP:** 6
 
 *Este artigo foi escrito para apoiar mulheres brasileiras na construção de carreiras com propósito e significado.*

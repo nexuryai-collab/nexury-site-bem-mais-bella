@@ -28,7 +28,7 @@ Por décadas, a indústria capilar brasileira foi dominada por processos químic
 
 A **transição capilar** — o processo de parar de usar químicas e deixar o cabelo crescer em sua textura natural — tornou-se mainstream. Não é mais um movimento de nicho; é uma escolha consciente de milhões de brasileiras que descobriram que seu cabelo natural não é um problema a ser resolvido, mas uma característica a ser celebrada.
 
-Dados da ABIHPEC mostram que, entre 2023 e 2026, as vendas de produtos para cabelo natural cresceram 280%, enquanto as de alisantes químicos caíram 45%. Essa não é apenas uma mudança de mercado — é uma mudança cultural.
+Essa não é apenas uma mudança de mercado — é uma mudança cultural.
 
 ## Tendências de Corte para 2026
 
@@ -211,10 +211,10 @@ O que você faz antes de dormir determina como acorda. Rotina noturna essencial:
 
 ## A Lillith Nogah Reflete — Quando o Cabelo é Espelho da Alma
 
-> "Amiga, seu cabelo já viu você chorar, rir, amar, perder, vencer. Ele esteve lá no seu primeiro coração partido, na formatura, no dia do casamento, no nascimento dos filhos, nas noites de insônia, nas manhãs de pressa. Ele absorveu seu suor, suas lágrimas, seus perfumes, seus medos. E mesmo assim, ele continua lá — crescendo, se renovando, te acompanhando.  
->   
-> Quando você cuida do seu cabelo com intenção, você não está apenas hidratando fios de queratina. Você está honrando a mulher que você é. Está dizendo: 'Eu me importo com essa parte de mim que o mundo vê, mas que só eu sinto por dentro.'  
->   
+> "Amiga, seu cabelo já viu você chorar, rir, amar, perder, vencer. Ele esteve lá no seu primeiro coração partido, na formatura, no dia do casamento, no nascimento dos filhos, nas noites de insônia, nas manhãs de pressa. Ele absorveu seu suor, suas lágrimas, seus perfumes, seus medos. E mesmo assim, ele continua lá — crescendo, se renovando, te acompanhando.
+>
+> Quando você cuida do seu cabelo com intenção, você não está apenas hidratando fios de queratina. Você está honrando a mulher que você é. Está dizendo: 'Eu me importo com essa parte de mim que o mundo vê, mas que só eu sinto por dentro.'
+>
 > Se hoje seu cabelo não está do jeito que você sonha, lembre-se: ele está fazendo o melhor que pode com o que você lhe dá. Seja generosa. Seja paciente. E, acima de tudo, seja gentil. O cabelo mais bonito do mundo não é o mais liso, o mais cacheado, o mais loiro ou o mais longo. É o cabelo de uma mulher que se ama — exatamente como ela é."
 
 ![Seção 6 - Reflexão](/images/cabelo-2026/secao-6.webp)
@@ -260,8 +260,6 @@ A única regra que importa: **cuide com amor**. Porque o cabelo mais bonito do m
 - *Tricologia SUS* (busca por dermatologistas especializados)
 - *App Meu Cabelo* (rotina personalizada por tipo de fio)
 
-*Ilustrações e imagens WebP disponíveis em /workspace/nexury-site-bem-mais-bella/public/images/cabelo-2026/*
-
 *Autora: Lillith Nogah — escritora, defensora da beleza natural e companheira de jornada de todas as mulheres em transição.*
 ENDBLOCK
 ## A História do Cabelo no Brasil: Das Raízes Ancestrais às Tendências Globais
@@ -304,7 +302,7 @@ Não é apenas o que você aplica no cabelo que importa — é como você vive. 
 
 ### Sono e Crescimento Capilar
 
-Estudos publicados no *Journal of Clinical Sleep Medicine* (2025) demonstraram que mulheres que dormem menos de 6 horas por noite apresentam queda capilar 35% maior do que aquelas que dormem 7-8 horas. O sono profundo é o momento em que a testosterona (relacionada ao crescimento capilar) e o hormônio do crescimento são secretados em maior quantidade.
+O sono profundo é o momento em que a testosterona (relacionada ao crescimento capilar) e o hormônio do crescimento são secretados em maior quantidade.
 
 **Dicas práticas:**
 - Mantenha um horário regular de sono
@@ -398,10 +396,10 @@ Todas essas tendências foram adaptadas com respeito à diversidade brasileira �
 
 ## A Lillith Nogah Reflete — Para as Mulheres que Lutam com Sua Imagem
 
-> "Querida, eu sei como é acordar e não gostar do que se vê no espelho. Eu sei como é comparar seu cabelo com o da influencer, com o da amiga, com o das atrizes da novela. Eu sei como é gastar dinheiro em produtos que prometem transformação e, no fim, não mudar nada. E eu sei como é se sentir sozinha nessa luta.  
->   
-> Mas eu preciso te dizer uma coisa que pode mudar tudo: **seu cabelo é seu, e só seu.** Ele não precisa ser como o de ninguém. Ele não precisa ser perfeito. Ele não precisa ser "instagramável". Ele só precisa ser **seu**. E quando você aceita ele assim — com suas imperfeições, sua textura, sua cor, suas particularidades — você está fazendo um dos atos mais revolucionários que existem: **você está se escolhendo**.  
->   
+> "Querida, eu sei como é acordar e não gostar do que se vê no espelho. Eu sei como é comparar seu cabelo com o da influencer, com o da amiga, com o das atrizes da novela. Eu sei como é gastar dinheiro em produtos que prometem transformação e, no fim, não mudar nada. E eu sei como é se sentir sozinha nessa luta.
+>
+> Mas eu preciso te dizer uma coisa que pode mudar tudo: **seu cabelo é seu, e só seu.** Ele não precisa ser como o de ninguém. Ele não precisa ser perfeito. Ele não precisa ser "instagramável". Ele só precisa ser **seu**. E quando você aceita ele assim — com suas imperfeições, sua textura, sua cor, suas particularidades — você está fazendo um dos atos mais revolucionários que existem: **você está se escolhendo**.
+>
 > E quando você se escolhe, o mundo aprende a te escolher também. Sua família, seus amigos, seu amor próprio, sua carreira, sua vida — tudo floresce quando a base é o respeito por si mesma. Então, hoje, faça uma coisa: olhe no espelho, olhe para o seu cabelo, e diga: 'Obrigada por estar comigo. Obrigada por crescer. Obrigada por me deixar ser quem eu sou.' Essa é a base de tudo. E ela é poderosa."
 
 ## Conclusão: Cabelo Como Casa, Cabelo Como Lar

@@ -1,1 +1,10 @@
-export default function Page() { return <main className="min-h-screen bg-[#0f051a] text-[#f5f0e6] p-12"><h1 className="text-5xl text-[#F72585]">Desenvolvimento Pessoal</h1><p className="text-[#9AA4AF] mt-4">Categoria Bem Mais Bella — conteudo em breve.</p></main> }
+import PaginaCategoria from '../../components/PaginaCategoria';
+
+export const metadata = {
+  title: 'Desenvolvimento Pessoal | Bem Mais Bella',
+  description: 'Autoconhecimento, journaling, metas e equilibrio. Ferramentas para quem quer se entender antes de se cobrar.',
+};
+
+export default function Page() {
+  return <PaginaCategoria cat="desenvolvimento-pessoal" descricao="Autoconhecimento, journaling, metas e equilibrio. Ferramentas para quem quer se entender antes de se cobrar." />;
+}

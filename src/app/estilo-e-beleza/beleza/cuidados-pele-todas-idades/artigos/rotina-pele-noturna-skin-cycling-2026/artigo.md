@@ -62,8 +62,6 @@ A diferença entre skin cycling e rotinas tradicionais está no **tempo de recup
 
 ### Estudos que Validam o Approach
 
-Segundo estudos de dermatologia publicados em revistas como a *Journal of Cosmetic Dermatology* e traduzidos pela Carta Capital, a aplicação intercalada de ácidos e retinoides aumenta a eficácia em até 30% quando comparada ao uso contínuo, reduzindo efeitos colaterais como descamação, vermelhidão e sensibilidade.
-
 O **Instituto Docher da Dermatologia** em São Paulo publicou em 2026 um estudo com 240 participantes brasileiros, que demonstrou:
 
 - **45% a mais de eficiência** na hidratação com pele

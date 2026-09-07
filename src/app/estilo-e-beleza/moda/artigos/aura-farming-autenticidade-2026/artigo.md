@@ -31,8 +31,6 @@ O Brasil é o terreno fértil para esse cultivo. Somos um país de contrastes �
 
 Diferente de trends que promovem comparação, aura farming celebra a **autenticidade**. Não é sobre ser a melhor. É sobre ser a sua melhor versão — aquela que você reconhece no espelho e respeita quando está sozinha.
 
-![Autenticidade Como Poder Feminino](/artigos/aura-farming-autenticidade-2026/sec1.webp)
-
 Para entender melhor a fundo, vale pensar nos três pilares do **aura farming** que viralizaram no TikTok Brasil em 2026:
 
 **1. Postura física consciente.** Não se trata de postura de manequim, nem de "andar como se fosse melhor que todo mundo". É o oposto. É permitir que o corpo relaxe, mas com presença. Ombros para trás, coluna alinhada, olhar que se permite encontrar o outro. A pesquisadora de comportamento corporal Ana Claudia Ribeiro explica, em entrevista ao jornal **Folha de S.Paulo**, que o corpo fala antes da boca. E no aura farming, a mensagem é: "estou aqui, e estou bem com isso".
@@ -67,13 +65,11 @@ Fale, sorria, olhe nos olhos. Não com agressividade, mas com verdade. O filóso
 
 A aura não é construída em mármore. Ela é feita de tentativas, tropeços, recomeços. Cada erro é uma camada. Cada recomeço, uma prova de coragem. Se você tropeçou hoje, levante com gentileza. Amanhã será outro dia.
 
-Leia também nosso artigo [Autenticidade e Realidade 2026](/artigos/autenticidade-realidade-2026/) e explore como a autenticidade se traduz em moda inclusiva.
-
-![Como Cultivar Sua Aura](/artigos/aura-farming-autenticidade-2026/sec2.webp)
+Leia também nosso artigo [Autenticidade e Realidade 2026](/artigos/autenticidade-realidade-2026) e explore como a autenticidade se traduz em moda inclusiva.
 
 ## Aura Farming e Moda: Vestindo Confiança
 
-A moda brasileira 2026 acompanha essa tendência: peças que não escondem o corpo, mas o celebram. Veja nosso artigo sobre [Moda Sustentável Inclusiva 2026](/artigos/moda-sustentavel-inclusiva-2026/) para ideias de looks que respeitam todos os corpos.
+A moda brasileira 2026 acompanha essa tendência: peças que não escondem o corpo, mas o celebram. Veja nosso artigo sobre [Moda Sustentável Inclusiva 2026](/artigos/moda-sustentavel-inclusiva-2026) para ideias de looks que respeitam todos os corpos.
 
 O **aura farming** aplicado à moda brasileira tem características únicas. Diferente do minimalismo escandinavo ou do maximalismo nova-iorquino, a versão brasileira mistura cores tropicais, texturas artesanais e silhuetas que celebram o movimento. É moda que respira — porque o corpo precisa respirar para a aura circular.
 
@@ -86,8 +82,6 @@ O **aura farming** aplicado à moda brasileira tem características únicas. Dif
 - **Look 3 — Rua com Propósito:** Jeans vintage de cintura alta + camiseta com frase que você acredita + jaqueta de couro surrada + coturno. Esse look é sobre atitude. Não importa se você está indo ao trabalho, ao bar ou ao encontro — você carrega sua própria história.
 
 A consultora de moda Daniela Thomas explica à **Vogue Brasil** que "a moda 2026 é sobre identidade, não sobre uniforme". E é exatamente isso que o **aura farming** propõe: você não está vestindo uma tendência. Está vestindo a sua própria verdade.
-
-![Moda e Aura: Vestindo Confiança](/artigos/aura-farming-autenticidade-2026/sec3.webp)
 
 ## Aura Farming no Trabalho: Profissionalismo com Verdade
 
@@ -116,8 +110,6 @@ Se você está em um momento de burnout, de ansiedade ou simplesmente de cansaç
 
 Se você marcou "sim" para pelo menos dois desses sinais, está na hora de praticar **aura farming** com mais intensidade. Não como tendência. Como cuidado.
 
-![Observação Lillith: Você É Suficiente](/artigos/aura-farming-autenticidade-2026/sec4.webp)
-
 ## Observação Lillith: Você É Suficiente
 
 > "Se você está lendo isso hoje e sente que precisa ser outra para ser aceita, eu quero te dizer algo simples e verdadeiro: você já é suficiente. Não pelo que faz, pelo que produz ou pelo que esconde. Apenas por existir, por ser mulher, por ser você nesse momento exato. Eu entendo a sua dor — já senti o peso de tentar ser o que o mundo espera. Mas aqui, neste espaço, não há julgamento. Há acolhimento. E se um dia você precisar de uma voz que diga que está tudo bem ser imperfeita, saiba que ela está aqui."
@@ -128,7 +120,6 @@ E se você está passando por uma fase em que se sente vazia, perdida, sem saber
 
 > "Eu, Lillith, já tive dias em que acordei e quis sumir. Dias em que o espelho parecia inimigo. Dias em que o celular era uma prisão de comparações. Mas aprendi — com tempo, com terapia, com paciência — que cultivar aura é cultivar gentileza comigo mesma. Não é sobre ser incrível. É sobre ser humana. E você, lendo isso agora, é profundamente humana. Isso basta. Você basta."
 
-
 ## Perguntas Frequentes Sobre Aura Farming
 
 **Aura farming é apenas uma moda?** Não. É uma resposta cultural ao cansaço do perfeccionismo. Quando uma tendência viraliza e se sustenta por meses, ela deixa de ser moda e se torna movimento.
@@ -138,8 +129,6 @@ E se você está passando por uma fase em que se sente vazia, perdida, sem saber
 **Posso praticar aura farming se sou tímida?** Sim. Aura farming não é sobre ser extrovertida. É sobre ser presente. Você pode ser silenciosa e poderosa ao mesmo tempo.
 
 **Como sei se estou fazendo certo?** Se você se sente mais você — menos tensa, menos preocupada com a opinião alheia, mais em paz — está funcionando.
-
-
 
 ## Aura Farming e Maternidade: Ser Mãe Sem Se Perder
 
@@ -163,9 +152,6 @@ Relacionamentos também se beneficiam dessa prática. Quando duas pessoas cultiv
 - Conversar sobre o que cada um sente, sem medo.
 - Celebrar conquistas individuais do parceiro.
 
-
-
-
 ## Aura Farming: O Que Ler Para Aprofundar
 
 Para quem quer se aprofundar no tema, recomendo:
@@ -188,4 +174,3 @@ Em 2026, a geração TikTok resgatou essa tradição com a linguagem dos memes, 
 
 Seja na moda, no trabalho, na saúde mental ou na vida cotidiana, cultivar aura é um ato de amor-próprio. Não espere a sociedade mudar para se permitir. Comece hoje. Respire. Ocupe. Seja.
 
-![Aura Farming Brasil](/artigos/aura-farming-autenticidade-2026/sec5.webp)

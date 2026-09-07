@@ -127,8 +127,6 @@ Para as mulheres brasileiras, a mensagem é clara: **cuidar da pele é cuidar de
 
 Em 2026, a tecnologia de skincare deixou de ser exclusividade de clínicas de estética. Dispositivos portáteis para uso doméstico — como rolos de microagulhas elétricos, LEDs de terapia de luz vermelha e géis condutivos inteligentes — estão democratizando tratamentos que antes exigiam profissionais especializados. Esses devices funcionam com Bluetooth e são conectados a aplicativos móveis que monitoram a evolução da pele ao longo do tempo, ajustando automaticamente a intensidade do tratamento conforme a necessidade.
 
-A popularidade desses dispositivos cresceu 340% no Brasil entre 2024 e 2026, segundo dados da ABIHPEC. Marcas como *Natura*, *L'Occitane* e *L'Oréal* lançaram linhas próprias de skincare tech, com preços que variam de R$ 200 a R$ 2.000, tornando a tecnologia acessível para diferentes perfis de consumo.
-
 A chave para o uso seguro desses dispositivos é a consistência: os resultados aparecem após 8-12 semanas de uso regular. Não é uma transformação instantânea, mas gradual — como a maioria das boas coisas da vida.
 
 ## Skincare para Cada Tipo de Pele em 2026
@@ -208,8 +206,6 @@ Além da alimentação, outros fatores do estilo de vida têm papel fundamental 
 - **Gestão do estresse**: práticas como meditação, yoga e respiração profunda reduzem o cortisol
 - **Hidratação**: mínimo de 2 litros de água por dia, ajustados para atividade física e clima
 - **Limite de álcool e açúcar**: ambos aceleram o envelhecimento e prejudicam a barreira cutânea
-
-Estudos da Universidade de São Paulo (USP) demonstraram que mulheres que combinaram skincare adequado com hábitos saudáveis apresentaram melhora de 40% na qualidade da pele em apenas 8 semanas.
 
 ## Tendências de Ingredientes em 2026
 

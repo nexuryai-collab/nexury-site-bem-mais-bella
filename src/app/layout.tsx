@@ -2,6 +2,11 @@ import type { Metadata } from 'next';
 import './globals.css';
 import './globals-premium.css';
 import { Cormorant_Garamond, Outfit } from 'next/font/google';
+import BuscaHeader from '../components/BuscaHeader';
+import MenuCategorias from '../components/MenuCategorias';
+import Movimento from '@/components/Movimento';
+import home from '@/lib/home.json';
+import { areasVisiveis } from '@/lib/taxonomia';
 
 const cormorant = Cormorant_Garamond({
   subsets: ['latin'],
@@ -16,14 +21,40 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
+  // Sem metadataBase, toda og:image sai como http://localhost:3000/... e
+  // cada compartilhamento em WhatsApp, Instagram ou Facebook vai sem imagem.
+  metadataBase: new URL('https://bemmaisbella.com.br'),
   title: 'Bem Mais Bella - Noticias',
   description: 'Estilo, saude, maternidade, carreira e desenvolvimento pessoal para a mulher brasileira.',
 };
+
+/**
+ * O menu nao e uma lista escrita a mao.
+ *
+ * Sai da taxonomia (a arvore do site) cruzada com o acervo (o que existe de
+ * fato). Area estruturada mas ainda sem materia — Famosos, por exemplo — tem
+ * rota e tem pagina, e nao aparece aqui ate ter o que mostrar.
+ */
+const TOTAL_POR_AREA: Record<string, number> = Object.fromEntries(
+  home.populares.map(c => [c.slug, c.total])
+);
+
+const COM_ACERVO = areasVisiveis(TOTAL_POR_AREA);
+
+/** Quatro atalhos no topo: os tres maiores do acervo mais as Ferramentas. */
+const atalhos = [
+  ...COM_ACERVO.slice()
+    .sort((a, b) => (TOTAL_POR_AREA[b.slug] || 0) - (TOTAL_POR_AREA[a.slug] || 0))
+    .slice(0, 3)
+    .map(a => ({ nome: a.curto || a.nome, url: '/' + a.slug })),
+  { nome: 'Ferramentas', url: '/ferramentas' },
+];
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="pt-BR" className={`${cormorant.variable} ${outfit.variable}`}>
       <body className="font-[family-name:var(--font-outfit)] bg-[#240046] text-[#9AA4AF] antialiased">
+        <Movimento>
         <div className="fixed top-0 left-0 w-full h-[3px] z-[60] bg-[rgba(36,0,70,0.9)]">
           <div className="h-full w-[35%] bg-gradient-to-r from-[#F72585] to-[#e85d8a] animate-[pulse_3s_ease-in-out_infinite] rounded-full" />
         </div>
@@ -41,14 +72,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </a>
 
             <nav className="hidden md:flex items-center gap-6 text-sm font-medium text-[#9AA4AF]">
-              {['Inicio','Estilo e Beleza','Saude','Maternidade','Relacionamentos','Carreira'].map(link => (
-                <a key={link} href="#" className="hover:text-[#F72585] transition-colors">{link}</a>
+              <a href="/em-alta" className="hover:text-[#F72585] transition-colors">Em Alta</a>
+              <MenuCategorias />
+              {atalhos.map(link => (
+                <a key={link.url} href={link.url} className="hover:text-[#F72585] transition-colors">{link.nome}</a>
               ))}
             </nav>
 
-            <div className="relative">
-              <input type="text" placeholder="Pesquisar..." className="w-48 lg:w-72 bg-[#45495f]/60 border border-[rgba(240,72,133,0.2)] rounded-full px-4 py-2 text-sm text-[#9AA4AF] placeholder:text-[#9AA4AF]/50 focus:outline-none focus:border-[#F72585] focus:ring-2 focus:ring-[#F72585]/20 transition-all" />
-            </div>
+            <BuscaHeader />
           </div>
         </header>
 
@@ -57,7 +88,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </main>
 
         <footer className="bg-[#1a0a2e] border-t border-[rgba(240,72,133,0.12)] mt-16">
-          <div className="max-w-6xl mx-auto px-6 py-12 grid md:grid-cols-4 gap-8 text-sm">
+          <div className="max-w-6xl mx-auto px-6 py-12 grid md:grid-cols-3 gap-8 text-sm">
             <div>
               <h3 className="font-serif text-xl text-[#f5f0e6] mb-3">Bem Mais Bella</h3>
               <p className="text-[#9AA4AF]/70 leading-relaxed">Noticias, estilo e desenvolvimento para a mulher brasileira.</p>
@@ -65,26 +96,40 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <div>
               <h4 className="font-semibold text-[#F72585] mb-3">Categorias</h4>
               <ul className="space-y-2 text-[#9AA4AF]/80">
-                {['Estilo e Beleza','Saude e Bem-Estar','Maternidade','Relacionamentos','Carreira'].map(c => <li key={c}><a href="#" className="hover:text-[#F72585] transition">{c}</a></li>)}
+                {COM_ACERVO.map(c => (
+                  <li key={c.slug}>
+                    <a href={'/' + c.slug} className="hover:text-[#F72585] transition">{c.nome}</a>
+                  </li>
+                ))}
               </ul>
             </div>
             <div>
-              <h4 className="font-semibold text-[#F72585] mb-3">Monetizacao</h4>
+              <h4 className="font-semibold text-[#F72585] mb-3">Institucional</h4>
               <ul className="space-y-2 text-[#9AA4AF]/80">
-                {['AdSense','eBooks','PLR','Dropshipping','SaaS'].map(i => <li key={i}><a href="#" className="hover:text-[#F72585] transition">{i}</a></li>)}
+                {[
+                  { nome: 'Em Alta Agora', url: '/em-alta' },
+                  { nome: 'Ferramentas', url: '/ferramentas' },
+                  { nome: 'Para Voce', url: '/para-voce' },
+                  { nome: 'Compras', url: '/compras' },
+                  { nome: 'Sobre Nos', url: '/sobre-nos' },
+                  { nome: 'Politica Editorial', url: '/politica-editorial' },
+                  { nome: 'Comunidade', url: '/comunidade' },
+                  { nome: 'Buscar no acervo', url: '/busca' },
+                  { nome: 'Politica de Privacidade', url: '/politica-de-privacidade' },
+                  { nome: 'Termos de Uso', url: '/termos-de-uso' },
+                ].map(l => (
+                  <li key={l.url}>
+                    <a href={l.url} className="hover:text-[#F72585] transition">{l.nome}</a>
+                  </li>
+                ))}
               </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold text-[#F72585] mb-3">Contato</h4>
-              <p className="text-[#9AA4AF]/80">Telegram: @felipelelis</p>
-              <p className="text-[#9AA4AF]/80">Instagram, TikTok, YouTube</p>
             </div>
           </div>
           <div className="max-w-6xl mx-auto px-6 py-4 border-t border-[rgba(240,72,133,0.08)] text-xs text-[#9AA4AF]/50 flex justify-between items-center">
             <span>Bem Mais Bella - 2026. Todos os direitos reservados.</span>
-            <span>Status: HTTP 200</span>
           </div>
         </footer>
+        </Movimento>
       </body>
     </html>
   );

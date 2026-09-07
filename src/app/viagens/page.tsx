@@ -2,6 +2,7 @@ import Link from 'next/link'
 import { NOTICIAS_MOCK } from '@/lib/mock-data'
 
 export const metadata = {
+  robots: { index: false, follow: false },
   title: 'Viagens | Bem Mais Bella',
   description: 'Dicas de viagens para mulheres viajantes, destinos, roteiros e segurança',
 }

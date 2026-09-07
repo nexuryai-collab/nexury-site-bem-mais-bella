@@ -1,4 +1,7 @@
 ---
+author: "Lillith Nogah"
+category: "Estilo e Beleza"
+subcategory: "Beleza"
 slug: manicure-3d-2026
 title: Manicure 3D: Unhas Tridimensionais como Obra de Arte no Brasil 2026
 meta_description: Manicure 3D 2026: unhas tridimensionais, texturas, aplicações e arte escultural que dominam salões brasileiros e viralizam no TikTok.

@@ -23,7 +23,7 @@ A prática de mindfulness deixou de ser tendência para se tornar estilo de vida
 
 ## 1. Por Que o Mindfulness é Essencial para Mulheres em 2026
 
-As mulheres brasileiras carregam múltiplas cargas: trabalho, casa, família, expectativas sociais, o famoso "segundo turno". Segundo dados do IBGE, as mulheres ainda realizam em média 75% do trabalho doméstico não remunerado no Brasil. Essa sobrecarga tem impacto direto na saúde mental, aumentando níveis de estresse, ansiedade e exaustão emocional.
+As mulheres brasileiras carregam múltiplas cargas: trabalho, casa, família, expectativas sociais, o famoso "segundo turno". Essa sobrecarga tem impacto direto na saúde mental, aumentando níveis de estresse, ansiedade e exaustão emocional.
 
 ![Mulheres e sobrecarga — dados IBGE](/images/mulheres-sobrecarga.webp)
 
@@ -99,14 +99,11 @@ Um aspecto crucial do mindfulness para mulheres é o relacionamento com emoçõe
 Em vez de "contornar" essas emoções com comida, trabalho excessivo, rolagem infinita de redes sociais, o mindfulness oferece um espaço seguro para sentir. Sentir a tristeza no peito, a raiva no corpo, o medo no estômago — sem tentar "consertá-las" imediatamente — é um ato de coragem e autocompaixão. Muitas mulheres descobrem que, ao permitirem-se sentir, as emoções fluem e se transformam naturalmente, sem precisar de estratégias de coping disfuncionais.
 
 ---
-
-**Links internos:**
-
-- [Autocuidado Mental em 2026](/artigos/autocuidado-mental-2026)
+**Leia também:**
+- [Autocuidado Mental em 2026](/artigos/saude-mental-estrategias-2026)
 - [Autocuidado Consciente 2026](/artigos/autocuidado-consciente-2026)
-- [Prosperidade Consciente 2026](/artigos/prosperidade-consciente-2026)
-- [Saúde Mental: Jornada Feminina 2026](/artigos/saude-mental-jornada-2026)
+- Prosperidade Consciente 2026
+- [Saúde Mental: Jornada Feminina 2026](/artigos/saude-mental-journaling-2026)
 
 ---
 
-*Artigo gerado automaticamente pelo Nexus (Nexus = segunda mente de Fellipe Lelis) para Bem Mais Bella. Inspirado em Gov.br, Carta Capital, Insight Timer.*

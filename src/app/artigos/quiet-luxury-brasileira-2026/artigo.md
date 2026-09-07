@@ -15,7 +15,7 @@ subcategory: Moda
 
 Existe um tipo de poder que não precisa gritar para ser ouvido. É o poder de quem veste uma camisa de seda pura, sem estampa, sem logo, e mesmo assim faz todo mundo na sala virar o pescoço. Esse é o espírito do **Quiet Luxury** — a tendência que dominou 2026 no Brasil e que não mostra sinais de ir embora tão cedo.
 
-Chamado também de "luxo silencioso" ou "elegância sem ostentação", o Quiet Luxury é mais do que uma moda: é uma filosofia. E as brasileiras estão entendendo a mensagem. Segundo dados da WGSN, uma das maiores consultorias de tendências do mundo, o segmento de moda de luxo discreto cresceu 34% no Brasil entre 2025 e 2026, com destaque para peças em seda natural, cashmere, linho premium e algodão egípcio.
+Chamado também de "luxo silencioso" ou "elegância sem ostentação", o Quiet Luxury é mais do que uma moda: é uma filosofia. E as brasileiras estão entendendo a mensagem.
 
 Este artigo é para você que quer entender por que todo mundo está falando de Quiet Luxury — e como穿上 essa tendência sem parecer que está tentando.
 

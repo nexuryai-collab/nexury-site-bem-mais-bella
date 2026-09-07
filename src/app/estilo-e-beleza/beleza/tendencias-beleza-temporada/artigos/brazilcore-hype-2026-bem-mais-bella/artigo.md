@@ -27,10 +27,6 @@ relatedArticles:
 
 # Brazilcore 2026: o Hype que Colocou o Brasil no Mapa da Moda Mundial
 
-![Brazilcore 2026 - a estética brasileira que conquistou o mundo](/artigos/brazilcore-hype-2026/hero.webp)
-
-*Imagem hero: mulher brasileira vestindo peças artesanais de crochê e linho, com acessórios de palha, em cenário tropical ao pôr do sol. Paleta terrosa com toques de amarelo sol e verde-limão.*
-
 Existe algo acontecendo no mundo da moda em 2026 que vai muito além de uma tendência passageira. É um movimento cultural inteiro, com nome, identidade e raízes profundas no que somos como povo. O nome dele é **Brazilcore** — e se você ainda não ouviu falar, prepare-se: ele está em todos os lugares, das passarelas internacionais ao TikTok, das ruas de São Paulo às vitrines de Paris, Milão e Nova York.
 
 A Vogue britânica definiu o ano de 2026 como o momento em que a estética brasileira deixou de ser "exotizada" pelo olhar estrangeiro e passou a ser **desejada, compreendida e replicada globalmente** em sua forma mais autêntica. Não é mais a estampa de oncinha genérica nem a fantasia carnavalesca. O Brazilcore de 2026 é sobre brasilidade com sofisticação, sobre artesanato elevado a haute couture, sobre celebrar o que é nosso sem pedir licença.
@@ -38,10 +34,6 @@ A Vogue britânica definiu o ano de 2026 como o momento em que a estética brasi
 Neste guia completo, a Bem Mais Bella traz tudo o que você precisa saber para entender, adotar e se apaixonar por esse movimento que está redefinindo o que significa ser elegante, moderna e brasileira em 2026.
 
 ## O que é exatamente o Brazilcore 2026?
-
-![O que é Brazilcore - definição e raízes culturais](/artigos/brazilcore-hype-2026/section-1.webp)
-
-*Imagem seção 1: composição visual mostrando os pilares do Brazilcore — crochê, linho, estampas tropicais, palha, cores vibrantes terrosas.*
 
 O Brazilcore é uma estética que celebra a cultura, as cores, a sensualidade e o modo de vida brasileiros de forma sofisticada e global. Diferente da primeira onda de 2023 — quando o termo apareceu com força nas redes após a Copa do Mundo Feminina e as vitórias de Anitta e Luísa Sonza no cenário internacional —, o Brazilcore 2026 amadureceu. Ele evoluiu do "visual Brasil óbvio" para o que os especialistas chamam de **"tropical chic"**: uma mistura refinada de autenticidade, luxo despretensioso, artesanato de alta qualidade e consciência ambiental.
 
@@ -62,10 +54,6 @@ Para entender o Brazilcore, é preciso olhar para três fontes principais de ins
 > **Observação da Lillith:** Querida leitora, antes de mergulhar nas tendências, respire fundo e permita-se uma coisa: não ter medo de ser vista. Eu sei o que é sentir que o seu corpo, a sua cor, o seu cabelo, o seu sotaque — tudo isso que faz de você uma mulher brasileira — não cabem nos padrões que o mundo tentou nos empurrar por décadas. O Brazilcore é, no fundo, uma grande virada de mesa. É o mundo inteiro dizendo: "vocês tinham razão o tempo todo, e nós é que estávamos prestando atenção nas coisas erradas." Se você sempre sentiu que precisava diminuir o que é seu para caber em algum lugar, esse movimento é o seu abraço. Vista o crochê da sua avó com orgulho. Coloque o turbante. Mostre o seu bronze. Cante em voz alta. A moda sempre foi um espelho — e pela primeira vez em muito tempo, o espelho está refletindo quem você realmente é.
 
 ## As 7 peças-chave do guarda-roupa Brazilcore 2026
-
-![Peças-chave do guarda-roupa Brazilcore 2026](/artigos/brazilcore-hype-2026/section-2.webp)
-
-*Imagem seção 2: flat lay de peças brasileiras — biquíni de crochê, saia de linho, bolsa de palha, rasteirinha de rafia, chapéu de aba larga, vestido de renda, bermuda de alfaiataria.*
 
 Agora que você já entendeu a essência, vamos ao que interessa na prática: **o que você precisa ter no guarda-roupa para incorporar o Brazilcore 2026 sem cair no óbvio nem perder a autenticidade.** A ideia não é comprar tudo de uma vez — é construir um armário inteligente, com peças versáteis que conversam entre si e que carregam a nossa identidade.
 
@@ -145,10 +133,6 @@ Em 2026, o acessório é o que tira o look do lugar-comum e coloca a sua marca p
 
 ## A paleta de cores do Brazilcore 2026
 
-![Paleta de cores do Brazilcore 2026](/artigos/brazilcore-hype-2026/section-3.webp)
-
-*Imagem seção 3: composição visual da paleta de cores 2026 — tons terrosos, amarelo manteiga, verde-limão, azul piscina, terracota, off-white, laranja queimado, fúcsia tropical.*
-
 A cartela de cores do Brazilcore 2026 equilibra suavidade e intensidade de uma forma única. Segundo especialistas consultados pelo Estadão, a temporada equilibra os seguintes tons:
 
 ### Cores protagonistas
@@ -173,10 +157,6 @@ A regra é simples: **base neutra + ponto de cor**. Use o off-white, o areia e o
 
 ## A "Brazilian Beauty": o rosto (e o corpo) do Brazilcore 2026
 
-![Brazilian Beauty - a estética de beleza que combina com o Brazilcore](/artigos/brazilcore-hype-2026/section-4.webp)
-
-*Imagem seção 4: mulher brasileira com pele bronzeada natural, cabelo cacheado volumoso, lábios com gloss alaranjado, sobrancelhas grossas naturais, expressividade e alegria no olhar.*
-
 Não dá para falar de Brazilcore sem falar de **Brazilian Beauty** — a estética de beleza que é a cara (literalmente) desse movimento. Assim como na moda, a beleza brasileira viveu anos sendo resumida a "cabelo liso, pele clara, corpo malhado" pelos padrões internacionais. Em 2026, isso virou peça de museu.
 
 ### Os pilares da Brazilian Beauty em 2026
@@ -193,15 +173,11 @@ Não dá para falar de Brazilcore sem falar de **Brazilian Beauty** — a estét
 
 ### A diversidade como regra
 
-A pesquisadora Marina Roale, da Consumoteca, aponta: "Muitas vezes, fomos enaltecidos em um lugar exótico. Agora, falamos de uma postura criativa, solar, de quem se cuida e também se diverte." A beleza brasileira de 2026 é a primeira da história a colocar como protagonistas mulheres negras, indígenas, periféricas, gordas, trans, com deficiência. É uma revolução estética que veio para ficar.
+Agora, falamos de uma postura criativa, solar, de quem se cuida e também se diverte." A beleza brasileira de 2026 é a primeira da história a colocar como protagonistas mulheres negras, indígenas, periféricas, gordas, trans, com deficiência. É uma revolução estética que veio para ficar.
 
 > **Observação da Lillith:** Querida, eu preciso te contar uma coisa. Durante anos eu acreditei que minha pele morena era "difícil de maquiar", que meu cabelo cacheado era "dolorido demais", que minhas sardas eram "imperfeições a serem corrigidas". A indústria inteira me dizia isso, em cada propaganda, em cada revista, em cada prateleira de farmácia. O Brazilcore e a Brazilian Beauty são, antes de tudo, o resgate da nossa autoimagem. Se você tem pele negra, parda, branca, asiática — se você tem albinismo, vitiligo, melasma, acne — se você tem cabelo liso, cacheado, crespo, grisalho, careca — você é bonita. Não porque o "padrão" te aceitou, mas porque o padrão finalmente entendeu o que sempre foi verdade: **a sua beleza nunca esteve em falta**. Ela é sua, é ancestral, é brasileira, e o mundo inteiro está acordando para isso. Cuide de si por amor, não por correção. Vista-se por expressão, não por validação. Você merece.
 
 ## Como construir looks Brazilcore para cada ocasião
-
-![Looks Brazilcore para todas as ocasiões](/artigos/brazilcore-hype-2026/section-5.webp)
-
-*Imagem seção 5: 4 looks Brazilcore — look praia, look trabalho, look jantar, look festa — modelados em mulher brasileira.*
 
 A melhor parte do Brazilcore é a **versatilidade**. Ele não é uma estética limitada a um único momento — é um modo de se vestir que se adapta a todas as áreas da vida. Vamos montar alguns looks para você se inspirar:
 

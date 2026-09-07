@@ -27,19 +27,11 @@ relatedArticles:
 
 # Maternidade Consciente 2026: Criar com Amor, Presença e Autocuidado
 
-![Maternidade consciente - mãe brasileira brincando com filho em um parque, sorrindo, com naturalidade](/artigos/maternidade-consciente-2026/hero.webp)
-
-*Imagem hero: mãe brasileira com pele morena, cabelo natural, sorrindo enquanto brinca com seu filho em um parque urbano cheio de árvores e luz natural.*
-
 A maternidade está vivendo uma revolução silenciosa em 2026. Longe dos manuais rígidos, das cobranças por perfeição e do mito da "mãe superheroína", surge uma nova forma de ser mãe: **mais presente, mais gentil consigo mesma e mais conectada com seus filhos**. A Maternidade Consciente não é sobre ser perfeita — é sobre ser autêntica.
 
 A Bem Mais Bella acredita que criar filhos é uma das jornadas mais profundas que uma mulher pode viver — e que essa jornada deve ser feita com amor, não com medo. Neste artigo, você vai descobrir como aplicar os princípios da maternidade consciente no seu dia a dia, cultivando uma relação saudável com seus filhos e, principalmente, com você mesma.
 
 ## O que é Maternidade Consciente?
-
-![O que é maternidade consciente - definição e princípios](/artigos/maternidade-consciente-2026/section-1.webp)
-
-*Imagem seção 1: composição visual mostrando os pilares da maternidade consciente - presença, empatia, limites saudáveis, autocuidado, conexão.*
 
 Maternidade Consciente é uma abordagem de criação que prioriza:
 
@@ -52,10 +44,6 @@ Maternidade Consciente é uma abordagem de criação que prioriza:
 A psicóloga infantil **Dra. Sofia Mendes**, especialista em apego seguro, explica: "Mães conscientes sabem que o objetivo não é criar filhos obedientes, mas crianças seguras, empáticas e capazes de regular suas próprias emoções. E isso começa com o exemplo da mãe."
 
 ## Os mitos da maternidade que estamos deixando para trás
-
-![Mitos da maternidade que estamos superando](/artigos/maternidade-consciente-2026/section-2.webp)
-
-*Imagem seção 2: lista de mitos sendo derrubados - "mãe deve ser feliz o tempo todo", "mãe boa nunca se cansa", "filhos devem ser quietos e obedientes".*
 
 Por décadas, a maternidade foi cercada por mitos que geraram culpa, ansiedade e sofrimento desnecessário. Em 2026, estamos finalmente desafiando essas crenças limitantes:
 
@@ -77,10 +65,6 @@ Por décadas, a maternidade foi cercada por mitos que geraram culpa, ansiedade e
 > **Observação da Lillith:** Querida, eu sei como é difícil ser mãe neste mundo. Eu sei como aquela voz interna diz: "Você não está fazendo o suficiente", "Outra mãe teria agido melhor", "Seus filhos vão crescer traumatizados por causa disso". Mas deixa eu te dizer uma coisa: **você está fazendo o melhor que pode com os recursos que tem naquele momento**. E isso é mais do que suficiente. Seus filhos não precisam de uma mãe perfeita — eles precisam de uma mãe que os ame, que esteja disposta a aprender, que peça desculpa quando erra e que mostre, com o exemplo, que é possível ser humana e ainda assim amar profundamente. Essa é a verdadeira maternidade consciente: não a ausência de erros, mas a presença de amor, mesmo nos momentos difíceis.
 
 ## Os 5 pilares da maternidade consciente em 2026
-
-![Os 5 pilares da maternidade consciente](/artigos/maternidade-consciente-2026/section-3.webp)
-
-*Imagem seção 3: ilustração dos 5 pilares da maternidade consciente com exemplos práticos.*
 
 ### 1. **Autocuidado materno**
 Não é luxo — é necessidade. Uma mãe que não se cuida não tem energia para cuidar bem dos filhos.
@@ -133,10 +117,6 @@ Construir um vínculo seguro que dure a vida inteira.
 - Conversas antes de dormir (perguntas abertas sobre o dia)
 
 ## Fase por fase: o que esperar em cada etapa
-
-![Fases da maternidade consciente](/artigos/maternidade-consciente-2026/section-4.webp)
-
-*Imagem seção 4: linha do tempo mostrando o que esperar em cada fase - bebê, criança pequena, pré-escolar, escolar, pré-adolescente.*
 
 ### **0-12 meses (Bebê)**
 - Foco: apego seguro e regulação mútua
@@ -232,6 +212,6 @@ Seus filhos não vão lembrar se a casa estava sempre arrumada ou se você sempr
 
 ---
 
-*Quer continuar explorando o universo da família? Leia também nossos artigos sobre [Vida em Família](/artigos/vida-em-familia-2026), [Educação Consciente](/artigos/educacao-conscious-2026) e [Relacionamentos Conscientes](/artigos/relacionamentos-conscientes-2026).*
+*Quer continuar explorando o universo da família? Leia também nossos artigos sobre Vida em Família, Educação Consciente e [Relacionamentos Conscientes](/artigos/relacionamentos-conscientes-2026).*
 
 **Sobre a autora:** Lillith Nogah é jornalista especializada em maternidade e desenvolvimento infantil. Mãe de duas crianças, acredita que criar com consciência é um dos maiores atos de amor que existem.

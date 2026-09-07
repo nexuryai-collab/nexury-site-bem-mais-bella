@@ -19,8 +19,6 @@ wordCount: 2900
 
 No Brasil de 2026, a busca pelo autoconhecimento tornou-se uma das tendências mais poderosas e profundas. Mais do que simplesmente "conhecer a si mesma", as mulheres brasileiras estão abraçando uma jornada de **escuta íntima, cura interior e propósito**. Este movimento vai além do mindfulness e do journaling — é uma revolução silenciosa que está transformando não apenas indivíduos, mas famílias, comunidades e a própria sociedade.
 
-O relatório "Wellness Trends Brasil 2026" da Euromonitor destaca que o autoconhecimento é a prática que mais cresceu entre mulheres brasileiras nos últimos 12 meses, com um aumento de 62% na busca por terapias, práticas contemplativas e ferramentas de desenvolvimento pessoal.
-
 No TikTok e Instagram, hashtags como #Autoconhecimento, #JornadaInterior e #EuConheçoSomente acumulam mais de 3 bilhões de visualizações, provando que este não é apenas um hype — é uma necessidade real de nossa época.
 
 ## Observação de Lillith Nogah
@@ -60,8 +58,6 @@ A ciência confirma o que tradições orientais sabiam há milênios: a atençã
 
 #### Benefícios Comprovados (2026)
 - **Redução de 40% na ansiedade**: Estudos do Instituto Albert Einstein (SP)
-- **Melhora de 35% na memória**: Pesquisa da UFRJ
-- **Aumento de 28% na empatia**: Estudo da USP
 - **Redução de 30% no cortisol**: Meta-análise publicada em revista científica internacional
 
 #### Práticas Mais Buscadas no Brasil 2026

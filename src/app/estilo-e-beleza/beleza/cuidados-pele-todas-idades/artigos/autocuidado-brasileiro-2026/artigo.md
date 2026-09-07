@@ -30,7 +30,7 @@ relatedArticles:
 
 Em 2026, o autocuidado deixou de ser um luxo e se tornou uma necessidade existencial para milhões de brasileiras. O conceito de "autocuidado brasileiro" transcende a simples aplicação de máscaras faciais ou sessões de spa — ele representa uma filosofia de vida que celebra a biodiversidade, a ancestralidade e o respeito pelo próprio corpo. Enquanto o mundo corre atrás de fórmulas importadas, o Brasil descobre que a resposta para o bem-estar está na sua própria mata, em seus ingredientes ancestrais e na sabedoria de seus povos originários.
 
-O que começou como uma tendência nas redes sociais tornou-se um movimento cultural, econômico e emocional. Segundo pesquisas recentes do IBGE e do Ministério da Saúde, mais de 65% das mulheres brasileiras entre 18 e 45 anos adotaram alguma prática de autocuidado regular em 2026 — um aumento de 40% em relação a 2023. Este artigo explora o fenômeno do autocuidado brasileiro, suas raízes na biodiversidade nativa, as tendências que estão dominando o mercado de beleza e bem-estar, e oferece um guia completo para incorporar essas práticas ao seu dia a dia.
+O que começou como uma tendência nas redes sociais tornou-se um movimento cultural, econômico e emocional. Este artigo explora o fenômeno do autocuidado brasileiro, suas raízes na biodiversidade nativa, as tendências que estão dominando o mercado de beleza e bem-estar, e oferece um guia completo para incorporar essas práticas ao seu dia a dia.
 
 ## A Origem do Autocuidado Brasileiro
 
@@ -44,7 +44,7 @@ A influência de práticas como o banho de assento, o uso de ervas medicinais, e
 
 O TikTok Brasil foi um dos principais catalisadores do movimento de autocuidado em 2026. O hashtag #autocuidadobrasileiro acumulou mais de 2 bilhões de visualizações, com vídeos mostrando rotinas de skincare com ingredientes amazônicos, rituais de banho com sais minerais e óleos essenciais, e dicas de maquiagem que valorizam a beleza natural. O Instagram acompanhou com uma onda de reels mostrando "morning routines" e "night rituals" que misturam tradição e modernidade.
 
-Segundo dados do Google Trends Brasil, a busca por "autocuidado" cresceu 180% entre janeiro e agosto de 2026, enquanto termos como "skincare com ingredientes amazônicos" e "bem-estar natural brasileiro" registraram picos históricos de pesquisa. A palavra-chave "autocuidado brasileiro 2026" consolidou-se como uma das mais pesquisadas no país, especialmente entre mulheres de 25 a 40 anos.
+A palavra-chave "autocuidado brasileiro 2026" consolidou-se como uma das mais pesquisadas no país, especialmente entre mulheres de 25 a 40 anos.
 
 ## A Biodiversidade como Caminho para o Bem-Estar
 

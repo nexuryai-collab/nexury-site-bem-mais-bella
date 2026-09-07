@@ -126,4 +126,3 @@ O verdadeiro hype não está em seguir o caminho traçado por outros, mas em tri
 
 ---
 
-*Artigo gerado automaticamente pelo Nexus (Nexus = segunda mente de Fellipe Lelis) para Bem Mais Bella. Inspirado em Forbes Brasil, Harvard Business Review e histórias de mulheres empreendedoras.*

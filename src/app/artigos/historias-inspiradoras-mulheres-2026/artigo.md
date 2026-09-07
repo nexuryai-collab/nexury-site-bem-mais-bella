@@ -45,7 +45,7 @@ Começou a fazer bolos caseiros para vender nas redes sociais. No início, eram 
 
 Fernanda grew up in the perifery of São Paulo, filha de mãe empregada doméstica e pai que nunca teve employment fixo. Na escola pública, ninguém esperava muito dela. Mas ela não aceitava esse destino.
 
-Estudava 4 horas por noite num celular emprestado. Participou de programas sociais que ofereciam reforço escolar. Passou no vestibular para Letras na USP. Depois, com uma bolsa de estudos, fez mestrado e foi aceita num programa de doutorado em Harvard.
+Estudava 4 horas por noite num celular emprestado. Participou de programas sociais que ofereciam reforço escolar. Passou no vestibular para Letras na USP.
 
 "Eu nunca tive os mesmos recursos que os meus colegas de turma. Mas tinha algo que eles talvez não tinham: a consciência de que o único caminho era para frente. Cada dificuldade era um combustível."
 
@@ -85,7 +85,7 @@ As histórias de mulheres são poderosas porque muitas vezes são silenciadas. Q
 
 A ciência confirma: narrativas de superação inspiram resiliência. Quando lemos ou ouvimos histórias de pessoas que enfrentaram desafios semelhantes e conseguiram superar, nosso cérebro libera oxitocina e dopamina — hormônios de conexão e motivação. As histórias ativam a empatia e a imaginação, mostrando que a mudança é possível.
 
-Segundo a Carta Capital e a Marie Claire, o interesse por histórias de mulheres reais — não celebridades, não influenciadores — cresceu 300% no Brasil entre 2024 e 2026. O público quer autenticidade, não perfeição.
+O público quer autenticidade, não perfeição.
 
 ## 8. Como Transformar Sua Própria História
 
@@ -126,8 +126,7 @@ Em 2026, mais mulheres estão encontrando espaço para contar suas histórias. M
 Que cada mulher que lê este artigo saiba: sua história importa. E quando você estiver pronta, o mundo está ouvindo.
 
 ---
-
-**Links Internos:**
+**Leia também:**
 - [Mulheres Empoderadas 2026](/src/app/artigos/femmes-empoderadas-2026) — Lideranças que transformam
 - [Com a Voz da Mulher 2026](/src/app/artigos/com-voz-da-mulher-2026) — Autoestima e coragem
 - [Autocuidado Mental 2026](/src/app/artigos/autocuidado-mental-2026) — Cuidado com a mente

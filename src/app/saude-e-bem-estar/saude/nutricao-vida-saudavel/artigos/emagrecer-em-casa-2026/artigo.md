@@ -158,7 +158,6 @@ O emagrecimento saudável não é uma corrida — é uma relação com você mes
 
 *Observação de Lillith Nogah: "O melhor treino é aquele que você faz. A melhor refeição é aquela que você se sente bem ao comer. O melhor plano é aquele que respeita seu ritmo, seu corpo, sua vida."*
 
-
 <!--
 ESPECIFICAÇÕES DE IMAGEM (Blog Ninja / Blog Bem Mais Bella):
 - Dimensões: 750x400px (largura x altura)

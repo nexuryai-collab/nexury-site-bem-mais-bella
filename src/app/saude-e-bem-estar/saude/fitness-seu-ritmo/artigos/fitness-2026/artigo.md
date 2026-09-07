@@ -24,7 +24,7 @@ O ano de 2026 trouxe uma revolução silenciosa no mundo do fitness brasileiro. 
 
 ## A Evolução do Fitness: De Acadêmico para Holístico
 
-Nos últimos dez anos, o setor de fitness no Brasil passou por uma metamorfose. De acordo com pesquisas do IBGE e do Ministério da Saúde, o número de academias e centros de atividades físicas saltou de 22 mil para mais de 62 mil unidades, refletindo não apenas o aumento da conscientização sobre saúde, mas também a diversificação de opções disponíveis. Já não se trata apenas de "academias tradicionais"; temos estúdios especializados, parques urbanos equipados, aplicativos de treino personalizado, dispositivos vestíveis que monitoram cada batimento cardíaco e até mesmo programas que intelem o exercício com terapias de saúde mental.
+Nos últimos dez anos, o setor de fitness no Brasil passou por uma metamorfose. Já não se trata apenas de "academias tradicionais"; temos estúdios especializados, parques urbanos equipados, aplicativos de treino personalizado, dispositivos vestíveis que monitoram cada batimento cardíaco e até mesmo programas que intelem o exercício com terapias de saúde mental.
 
 O que impulsiona essa mudança? Três fatores principais:
 
@@ -69,7 +69,7 @@ O treinamento funcional foca em movimentos que imitam atividades do dia a dia: a
 ## Tendência 3: Fitness ao Ar Livre e Conexão com a Natureza
 
 ### O Boom do Outdoor
-Após anos de academias fechadas ou com capacidade limitada, as mulheres brasileiras redescobertam o prazer de se exercitar ao ar livre. Parques urbanos, praias, trilhas e até mesmo ruas calmas se tornaram estúdios de fitness naturais. Segundo uma pesquisa do Datafolha realizada em março de 2026, 68% das mulheres que praticam atividade física regularmente relatam que preferem fazer pelo menos parte de seus treinos ao ar livre, citando benefícios como:
+Após anos de academias fechadas ou com capacidade limitada, as mulheres brasileiras redescobertam o prazer de se exercitar ao ar livre. Parques urbanos, praias, trilhas e até mesmo ruas calmas se tornaram estúdios de fitness naturais.
 - Melhora do humor e redução do estresse (graças à exposição à luz solar e ao contato com o verde)
 - Maior variedade de estímulos (terreno irregular, vento, mudança de paisagem)
 - Senso de liberdade e conexão com a comunidade (encontrar outros corredores, grupos de yoga no parque)
@@ -98,11 +98,6 @@ Em 2026, as mulheres brasileiras entenderam que o progresso no fitness não acon
 - **Sono de Qualidade**: Reconhecido como o pilar mais importante da recuperação, o sono de 7-9 horas por noite é priorizado por atletas de alto desempenho e entusiastas do fitness. Dicas incluem: evitar telas uma hora antes de dormir, manter o quarto fresco e escuro, e usar técnicas de respiração como o 4-7-8 para relaxar.
 
 ### A Conexão com a Saúde Mental
-O fitness de 2026 não se limita ao corpo físico; ele inclui explicitamente a saúde mental. Estudos da USP e da Unicamp mostram que mulheres que combinam exercício físico com práticas de redução de estresse (como meditação, respiração consciente ou terapia) apresentam:
-- Redução de 40% nos sintomas de ansiedade e depressão
-- Melhoria na qualidade do sono
-- Maior consistência na rotina de exercícios (pois o estresse não as impede de treinar)
-- Maior senso de autoeficácia e confiança
 
 ### Dicas para Integrar Bem-Estar e Recuperação
 1. **Agende a Recuperação Como Treino**: Reserve slots na sua semana especificamente para recuperação (alongamento, massagem, banho de contraste). Trate-os como compromissos não negociáveis.
@@ -123,9 +118,9 @@ O fitness de 2026 não se limita ao corpo físico; ele inclui explicitamente a s
 ### Para Intermediárias (3-12 meses de atividade regular)
 **Objetivo**: Melhorar força, resistência e explorar novas modalidades.
 - **3x por semana**: Alternar entre:
-  - Dia A: Treino funcional com elastics ou peso moderado (circuito de 30-40 minutos)
-  - Dia B: Atividade aeróbica variada (corrida leve, ciclismo, natação) - 30-40 minutos
-  - Dia C: Yoga, pilates ou aula de mobilidade - 30 minutos
+- Dia A: Treino funcional com elastics ou peso moderado (circuito de 30-40 minutos)
+- Dia B: Atividade aeróbica variada (corrida leve, ciclismo, natação) - 30-40 minutos
+- Dia C: Yoga, pilates ou aula de mobilidade - 30 minutos
 - **1x por semana**: Treino de força focado (agachamento com barra, levantamento terra, supino) - 40 minutos
 - **1x por semana**: Atividade ao ar livre em grupo (trilha leve, corrida no parque, aula de outdoor fitness)
 - **2x por semana**: Recuperação ativa (alongamento dinâmico, rolo de espuma, banho de contraste leve)

@@ -27,19 +27,11 @@ relatedArticles:
 
 # Viagens Conscientes 2026: Explorando o Mundo com Propósito, Sustentabilidade e Autoconhecimento
 
-![Mulher brasileira viajando sozinha, com mochila, em uma trilha montanhosa, olhando para o horizonte com expressão de liberdade](/artigos/viagens-conscientes-2026/hero.webp)
-
-*Imagem hero: mulher brasileira de 30 anos com mochila leve, em uma trilha montanhosa brasileira, olhando para o horizonte com expressão de liberdade, sol nascendo.*
-
 Viajar já não é mais apenas sobre tirar férias — é sobre **se transformar**. Em 2026, as brasileiras estão redescobrindo o poder das viagens conscientes: experiências que respeitam o ambiente, valorizam as comunidades locais e, principalmente, nos conectam com algo maior do que nós mesmas.
 
 A Bem Mais Bella acredita que cada viagem pode ser uma jornada de autoconhecimento, uma oportunidade de ver o mundo de outra forma e de voltar para casa com uma nova perspectiva sobre a própria vida. Este guia vai te inspirar a viajar com mais propósito e menos culpa.
 
 ## O que são Viagens Conscientes?
-
-![Definição de viagens conscientes](/artigos/viagens-conscientes-2026/section-1.webp)
-
-*Imagem seção 1: infográfico mostrando os pilares das viagens conscientes - sustentabilidade, respeito cultural, impacto local, crescimento pessoal.*
 
 Viagens Conscientes são aquelas planejadas e vividas com:
 
@@ -52,10 +44,6 @@ Viagens Conscientes são aquelas planejadas e vividas com:
 A pesquisadora de turismo sustentável **Dra. Carla Monteiro** explica: "Turismo consciente não é turismo 'menor' ou 'menos luxuoso'. É turismo mais inteligente — você gasta menos dinheiro em resorts de luxo e mais em experiências autênticas que mudam sua vida."
 
 ## Destinos brasileiros para viagens conscientes em 2026
-
-![Destinos brasileiros para viagens conscientes](/artigos/viagens-conscientes-2026/section-2.webp)
-
-*Imagem seção 2: mapa ilustrativo mostrando 7 destinos brasileiros - Chapada dos Veadeiros, Paraty, Fernando de Noronha, Vale do Pati, Serra da Capivara, São Bento do Sapucaí, Ilha do Cardoso.*
 
 ### 1. **Chapada dos Veadeiros (GO)**
 Natureza preservada, cachoeiras, trilhas. Comunidades locais vivem do turismo de forma sustentável. Ideal para quem quer reconectar com a natureza.
@@ -79,10 +67,6 @@ Montanhas, cachoeiras, turismo rural e de aventura. Pequenas pousadas familiares
 Reserva ecológica, acesso apenas por barco, vida marinha, turismo comunitário com pescadores locais.
 
 ## Como viajar de forma consciente na prática
-
-![Como viajar de forma consciente](/artigos/viagens-conscientes-2026/section-3.webp)
-
-*Imagem seção 3: ilustração prática - mochila leve, transporte público, hospedagem local, compras de artesãos, respeito ao ambiente.*
 
 ### **Antes da viagem:**
 - Pesquise o destino (história, cultura, desafios ambientais)
@@ -109,10 +93,6 @@ Reserva ecológica, acesso apenas por barco, vida marinha, turismo comunitário 
 
 ## Viagens como ferramenta de autoconhecimento
 
-![Viagens como ferramenta de autoconhecimento](/artigos/viagens-conscientes-2026/section-4.webp)
-
-*Imagem seção 4: mulher brasileira em viagem solo, meditando ao amanhecer, escrevendo em diário, contemplando paisagem.*
-
 Viajar sozinha, em particular, é uma das experiências mais transformadoras para uma mulher:
 
 ### **Benefícios comprovados:**
@@ -131,10 +111,6 @@ Viajar sozinha, em particular, é uma das experiências mais transformadoras par
 - Seja gentil com você mesma (não precisa ver tudo, fazer tudo)
 
 ## Viagens sustentáveis: como reduzir o impacto ambiental
-
-![Como reduzir o impacto ambiental das viagens](/artigos/viagens-conscientes-2026/section-5.webp)
-
-*Imagem seção 5: dicas práticas de sustentabilidade - transporte, hospedagem, consumo, resíduos, compensação de carbono.*
 
 - **Transporte**: prefira trem, ônibus, bicicleta. Quando voar, escolha voos diretos e compensação de carbono
 - **Hospedagem**: hotéis com certificação ambiental, pousadas familiares, camping

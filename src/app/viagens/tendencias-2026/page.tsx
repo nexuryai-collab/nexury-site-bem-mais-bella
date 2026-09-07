@@ -1,3 +1,7 @@
+
+export const metadata = {
+  robots: { index: false, follow: false },
+};
 ﻿const destinos = [
   'Destinos da Temporada',
   'Dicas para Mulheres Viajantes',

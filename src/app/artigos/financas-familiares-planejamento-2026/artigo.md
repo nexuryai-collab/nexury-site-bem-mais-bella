@@ -144,7 +144,7 @@ Parece distante, mas planejar a sucessão patrimonial é responsabilidade de qua
 
 ## 6. Empreendedorismo Familiar: Uma Alternativa Brasileira
 
-O empreendedorismo familiar é uma das maiores fontes de renda no Brasil. Segundo a Receita Federal, há mais de 20 milhões de MEIs (Microempreendedores Individuais) no país — muitos são mulheres chefes de família.
+O empreendedorismo familiar é uma das maiores fontes de renda no Brasil.
 
 **6.1 Vantagens do Empreendedorismo Familiar**
 - Flexibilidade de horário.
@@ -221,8 +221,7 @@ Finanças familiares não são sobre dinheiro — são sobre futuro, sobre segur
 Comece hoje. Anote suas despesas. Separe 10% da renda para o futuro. Ensine seus filhos sobre dinheiro. E nunca esqueça: a maior riqueza de uma família não está no banco — está nos laços, no amor e na esperança de um amanhã melhor.
 
 ---
-
-**Links Internos:**
+**Leia também:**
 - [Finanças Femininas 2026](/src/app/artigos/financas-femininas-2026) — Independência financeira feminina
 - [Prosperidade Feminina 2026](/src/app/artigos/prosperidade-feminina-2026) — Mulheres transformando o Brasil
 - [Maternidade Real: Sem Filtro 2026](/src/app/artigos/maternidade-real-sem-filtro-2026) — Autenticidade na maternidade

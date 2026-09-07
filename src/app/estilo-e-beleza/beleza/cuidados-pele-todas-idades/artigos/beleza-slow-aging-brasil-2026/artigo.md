@@ -53,7 +53,7 @@ Uma rotina de slow aging brasileira inclui:
 - **Proteção solar diária**, mesmo em dias nublados.
 - **Sono de qualidade** como tratamento de beleza.
 
-Conheça também nosso artigo sobre [Nutrição Saudável 2026](/artigos/nutricao-saudavel-2026/) para entender como a alimentação impacta sua pele.
+Conheça também nosso artigo sobre [Nutrição Saudável 2026](/artigos/nutricao-saudavel-2026) para entender como a alimentação impacta sua pele.
 
 **A manhã de uma mulher slow aging começa com três passos simples:**
 
@@ -70,8 +70,6 @@ Conheça também nosso artigo sobre [Nutrição Saudável 2026](/artigos/nutrica
 - Tratamentos específicos: vitamina C para manchas, retinol suave para renovação celular (sempre com orientação dermatológica), ou simplesmente hidratação profunda.
 
 A esteticista Roseli Sanches, em entrevista à **Carta Capital**, afirma: "Não existe pele bonita sem rotina. Mas rotina não é obsessão — é constância gentil".
-
-![Rotina de Cuidados Brasileiros](/artigos/beleza-slow-aging-brasil-2026/sec2.webp)
 
 ## Ingredientes Naturais do Brasil
 
@@ -101,8 +99,6 @@ Esses ingredientes não apenas cuidam da pele — eles contam uma história de t
 
 O Brasil não precisa copiar ativos internacionais. Tem um arsenal de beleza em seu próprio território. E o **slow aging** propõe reconectar mulheres brasileiras com essa herança.
 
-![Ingredientes Naturais do Brasil](/artigos/beleza-slow-aging-brasil-2026/sec3.webp)
-
 ## Slow Aging e Autoestima
 
 A maior revolução do **slow aging** não está na pele — está na mente. Quando uma mulher decide parar de lutar contra o tempo, ela está tomando uma decisão política, social e emocional. Está dizendo: "meu valor não diminui com cada ruga". Está se recusando a ser refém da indústria.
@@ -116,8 +112,6 @@ A maior revolução do **slow aging** não está na pele — está na mente. Qua
 - **Mexa-se.** Exercício não é só estética — é saúde celular. Caminhada, dança, yoga: tudo vale.
 
 A psicóloga clínica Marina Vasconcelos, em artigo publicado pela **Galileu**, afirma: "Mulheres que abraçam o slow aging reportam maior satisfação com a imagem corporal e menor ansiedade social". A ciência confirma o que a intuição já sabia.
-
-![Slow Aging e Autoestima](/artigos/beleza-slow-aging-brasil-2026/sec4.webp)
 
 ## Observação Lillith: Você Já É Linda
 
@@ -143,7 +137,6 @@ Você não consegue nutrir a pele de fora se não nutrir o corpo de dentro. A ci
 
 A nutricionista funcional Daniela Jobst explica à **Harper's Bazaar Brasil**: "Não existe skincare que funcione sem food care". O **slow aging** é integral — pele, corpo, mente, prato.
 
-
 ## Perguntas Frequentes Sobre Slow Aging
 
 **Slow aging é só para mulheres mais velhas?** Não. Começar a cuidar da pele e do corpo com gentileza aos 25 anos é tão válido quanto aos 55. O conceito é atemporal.
@@ -155,8 +148,6 @@ A nutricionista funcional Daniela Jobst explica à **Harper's Bazaar Brasil**: "
 **Funciona mesmo?** Estudos dermatológicos confirmam que rotinas consistentes, alimentação equilibrada e proteção solar reduzem sinais de envelhecimento prematuro de forma mensurável.
 
 **Como começar?** Com uma única mudança. Troque o sabonete agressivo por uma limpeza suave. Comece por aí. O resto virá naturalmente.
-
-
 
 ## Slow Aging e Maternidade: O Corpo Que Carrega Histórias
 
@@ -179,9 +170,6 @@ A beleza sustentável também é financeiramente inteligente. Investir em poucos
 - Priorize multifuncionais (batom que também hidrata, hidratante que também protege).
 - Aposte em marcas brasileiras com ativos nacionais.
 - Não gaste com procedimentos invasivos antes de tentar o básico.
-
-
-
 
 ## Slow Aging ao Redor do Mundo
 
@@ -212,7 +200,5 @@ Esse é o **slow aging** brasileiro em 2026.
 O **slow aging** não é uma moda — é uma luta silenciosa por dignidade. Em 2026, as mulheres brasileiras estão mostrando que envelhecer com saúde, com autenticidade e com orgulho é uma das formas mais radicais de beleza que existem.
 
 A Amazônia oferece ingredientes que o mundo inveja. A cultura brasileira carrega saberes ancestrais. E cada mulher, ao se olhar no espelho e escolher gentileza em vez de correção, está construindo um futuro onde envelhecer é celebrar — não esconder.
-
-![Slow Aging Brasil 2026](/artigos/beleza-slow-aging-brasil-2026/sec5.webp)
 
 Seja na rotina diária, na alimentação ou na autoestima, o **slow aging** é um chamado. Um chamado para parar. Para respirar. Para cultivar. Para ser.

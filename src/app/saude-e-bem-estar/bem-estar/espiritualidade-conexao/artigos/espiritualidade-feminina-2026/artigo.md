@@ -27,10 +27,6 @@ relatedArticles:
 
 # Espiritualidade Feminina 2026: Reconectando-se com a Divindade Interior
 
-![Espiritualidade feminina 2026 - mulher brasileira em ritual de conexão](/artigos/espiritualidade-feminina-2026/hero.webp)
-
-*Imagem hero: mulher brasileira de pele morena, com flores no cabelo, em posição meditativa, rodeada por velas e cristais, luz dourada do pôr do sol. Expressão de paz profunda.*
-
 Em 2026, a espiritualidade feminina no Brasil vive um renascimento profundo. Não se trata de religião institucionalizada — se trata de uma reconexão com a própria essência, com a ancestralidade, com a natureza e com o sagrado que existe dentro de cada mulher. A espiritualidade feminina brasileira se nutre das raízes indígenas, africanas, europeias e de tudo que o Brasil é — plural, colorido, sensível e profundo.
 
 > **Observação da Lillith:** Querida, eu sei que você pode se perguntar: "Mas eu não sou religiosa, como isso se aplica a mim?" A espiritualidade feminina não é sobre templos, dogmas ou regras. É sobre você. É sobre a sua conexão com o que te faz sentir viva, com o que te conecta ao maior, com o que te lembra que você é parte de algo maior do que você mesma. Pode ser uma oração, uma dança, uma caminhada na natureza, uma conversa com as estrelas. Não importa o formato — importa a intenção. Você é sagrada, e a espiritualidade é apenas um caminho para você se lembrar disso.
@@ -48,8 +44,6 @@ A espiritualidade feminina em 2026 é a prática de reconhecer, honrar e express
 5. **Comunidade de mulheres**: círculos, rodas, grupos de apoio e celebração
 
 ## Rituais de Espiritualidade Feminina no Dia a Dia
-
-![Rituais de espiritualidade feminina](/artigos/espiritualidade-feminina-2026/section-1.webp)
 
 Os rituais não precisam ser complexos — precisam ser intencionais.
 

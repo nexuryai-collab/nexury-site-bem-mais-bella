@@ -200,8 +200,8 @@ Cuidar da saúde não é egoísmo — é a base de tudo: do trabalho aos relacio
 *Este artigo foi escrito com carinho por Lillith Nogah para o Bem Mais Bella — onde cada mulher encontra força, inspiração e propósito.*
 
 **Continue lendo:**
-- [Nutrição Saudável 2026](/artigos/nutricao-saudavel-2026/artigo.md)
-- [Bem-Estar e Longevidade 2026](/artigos/bem-estar-longevidade-2026/artigo.md)
-- [Saúde Mental e Trabalho 2026](/artigos/saude-mental-trabalho-2026/artigo.md)
+- [Nutrição Saudável 2026](/artigos/nutricao-saudavel-2026)
+- [Bem-Estar e Longevidade 2026](/artigos/bem-estar-longevidade-2026)
+- [Saúde Mental e Trabalho 2026](/artigos/saude-mental-trabalho-2026)
 
 **Palavras-chave:** prevenção saúde mulher, exames preventivos mulher, saúde feminina 2026, autocuidado saúde, prevenção doenças crônicas, mamografia, Papanicolau, saúde da mulher Brasil

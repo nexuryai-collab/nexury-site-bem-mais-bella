@@ -256,8 +256,8 @@ Definir e alcançar metas em 2026 não é sobre perfeição ou sobre seguir um m
 - Tony Robbins — Métodos de Resultados Massivos (adaptado para contexto brasileiro 2026)
 
 **Links Internos para Outros Artigos:**
-- [Journaling para Crescimento Pessoal](/artigos/journaling-2026/artigo.md) — Use o journaling para clarificar e acompanhar suas metas.
-- [Carreira com Propósito](/artigos/carreira-proposito-2026/artigo.md) — Alinhando metas profissionais com seu propósito.
-- [Finanças Conscientes 2026](/artigos/financas-conscientes-2026/artigo.md) — Como planejar objetivos financeiros com consciência.
+- [Journaling para Crescimento Pessoal](/artigos/journaling-2026) — Use o journaling para clarificar e acompanhar suas metas.
+- [Carreira com Propósito](/artigos/carreira-proposito-2026) — Alinhando metas profissionais com seu propósito.
+- [Finanças Conscientes 2026](/artigos/financas-conscientes-2026) — Como planejar objetivos financeiros com consciência.
 
 *Este artigo foi escrito com carinho por Lillith Nogah para o Bem Mais Bella — onde cada mulher encontra força, inspiração e propósito.*

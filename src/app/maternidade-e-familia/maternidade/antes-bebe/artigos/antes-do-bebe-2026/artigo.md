@@ -23,7 +23,7 @@ O ano de 2026 trouxe uma revolução silenciosa mas profunda no cenário do cons
 
 ## O Consumidor Brasileiro em 2026: Quem é e como pensa
 
-A última pesquisa de consumo nacional (IBOPE/Nielsen 2025) já retratava mudanças significativas. Mas as tendências que observamos em 2026 vão ainda mais fundo. Em 2026, o consumidor brasileiro médio é:
+Mas as tendências que observamos em 2026 vão ainda mais fundo. Em 2026, o consumidor brasileiro médio é:
 
 - **Digitalmente nativo**: 93% da população adulta está online regularmente, utilizando múltiplas plataformas diariamente
 - **Multicanal**: Espera-se uma experiência perfeita seja qual for o canal (físico, digital, mobile)

@@ -19,7 +19,7 @@ wordCount: 2800
 
 No Brasil de 2026, o conceito de relacionamento está passando por uma transformação silenciosa mas profunda. Casais estão deixando para trás o modelo tradicional de "encontrar a pessoa certa" para abraçar a prática de "construir a relação certa". Esta mudança reflete uma compreensão mais madura: relacionamentos saudáveis não são encontrados — são cultivados, dia após dia, através de escolhas conscientes.
 
-Os dados do "Estudo Nacional sobre Vínculos Afetivos 2026" do IBGE revelam que 67% dos casais brasileiros entre 25-40 anos participam de alguma forma de terapia de casal, workshops de comunicação ou práticas de mindfulness compartilhado. No TikTok e Instagram, hashtags como #RelacionamentoConsciente e #AmorEmAção somam mais de 800 milhões de visualizações, confirmando que este não é apenas um nicho — é um movimento cultural.
+No TikTok e Instagram, hashtags como #RelacionamentoConsciente e #AmorEmAção somam mais de 800 milhões de visualizações, confirmando que este não é apenas um nicho — é um movimento cultural.
 
 ## Observação de Lillith Nogah
 

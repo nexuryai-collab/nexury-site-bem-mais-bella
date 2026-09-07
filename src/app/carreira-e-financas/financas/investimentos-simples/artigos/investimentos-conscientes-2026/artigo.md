@@ -27,17 +27,11 @@ relatedArticles:
 
 # Investimentos Conscientes 2026: Como Investir com Propósito, Sustentabilidade e Liberdade Financeira
 
-![Investimentos conscientes 2026 - liberdade financeira com propósito](/artigos/investimentos-conscientes-2026/hero.webp)
-
-*Imagem hero: mulher brasileira olhando para gráficos financeiros no celular, com café e planta ao lado. Ambiente acolhedor, iluminação natural, expressão confiante.*
-
-Em 2026, o Brasil está vivendo uma revolução silenciosa nas finanças pessoais. Nunca na história do país tantas mulheres investiram tanto. Os dados da B3 (Bolsa brasileira) mostram que o número de mulheres investidoras cresceu 145% desde 2023, ultrapassando 8 milhões de contas femininas em 2026. O TikTok Brasil está inundado de conteúdo sobre investimentos, finanças pessoais e liberdade financeira — a hashtag #FinançasParaMulheres tem mais de 3 bilhões de visualizações. Mas a grande mudança não é apenas quantidade: é qualidade. As mulheres brasileiras estão passando de "investidoras iniciantes" para "investidoras conscientes", priorizando não apenas retorno, mas propósito, sustentabilidade e impacto social.
+Em 2026, o Brasil está vivendo uma revolução silenciosa nas finanças pessoais. Nunca na história do país tantas mulheres investiram tanto. O TikTok Brasil está inundado de conteúdo sobre investimentos, finanças pessoais e liberdade financeira — a hashtag #FinançasParaMulheres tem mais de 3 bilhões de visualizações. Mas a grande mudança não é apenas quantidade: é qualidade. As mulheres brasileiras estão passando de "investidoras iniciantes" para "investidoras conscientes", priorizando não apenas retorno, mas propósito, sustentabilidade e impacto social.
 
 > **Observação da Lillith:** Querida, eu sei o que é sentir que dinheiro é um tabu, que falar sobre investimentos é coisa de gente rica, que guardar dinheiro é um sacrifício que você não consegue fazer. Eu cresci ouvindo que "mulher não precisa entender de dinheiro", que "homem é quem cuida das finanças". E eu sei que muitas de vocês também cresceram com isso. Mas deixe-me te dizer algo: **dinheiro é ferramenta, e ferramenta serve a quem a usa**. Você não precisa ser expert para começar. Você não precisa ter R$ 10 mil para investir. Você não precisa esperar a vida resolver. Comece com o que tem, onde está, agora. E acredite: cuidar do seu dinheiro é um ato de amor próprio, de autonomia e de liberdade. Você merece ter controle da sua vida financeira — e sim, você é capaz.
 
 ## A Revolução Feminina nos Investimentos Brasileiros
-
-![A revolução feminina nos investimentos brasileiros](/artigos/investimentos-conscientes-2026/section-1.webp)
 
 O cenário de investimentos no Brasil mudou drasticamente nos últimos três anos, e as mulheres estão na vanguarda dessa mudança. Não se trata apenas de uma tendência de mercado — é uma transformação cultural profunda, onde as mulheres estão reclaimando o controle sobre seu dinheiro, seu futuro e sua autonomia.
 
@@ -54,8 +48,6 @@ As mulheres brasileiras não estão apenas investindo mais — estão investindo
 
 ## Os Pilares dos Investimentos Conscientes em 2026
 
-![Pilares dos investimentos conscientes](/artigos/investimentos-conscientes-2026/section-2.webp)
-
 Investimentos conscientes em 2026 vão além da maximização de retorno. São construídos sobre três pilares fundamentais:
 
 ### 1. Propósito
@@ -71,8 +63,6 @@ ESG (Environmental, Social, Governance) é o framework mais usado para avaliar e
 - **S (Social)**: a empresa trata bem seus funcionários? Diversidade? Inclusão? Direitos humanos na cadeia?
 - **G (Governance)**: a empresa é bem gerida? Transparente? Livre de corrupção?
 
-As ETFs ESG listadas na B3 (como SLED7, ESGB11, SOJA11) cresceram 89% em volume em 2025, tornando-se a classe de ETF que mais cresce no Brasil.
-
 ### 3. Risco Controlado
 Mulheres tendem a ter uma relação mais madura com risco. Em vez de fugir de todo risco ou se expor a risco excessivo, as investidoras conscientes em 2026 buscam:
 - **Diversificação inteligente**: não colocar todos os ovos na mesma cesta
@@ -82,8 +72,6 @@ Mulheres tendem a ter uma relação mais madura com risco. Em vez de fugir de to
 
 ## Onde Investir em 2026: O Guia Prático
 
-![Guia prático de investimentos 2026](/artigos/investimentos-conscientes-2026/section-3.webp)
-
 ### Para iniciantes (0 a 2 anos de investimento)
 
 **Renda Fixa:**
@@ -92,7 +80,6 @@ Mulheres tendem a ter uma relação mais madura com risco. Em vez de fugir de to
 - **LCAs e LCIs**: letras de crédito do agronegócio e imobiliário, respectively, isentas de IR para pessoa física
 
 **Renda Variável (para começar aos poucos):**
-- **BDRs**: Recibos de ações estrangeiras na B3. Permite investir em Apple, Google, Amazon, Tesla com apenas R$ 100. Ex: AAPL34, GOOGL34.
 - **ETFs de índice**: fundos que replicam um índice inteiro (não precisa escolher ações). Ex: IVVB11 (S&P 500), SMAL11 (small caps brasileiras), XPLA11 (ações planetárias).
 
 ### Para avançadas (2+ anos de experiência)
@@ -117,8 +104,6 @@ O mercado de cripto em 2026 está mais maduro e menos especulativo. As tendênci
 > **Observação da Lillith:** Querida, eu sei que cripto parece assustador. "É risco demais", "não entendo", "é só especulação". Eu mesma tinha esses medos. Mas depois de estudar, descobri que cripto, quando usado com consciência, pode ser uma ferramenta poderosa de diversificação e proteção. A chave é: **nunca invista o que não pode perder**. E sempre, sempre, estude antes de colocar um centavo. O dinheiro que você não entende é o dinheiro que você pode perder. Invista em conhecimento primeiro — o retorno é sempre positivo.
 
 ## A Estratégia de Prosperidade para Mulheres Brasileiras
-
-![Estratégia de prosperidade para mulheres](/artigos/investimentos-conscientes-2026/section-4.webp)
 
 Prosperidade não é só ter dinheiro. É ter **paz com o dinheiro**. É saber que, se perder o emprego, seus investimentos sustentam você por meses. É poder dizer "não" para situações abusivas porque você é financeiramente independente. É poder investir na sua saúde, na sua educação, na sua alegria.
 

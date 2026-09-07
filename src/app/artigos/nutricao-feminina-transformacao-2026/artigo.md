@@ -166,8 +166,7 @@ A nutrição feminina é um ato de cuidado, respeito e autoconhecimento. Em 2026
 Seja no feijão da avó, no açaí da praia, na salada fresca do almoço: cada refeição é uma chance de amar melhor a mulher que você é.
 
 ---
-
-**Links Internos:**
+**Leia também:**
 - [Saúde Intestinal: O Segundo Cérebro da Mulher](/src/app/artigos/saude-intestinal-2026) — Microbioma e saúde
 - [Mindfulness para Mulheres 2026](/src/app/artigos/mindfulness-para-mulheres-2026) — Mente e corpo conectados
 - [Viagens Sustentáveis 2026](/src/app/artigos/viagens-sustentaveis-2026) — Turismo consciente

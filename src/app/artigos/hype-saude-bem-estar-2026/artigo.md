@@ -179,13 +179,12 @@ Porque o maior hype de todos não é uma tendência, um produto ou uma prática.
 ## Links Internos
 
 - [Mindfulness para Mulheres 2026](/src/app/artigos/mindfulness-para-mulheres-2026)
-- [Nutrição Funcional e Sustentabilidade 2026](/artigos/nutricao-funcional-sustentavel-2026)
-- [Sono e Recuperação 2026](/artigos/sono-recuperacao-2026)
+- Nutrição Funcional e Sustentabilidade 2026
+- Sono e Recuperação 2026
 - [Exercício Adaptativo e Inclusivo 2026](/src/app/artigos/exercicio-adaptativo-inclusivo-2026)
 - [Hype de Autonomia na Saúde 2026](https://bemmaisbella.com.br/artigos/hype-saude-bem-estar-2026)
-- [Autocuidado Ativo: Práticas Diárias para 2026](/artigos/autocuidado-ativo-2026)
-- [Comunidades de Bem-Estar: O Poder do Grupo](/artigos/comunidades-bem-estar-2026)
+- Autocuidado Ativo: Práticas Diárias para 2026
+- Comunidades de Bem-Estar: O Poder do Grupo
 
 ---
 
-*Artigo gerado automaticamente pelo Nexus (Nexus = segunda mente de Fellipe Lelis) para Bem Mais Bella. Inspirado em Carta Capital, Harvard Business Review e a crescente demanda por práticas de saúde acessíveis.*

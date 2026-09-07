@@ -1,5 +1,9 @@
 import Image from 'next/image'
 
+export const metadata = {
+  robots: { index: false, follow: false },
+};
+
 export default function LogoPage() {
   return (
     <main className="min-h-screen bg-[#2d0a3d] flex flex-col items-center justify-center p-8">

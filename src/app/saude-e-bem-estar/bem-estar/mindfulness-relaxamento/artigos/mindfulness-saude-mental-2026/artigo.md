@@ -43,7 +43,7 @@ Em 2025, o governo federal lançou a Política Nacional de Saúde Mental, preven
 
 Diante da escassez de profissionais, o mindfulness representa uma alternativa democratizadora de cuidado com a saúde mental. Diferente da terapia tradicional, que exige profissionais qualificados e frequentes sessões, o mindfulness pode ser praticado por qualquer pessoa, em qualquer lugar, sem custo. Ações como meditação guiada, respiração consciente e escaneamento corporal podem ser realizadas em grupo, em comunidades, escolas e até no ambiente de trabalho.
 
-Em 2026, estudos da USP (Universidade de São Paulo) e da UFRJ (Universidade Federal do Rio de Janeiro) confirmaram que programas de mindfulness de 8 semanas, inspirados no MBSR (Mindfulness-Based Stress Reduction) de Jon Kabat-Zinn, reduziram os sintomas de ansiedade em 58% e os sintomas de depressão em 43% dos participantes. Esses números são comparáveis aos de tratamentos farmacológicos, mas sem os efeitos colaterais.
+Esses números são comparáveis aos de tratamentos farmacológicos, mas sem os efeitos colaterais.
 
 ## O que é Mindfulness e por que Funciona?
 
@@ -139,8 +139,6 @@ As perspectivas para o mindfulness no Brasil são extremamente positivas. Com o 
 
 Além disso, a cultura brasileira — com suas raízes em práticas corporais como o capoeira, o samba e a dança — oferece uma ponte natural para o mindfulness. A atenção plena pode ser cultivada através do movimento, da música e da celebração, não apenas da estática meditação. Essa abordagem culturalmente relevante é um diferencial que o Brasil pode oferecer ao mundo.
 
-
-
 ### Neurociência do Mindfulness: O que a Ciência Diz em 2026
 
 A pesquisa em neurociência do mindfulness avançou enormemente nos últimos anos. Em 2026, estudos de neuroimagem funcional (fMRI) mostram que praticantes regulares de mindfulness apresentam:
@@ -149,7 +147,7 @@ A pesquisa em neurociência do mindfulness avançou enormemente nos últimos ano
 - **Redução do volume da amígdala** (resposta ao medo e estresse)
 - **Melhor conectividade** entre redes neurais de atenção e redes de modo padrão (responsável por pensamentos automáticos e ruminação)
 
-Um estudo multicêntrico conduzido pelo Hospital das Clínicas da USP em parceria com a Universidade de Oxford, publicado no *Journal of Neuroscience* em 2025, acompanhou 400 participantes brasileiros por 12 meses. Os resultados mostraram que 20 minutos diários de mindfulness produziram mudanças mensuráveis na estrutura cerebral já aos 3 meses, com efeitos cumulativos ao longo do ano.
+Os resultados mostraram que 20 minutos diários de mindfulness produziram mudanças mensuráveis na estrutura cerebral já aos 3 meses, com efeitos cumulativos ao longo do ano.
 
 Além disso, a pesquisa brasileira tem se destacado internacionalmente. O grupo de Neurociência Afetiva da UFRGS desenvolveu protocolos adaptados culturalmente, incorporando elementos da cultura afro-brasileira, indígena e das tradições populares do Nordeste, tornando a prática mais acessível e relevante para a população brasileira.
 
@@ -165,7 +163,7 @@ Esses resultados não substituem a medicação, mas mostram que o cuidado com a 
 
 Em 2026, grandes empresas brasileiras incorporaram programas de mindfulness como parte de suas estratégias de saúde ocupacional. Bancos como Itaú e Bradesco, empresas de tecnologia como Nubank e Magazine Luiza, e até indústrias tradicionais como Petrobras e Vale oferecem sessões de mindfulness para colaboradores.
 
-O retorno sobre investimento (ROI) é mensurável: estudo da FGV (Fundação Getúlio Vargas) com 50 empresas brasileiras mostrou que programas de mindfulness reduziram absenteísmo em 28%, aumentaram a satisfação no trabalho em 35% e reduziram custos com saúde mental em 22%. Esses números convencem até os gestores mais céticos.
+Esses números convencem até os gestores mais céticos.
 
 Além disso, o mindfulness corporativo no Brasil tem uma característica única: integra práticas de movimento (como alongamentos inspirados na capoeira e no ioga) e momentos de conexão social (rodas de conversa), reconhecendo que o bem-estar no trabalho não é apenas individual, mas coletivo.
 

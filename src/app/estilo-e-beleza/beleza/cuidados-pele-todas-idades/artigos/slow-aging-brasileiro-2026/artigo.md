@@ -116,8 +116,6 @@ O futuro do slow aging no Brasil é promissor. Com a crescente conscientização
 
 Além disso, a personalização de rotinas de skincare — impulsionada por inteligência artificial e análise de imagem de pele — estará disponível para brasileiros de todas as classes sociais em breve. Imagine um aplicativo que analisa sua pele em tempo real e recomenda a rotina ideal para sua idade, tipo de pele e estilo de vida. Isso é slow aging personalizado, e está chegando.
 
-
-
 ### O Papel dos Nutrientes na Longevidade da Pele
 
 A relação entre alimentação e beleza é fundamental no slow aging. Nutrientes específicos atuam diretamente na saúde da pele, promovendo a produção de colágeno, protegendo contra radicais livres e mantendo a hidratação celular.

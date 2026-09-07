@@ -47,7 +47,7 @@ Este artigo é um abraço. Um guia de verdade. Sem promessas falsas, sem fotos r
 
 A primeira verdade que você precisa ouvir: **o corpo pós-parto é outro corpo**. Ele passou por uma revolução hormonal, muscular, vascular e emocional. A barriga ainda está ali porque o útero leva cerca de 6 a 8 semanas para voltar ao tamanho normal. A pele ainda está com estrias, cicatriz (seja da cesárea ou do parto vaginal), manchas, flacidez. Os seios estão cheios, doloridos, vazando. E você sente cansaço que não parece ter fim.
 
-Segundo o **Ministério da Saúde do Brasil (2026)**, cerca de 70% das mulheres no pós-parto sentem que não foram preparadas para o que viria. E a razão principal não é falta de informação — é **falta de verdade**. Os livros de maternidade falam sobre o bebê, mas raramente falam sobre o corpo da mãe com honestidade.
+E a razão principal não é falta de informação — é **falta de verdade**. Os livros de maternidade falam sobre o bebê, mas raramente falam sobre o corpo da mãe com honestidade.
 
 ### O que acontece no corpo nas primeiras 6 semanas (e além)
 
@@ -162,11 +162,11 @@ Não tenha vergonha. **Pedir ajuda é coragem.** E você merece ser cuidada tamb
 
 ## 6. Links Internos Para Continuar no Bem Mais Bella
 
-- [Antes do Bebê 2026 — Planejamento da Maternidade](/artigos/antes-do-bebe-2026)
+- Antes do Bebê 2026 — Planejamento da Maternidade
 - [Maternidade Consciente 2026 — Vida com Bebê](/artigos/maternidade-consciente-2026)
-- [Vida em Família e Educação](/artigos/vida-em-familia-educacao-2026)
+- Vida em Família e Educação
 - [Casamentos com Propósito — Planejamento](/artigos/casamentos-proposito-2026)
-- [Relacionamentos Conscientes — Crescimento](/artigos/relacionamentos-conscientes-crescimento-2026)
+- [Relacionamentos Conscientes — Crescimento](/artigos/relacionamentos-conscientes-crescimento)
 - [Autoconhecimento e Journaling 2026](/artigos/autoconhecimento-2026)
 - [Saúde Mental no Trabalho 2026](/artigos/saude-mental-trabalho-2026)
 - [Terapias Holísticas Femininas 2026](/artigos/terapias-holisticas-femininas-2026)
@@ -185,7 +185,7 @@ Se você está cansada, respira. Se você está triste, fala. Se você está fel
 
 Com carinho,
 
-**Lillith Nogah**  
+**Lillith Nogah**
 *Escritora do Bem Mais Bella*
 
 ---

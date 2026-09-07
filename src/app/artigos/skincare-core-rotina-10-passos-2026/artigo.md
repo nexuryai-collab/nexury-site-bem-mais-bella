@@ -15,7 +15,7 @@ subcategory: Beleza
 
 Se em 2023 e 2024 o mundo governou-se pelo "clean girl makeup" — aquele visual natural com um toque de brilho estratégico — , em 2026 a conversa virou para dentro. Dentro do espelho. Dentro do ritual. Dentro da pele. Chamamos isso de **Skincare Core**: a obsessão saudável, científica e profundamente brasileira pela rotina de cuidados com a pele.
 
-E essa obsessão não é passarinhismo. Segundo o relatório "Beauty Trends Latam 2026" da Euromonitor, o segmento de skincare no Brasil cresceu 42% no ano, ultrapassando até mesmo a categoria de maquiagem. No TikTok Brasil, o hashtag #SkincareCore tem mais de 3 bilhões de visualizações. E o que está bombando? Uma rotina de **10 passos** com produtos brasileiros, ingredientes ativos validados por dermatologistas e a ciência por trás dos cuidados.
+E essa obsessão não é passarinhismo. No TikTok Brasil, o hashtag #SkincareCore tem mais de 3 bilhões de visualizações. E o que está bombando? Uma rotina de **10 passos** com produtos brasileiros, ingredientes ativos validados por dermatologistas e a ciência por trás dos cuidados.
 
 Este é o guia definitivo da Skincare Core 2026 — para você que quer entender por que a pele perfeita não é sobre filtro, mas sobre cuidado consistente.
 
@@ -147,7 +147,6 @@ A boa notícia é que o Brasil tem uma seleção robusta de produtos de skincare
 | Vitamina C | The Hivy Radiance + C | R$ 129 | The Ordinary C (R$ 150) |
 | Niacinamida | Sallve Beauty 10% | R$ 119 | The Ordinary (R$ 90) |
 | Retinol | Differin Adapaleno 0.1% | R$ 99 | Differin US (R$ 450) |
-| Protetor Solar | Natura Bruto Solar SPF 50 | R$ 79 | Anthelios (R$ 320) |
 | Hidratante | Vult Beauty Hydra Fusion | R$ 110 | CeraVe (R$ 220) |
 
 O **Differin (adapaleno)** é o caso mais emblemático: no Brasil, custa R$ 99. No exterior, mais de R$ 400 — e é o mesmo medicamento, validado por dermatologists. É isso que o Skincare Core brasileiro oferece: eficácia acessível.

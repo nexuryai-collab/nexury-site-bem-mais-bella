@@ -191,10 +191,9 @@ Casamentos com propósito são casamentos que sobrevivem ao tempo porque têm ra
 Se vocês estão planejando um casamento ou pensando em casar, lembrem-se: o melhor casamento é aquele que reflete quem vocês são. Com propósito, com essência, com coração. E isso não tem preço — tem valor incalculável.
 
 ---
-
-**Links Internos:**
+**Leia também:**
 - [Maternidade Real: Autenticidade no Cuidado com o Bebê](/artigos/maternidade-real-autenticidade-cuidado-bebe-2026) — Autenticidade e cuidado
 - [Finanças Femininas 2026](/artigos/financas-femininas-2026) — Planejamento financeiro para mulheres
 - [Relacionamentos Conscientes](/artigos/relacionamentos-intencionais-2026) — A arte de amar sem perder-se
-- [Carreira com Propósito](/artigos/carreira-com-proposito-alinhar-trabalho-valores-2026) — Alinhamento entre trabalho e valores
+- [Carreira com Propósito](/artigos/carreira-com-propouso-alinhar-trabalho-valores-2026) — Alinhamento entre trabalho e valores
 - [Gov.br — Políticas para Famílias](https://www.gov.br) — Informações governamentais sobre famílias

@@ -1,1 +1,10 @@
-export default function Page() { return <main className="min-h-screen bg-[#0f051a] text-[#f5f0e6] p-12"><h1 className="text-5xl text-[#F72585]">Relacionamentos Conscientes</h1><p className="text-[#9AA4AF] mt-4">Categoria Bem Mais Bella — conteudo em breve.</p></main> }
+import PaginaCategoria from '../../components/PaginaCategoria';
+
+export const metadata = {
+  title: 'Relacionamentos Conscientes | Bem Mais Bella',
+  description: 'Comunicacao, intimidade e conflito com respeito. Sobre construir a dois sem se perder de si.',
+};
+
+export default function Page() {
+  return <PaginaCategoria cat="relacionamentos-conscientes" descricao="Comunicacao, intimidade e conflito com respeito. Sobre construir a dois sem se perder de si." />;
+}

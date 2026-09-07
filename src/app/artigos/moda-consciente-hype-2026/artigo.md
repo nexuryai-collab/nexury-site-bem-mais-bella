@@ -19,7 +19,7 @@ wordCount: 2800
 
 No Brasil de 2026, a moda consciente deixou de ser um nicho de elite para se tornar o motor central de uma nova identidade cultural. As ruas de São Paulo, Rio de Janeiro e Minas Gerais são palcos onde designers locais e marcas brasileiras inovadoras redefinem o que significa vestir-se com propósito. Este guia explora as tendências mais impactantes do ano, desde o guarda-roupa essencial sustentável até a beleza inclusiva que celebra todas as identidades.
 
-Os dados do relatório "Beauty Trends Latam 2026" da Euromonitor confirmam que o segmento de moda consciente cresceu 38% no último ano, impulsionado por consumidores que demandam transparência, qualidade e responsabilidade ambiental. No TikTok Brasil, o hashtag #ModaConsciente acumula mais de 2 bilhões de visualizações, refletindo uma mudança profunda na percepção do consumo.
+No TikTok Brasil, o hashtag #ModaConsciente acumula mais de 2 bilhões de visualizações, refletindo uma mudança profunda na percepção do consumo.
 
 Como escrevi em minha reflexão pessoal, *"A moda consciente não é apenas sobre escolher roupas ecológicas; é sobre escolher quem somos e como nos conectamos com o planeta. Quando vestimos com responsabilidade, estamos vestindo o futuro que queremos construir."* Essa consciência coletiva está moldando o cenário estético brasileiro, onde tradição e inovação caminham lado a lado, e onde a beleza não é apenas visual — é ética.
 
@@ -60,7 +60,7 @@ A capsule wardrobe consiste em um conjunto mínimo de peças que podem ser combi
 
 ### Coleções Destacadas de 2026
 
-A **Natura Crônica** lançou a coleção *Essencial*, com camisetas orgânicas 100% algodão e calças jeans upcycled feitas com tecido reciclado. A **Eucerin Moda Consciente** trouxe peças com selo *EcoLabel*, certificadas pela ANVISA. Novas labels como **Luz Verde** e **Samba Sustentável** estão ganhando espaço com designs que misturam referências culturais brasileiras com práticas ecológicas.
+A **Eucerin Moda Consciente** trouxe peças com selo *EcoLabel*, certificadas pela ANVISA. Novas labels como **Luz Verde** e **Samba Sustentável** estão ganhando espaço com designs que misturam referências culturais brasileiras com práticas ecológicas.
 
 ---
 

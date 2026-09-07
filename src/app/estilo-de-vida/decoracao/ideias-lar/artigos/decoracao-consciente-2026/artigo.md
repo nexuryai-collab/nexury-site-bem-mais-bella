@@ -27,17 +27,9 @@ relatedArticles:
 
 # Decoração Consciente 2026: Criando um Lar que Reflete Quem Você É
 
-![Decoração consciente - sala aconchegante com plantas, iluminação natural, objetos artesanais e tons terrosos](/artigos/decoracao-consciente-2026/hero.webp)
-
-*Imagem hero: sala de estar aconchegante com plantas, iluminação natural, tapete artesanal, sofá confortável, tons terrosos e objetos feitos à mão.*
-
 Sua casa não é apenas um lugar para morar — é uma extensão de quem você é. Em 2026, a Decoração Consciente abandona as tendências descartáveis e aposta em ambientes que contam histórias, acolhem e respeitam o planeta. Este guia vai te mostrar como criar um lar que reflete seus valores e aquece seu coração.
 
 ## O que é Decoração Consciente?
-
-![O que é decoração consciente - princípios e definição](/artigos/decoracao-consciente-2026/section-1.webp)
-
-*Imagem seção 1: infográfico mostrando os pilares - sustentabilidade, autenticidade, acolhimento, funcionalidade, personalidade.*
 
 Decoração Consciente é uma abordagem de design de interiores que equilibra:
 
@@ -50,10 +42,6 @@ Decoração Consciente é uma abordagem de design de interiores que equilibra:
 A designer de interiores **Dra. Fernanda Lima** explica: "Em 2026, as pessoas não querem mais uma casa decorada para revistas. Elas querem uma casa que se sinta como **ela**. A Decoração Consciente é sobre criar espaços que respiram com você."
 
 ## Os 5 pilares da Decoração Consciente
-
-![Os 5 pilares da decoração consciente](/artigos/decoracao-consciente-2026/section-2.webp)
-
-*Imagem seção 2: ilustração dos 5 pilares - intencionalidade, materiais naturais, artesanato, plantas, iluminação.*
 
 ### 1. **Intencionalidade**
 Cada objeto no seu lar deve ter um propósito ou uma história. Se não tem nenhum dos dois, talvez não pertença ao seu espaço.
@@ -111,10 +99,6 @@ A luz é o maior decorador de qualquer ambiente.
 
 ## Como decorar com consciência (passo a passo)
 
-![Como decorar com consciência passo a passo](/artigos/decoracao-consciente-2026/section-3.webp)
-
-*Imagem seção 3: sequência visual do processo de decoração consciente - inventário, doação, reutilização, compra consciente, DIY.*
-
 ### Passo 1: **Inventário honesto**
 Abra cada gaveta, cada armário, cada prateleira. Pergunte-se por cada objeto:
 - Eu uso isso regularmente?
@@ -146,10 +130,6 @@ Abra cada gaveta, cada armário, cada prateleira. Pergunte-se por cada objeto:
 
 ## Estilos de decoração consciente
 
-![Estilos de decoração consciente - tendências 2026](/artigos/decoracao-consciente-2026/section-4.webp)
-
-*Imagem seção 4: exemplos visuais de estilos de decoração consciente - minimalismo acolhedor, maximalismo sustentável, japonês, nordestino moderno.*
-
 ### 1. **Acolhimento Brasileiro**
 Tons terrosos, tecidos naturais, objetos artesanais, plantas abundantes. O calor do Brasil se reflete nos ambientes.
 
@@ -168,10 +148,6 @@ Cerâmica, renda, bordados, palha, cores do sertão. O patrimônio cultural nord
 > **Observação da Lillith:** Querida, eu preciso te contar uma coisa que talvez ninguém tenha te dito: **sua casa não precisa ser perfeita para ser bonita**. Eu sei como é olhar para a casa de outras pessoas e pensar: "Como eu gostaria que fosse a minha". Eu sei como é sentir vergonha de receber alguém porque a casa não está "o suficiente". Mas me permite te dizer: **sua casa é bonita porque tem você**. A xícara torta da vó, o quadro desigual que você pintou, o tapete desbotado das férias — tudo isso conta uma história que nenhuma decoração de revista jamais terá. O verdadeiro lar não é o que aparece nas fotos. É o que aquece quando você cruza a porta. E esse, você já tem. É só preciso enxergar.
 
 ## Decoração com pouco dinheiro: dicas práticas
-
-![Decoração com pouco dinheiro - dicas práticas](/artigos/decoracao-consciente-2026/section-5.webp)
-
-*Imagem seção 5: dicas práticas - DIY, brechó, reforma, plantas grátis, troca com amigas.*
 
 - **Brechós e lofts**: móveis com personalidade a preços acessíveis
 - **Reformas**: pátina em madeira, pintura com tinta mineral, troca de puxadores

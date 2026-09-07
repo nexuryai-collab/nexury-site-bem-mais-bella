@@ -230,8 +230,8 @@ Tecnologias como impressão 3D de tecidos, design algorítmico e plataformas de 
 
 ## A Lillith Nogah sobre Vestir-se com Intenção
 
-> "Querida, cada peça de roupa que você escolhe vestir é uma declaração silenciosa sobre quem você é e o que você valoriza. Quando você opta por uma produção justa, você está dizendo: 'Eu me importo com as mãos que fizeram isso.' Quando você escolhe durabilidade, você está dizendo: 'Eu respeito o trabalho e os materiais envolvidos.' Quando você abraça a inclusão, você está dizendo: 'Eu acredito que todos merecem se sentir belos.'  
->   
+> "Querida, cada peça de roupa que você escolhe vestir é uma declaração silenciosa sobre quem você é e o que você valoriza. Quando você opta por uma produção justa, você está dizendo: 'Eu me importo com as mãos que fizeram isso.' Quando você escolhe durabilidade, você está dizendo: 'Eu respeito o trabalho e os materiais envolvidos.' Quando você abraça a inclusão, você está dizendo: 'Eu acredito que todos merecem se sentir belos.'
+>
 > A moda consciente não é sobre ter o guarda-roupa perfeito — é sobre ter um guarda-roupa que reflita seus valores mais profundos. E você, minha amiga, merece se vestir com intenção, com amor e com consciência de que cada escolha faz diferença."
 
 ## Checklist para Compras Conscientes em 2026

@@ -29,17 +29,11 @@ relatedArticles:
 
 # Saúde Mental e Trabalho 2026: Como Cuidar da Saúde Mental no Ambiente de Trabalho Contemporâneo
 
-![Saúde mental e trabalho 2026 - ambiente de trabalho equilibrado](/artigos/saude-mental-trabalho-2026/hero.webp)
-
-*Imagem hero: pessoa em escritório moderno com luz natural, meditando ou tomando chá, com expressão de calma e foco. Cores suaves e ambiente organizado.*
-
 Em 2026, a saúde mental no trabalho deixou de ser um tema tabu e tornou-se um pilar essencial para a produtividade e o bem-estar. Com o aumento do estresse crônico, do burnout e dos transtornos mentais, as empresas brasileiras estão adotando políticas de saúde mental, e os profissionais estão buscando estratégias para cuidar de sua saúde mental no ambiente de trabalho. O TikTok Brasil está cheio de conteúdos sobre "burnout", "ansiedade no trabalho" e "como se recuperar do burnout", com mais de 10 milhões de visualizações combinadas nos últimos 6 meses.
 
 > **Observação da Lillith:** Querida, eu sei o que é sentir que o trabalho consome tudo: sua energia, seu tempo, seu sono e, pior ainda, sua paz de espírito. Eu já vivi momentos em que o trabalho era um vazio que não me deixava respirar. Mas hoje, com o que aprendi, entendo que cuidar da saúde mental não é um luxo — é uma necessidade básica, tão importante quanto uma alimentação balanceada. Se você está sentindo que o trabalho está te consumindo, que não consegue mais respirar, que a ansiedade está tomando conta do seu dia a dia — você não está sozinha. E mais importante: você não precisa se culpar por isso. O cuidado com a saúde mental é um direito seu, e é possível cuidar de você mesmo no meio do caos do trabalho.
 
 ## O Crescimento da Saúde Mental no Ambiente de Trabalho
-
-![O crescimento da saúde mental no trabalho em 2026](/artigos/saude-mental-trabalho-2026/section-1.webp)
 
 De acordo com o levantamento da Associação Brasileira de Saúde Mental (ABSM) de 2026, 62% dos trabalhadores brasileiros relataram experimentar algum nível de estresse crônico relacionado ao trabalho. Isso representa um aumento de 38% em relação a 2021. Além disso, 41% dos trabalhadores relataram sintomas de ansiedade ou depressão que impactaram diretamente seu desempenho profissional.
 
@@ -47,10 +41,8 @@ O que mais surpreende é que o setor de saúde mental tem crescido 45% ao ano, c
 
 ## Os Três Maiores Desafios de Saúde Mental no Trabalho em 2026
 
-![Desafios de saúde mental no trabalho em 2026](/artigos/saude-mental-trabalho-2026/section-2.webp)
-
 ### 1. Burnout Profissional
-O burnout, reconhecido pela OMS como um fenômeno ocupacional, atinge mais de 40% dos profissionais no Brasil. É caracterizado por exaustão emocional, despersonalização e baixa eficácia profissional. O burnout não é apenas cansaço — é um estado de esgotamento que afeta a produtividade, a saúde física e a saúde mental.
+É caracterizado por exaustão emocional, despersonalização e baixa eficácia profissional. O burnout não é apenas cansaço — é um estado de esgotamento que afeta a produtividade, a saúde física e a saúde mental.
 
 ### 2. Ansiedade e Pressão por Resultado
 A ansiedade relacionada ao desempenho é um dos maiores desafios. Com o aumento da competitividade e da pressão por resultados, muitos profissionais sentem que precisam estar "sempre on", o que gera ansiedade crônica e esgotamento. A pesquisa da Confederação Nacional do Comércio (CNC) mostra que 58% dos trabalhadores sentem pressão constante para entregar resultados excepcionais.
@@ -59,8 +51,6 @@ A ansiedade relacionada ao desempenho é um dos maiores desafios. Com o aumento 
 Apesar do crescimento do setor, ainda há uma lacuna na oferta de suporte psicológico no ambiente de trabalho. Muitas empresas ainda não oferecem acesso a psicólogos, e quando oferecem, os profissionais têm medo de buscar ajuda por medo de estigmatização.
 
 ## Ferramentas e Práticas para Cuidar da Saúde Mental no Trabalho
-
-![Práticas de saúde mental no trabalho 2026](/artigos/saude-mental-trabalho-2026/section-2.webp)
 
 ### 1. Pausas Conscientes
 Pausas regulares são essenciais para manter a clareza mental. A cada 90 minutos de trabalho, faça uma pausa de 5-10 minutos: respire profundamente, alongue-se, olhe para longe da tela ou simplesmente respire. Estudos mostram que pausas regulares aumentam a produtividade em até 30%.
@@ -75,8 +65,6 @@ Com o home office e o trabalho híbrido, a linha entre trabalho e vida pessoal f
 Se você sente que a ansiedade ou depressão está afetando seu trabalho, procure ajuda profissional. Muitas empresas oferecem programas de EAP (Employee Assistance Programs) que incluem sessões gratuitas com psicólogos. Se sua empresa não oferece isso, busque ajuda externa — não espere até que o burnout o atinja.
 
 ## O Impacto da Saúde Mental no Desempenho e na Produtividade
-
-![Impacto da saúde mental no trabalho](/artigos/saude-mental-trabalho-2026/section-4.webp)
 
 A saúde mental influencia diretamente a produtividade, a criatividade e a retenção de talentos. Empresas que investem em saúde mental relatam:
 
@@ -106,7 +94,7 @@ Em 2027, espera-se que a saúde mental no trabalho seja uma prioridade absoluta.
 
 A saúde mental no trabalho em 2026 é uma questão de sobrevivência, não apenas de bem-estar. É sobre criar ambientes onde as pessoas possam ser humanas, com suas alegrias, tristezas, ansiedades e sonhos. O trabalho consciente é aquele que reconhece que o ser humano é um todo — mente, corpo e espírito — e que para ser produtivo, precisa estar em equilíbrio.
 
-*Continue explorando: [Brazilcore 2026](/artigos/brazilcore-hype-2026), [Moda Consciente 2026](/artigos/moda-consciente-2026-tendencias), [Beleza Inclusiva 2026](/artigos/beleza-inclusiva-2026), [Nutrição Saudável 2026](/artigos/nutricao-saudavel-2026), [Saúde Mental e Trabalho 2026](/artigos/saude-mental-trabalho-2026).*
+*Continue explorando: [Brazilcore 2026](/artigos/brazilcore-hype-2026), [Moda Consciente 2026](/artigos/moda-consciente-2026-tendencias), [Beleza Inclusiva 2026](/artigos/beleza-inclusiva-2026), [Nutrição Saudável 2026](/artigos/nutricao-saudavel-2026), Saúde Mental e Trabalho 2026.*
 
 ---
 
@@ -179,7 +167,7 @@ Líderes não são terapeutas, mas **criam o ambiente** que protege ou destrói 
 - **Investem em capacitação**: treinamento em comunicação não-violenta, feedback, gestão de estresse
 
 ### O Custo do Silêncio
-Empresas que ignoram saúde mental perdem, em média, **R$ 18.000 por funcionário por ano** em absenteísmo, presenteísmo (estar no corpo mas não na mente), rotatividade e erros. O investimento em saúde mental retorna **4:1 a 6:1** segundo a OMS.
+O investimento em saúde mental retorna **4:1 a 6:1** segundo a OMS.
 
 ## Ferramentas Digitais Validadas para 2026
 

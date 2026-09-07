@@ -237,8 +237,6 @@ As terapias integrativas oferecem suporte único para questões femininas:
 
 ### Pesquisas Brasileiras Relevantes
 
-- **USP**: estudos sobre eficácia de meditação em ansiedade
-- **Fiocruz**: pesquisas sobre plantas medicinais brasileiras
 - **UFRJ**: investigações sobre yoga e saúde mental
 - **UNIFESP**: estudos sobre acupuntura e dor crônica
 

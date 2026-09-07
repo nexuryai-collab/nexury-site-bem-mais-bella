@@ -161,8 +161,7 @@ A gastronomia brasileira é uma joia que ainda estamos descobrindo. Rica, divers
 Volte para a cozinha. Cozinhe com intention. Experimente novos sabores. E lembre-se: comer bem é um ato de amor — com você mesma e com todos ao seu redor.
 
 ---
-
-**Links Internos:**
+**Leia também:**
 - [Nutrição Feminina 2026](/src/app/artigos/nutricao-feminina-transformacao-2026) — Alimentação que transforma
 - [Brasilcore 2026](/src/app/artigos/brasilcore-hype-brazil-2026) — Cultura brasileira em alta
 - [Decoração Sustentável 2026](/src/app/artigos/decoracao-sustentavel-2026) — Lar saudável

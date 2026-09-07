@@ -164,8 +164,8 @@ Hobbies criativos não são luxo — são necessidade. Em um mundo que nos pede 
 - Universidade de São Paulo — Estudos sobre Flow e Atividades Criativas
 
 **Links Internos para Outros Artigos:**
-- [Journaling para Crescimento Pessoal](/artigos/journaling-2026/artigo.md) — Como usar a escrita para autoconhecimento.
-- [Decoração Consciente 2026](/artigos/decoracao-consciente-2026/artigo.md) — Como criar um lar que apoie seus hobbies.
-- [Bem-Estar e Longevidade 2026](/artigos/bem-estar-longevidade-2026/artigo.md) — Práticas para uma vida equilibrada e criativa.
+- [Journaling para Crescimento Pessoal](/artigos/journaling-2026) — Como usar a escrita para autoconhecimento.
+- [Decoração Consciente 2026](/artigos/decoracao-consciente-2026) — Como criar um lar que apoie seus hobbies.
+- [Bem-Estar e Longevidade 2026](/artigos/bem-estar-longevidade-2026) — Práticas para uma vida equilibrada e criativa.
 
 *Este artigo foi escrito com carinho por Lillith Nogah para o Bem Mais Bella — onde cada mulher encontra força, inspiração e propósito.*

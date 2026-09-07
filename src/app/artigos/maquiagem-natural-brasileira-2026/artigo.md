@@ -25,7 +25,7 @@ Este artigo é um guia completo sobre maquiagem natural brasileira: técnicas, p
 
 ## 1. A Revolução da Makeup Natural no Brasil
 
-O Brasil é um dos maiores mercados de beleza do mundo. Segundo a Associação Brasileira da Indústria de Higiene Pessoal, Cosméticos e Perfumes (ABIHPEC), o setor de cosméticos cresceu 5,2% em 2025 e continua em expansão. Mas a tendência dentro desse mercado mudou: as consumidoras estão migrando de maquiagem performática — camadas pesadas de base, contorno intenso, sobrancelhas perfeitas — para acabamentos mais sutis e naturais.
+O Brasil é um dos maiores mercados de beleza do mundo. Mas a tendência dentro desse mercado mudou: as consumidoras estão migrando de maquiagem performática — camadas pesadas de base, contorno intenso, sobrancelhas perfeitas — para acabamentos mais sutis e naturais.
 
 O TikTok Brasil está cheio de conteúdo sobre "clean girl aesthetic", "soft glam" e "no-makeup makeup". Hashtags como #makeupnatural e #maquiagemminimalista cresceram 300% nos últimos dois anos. A razão? As mulheres estão cansadas de se esconder atrás da maquiagem. Querem ser vistas — e queridas — como são.
 
@@ -185,8 +185,7 @@ A makeup natural brasileira é uma celebração da pele real. Não é sobre esco
 Em 2026, que cada mulher descubra seu próprio nível de makeup natural — o que faz ela se sentir bem, confiante e verdadeira. Porque a maquiagem mais bonita que existe é a que celebra quem você realmente é.
 
 ---
-
-**Links Internos:**
+**Leia também:**
 - [Beleza Caseira e Natural 2026](/src/app/artigos/beleza-caseira-natural-2026) — Cosméticos naturais
 - [Estilos Inclusivos 2026](/src/app/artigos/estilos-inclusivos-2026) — Beleza que celebra todos os corpos
 - [Brasilcore 2026](/src/app/artigos/brasilcore-hype-brazil-2026) — Tendência de moda brasileira

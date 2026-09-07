@@ -88,8 +88,6 @@ O brazilcore autêntico exige a participação de comunidades tradicionais. Em 2
 - **Tece Cultural**: Cooperativa de artesãs do Nordeste que produzem tecidos e peças para marcas do brazilcore
 - **Mãos do Brasil**: Plataforma digital que conecta artesãos a consumidores, garantindo transparência e preços justos
 
-
-
 ### O Brazilcore na Beleza e no Skincare
 
 O brazilcore nao se limita a moda — ele atravessa a beleza, o skincare e o cuidado pessoal. Em 2026, marcas de cosmeticos brasileiras adotaram a estetica e a filosofia do movimento, criando produtos que celebram a biodiversidade, a ancestralidade e a identidade nacional.

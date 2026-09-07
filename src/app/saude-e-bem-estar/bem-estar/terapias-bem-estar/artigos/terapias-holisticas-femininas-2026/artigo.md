@@ -61,7 +61,7 @@ A razão pela qual essas terapias ressoam particularmente com o feminino contemp
 
 No Brasil, a popularização das terapias holísticas entre mulheres começou a ganhar força no início dos anos 2000, com a chegada de práticas como o reiki e a yoga. Mas foi a partir de 2015 que o movimento se intensificou, com a proliferação de terapeutas, espaços de cura, retiros espirituais e uma nova geração de mulheres que buscam essas práticas não como modismo, mas como necessidade genuína de equilíbrio.
 
-Hoje, em 2026, as terapias holísticas são parte do cotidiano de milhões de mulheres brasileiras. De acordo com pesquisa do IBGE, 23% das mulheres adultas no Brasil praticam pelo menos uma terapia holística regularmente — um número que cresce para 38% entre mulheres de 25 a 45 anos das classes A e B. Esses números refletem uma mudança cultural profunda, onde autocuidado não é mais visto como vaidade, mas como necessidade básica de saúde.
+Hoje, em 2026, as terapias holísticas são parte do cotidiano de milhões de mulheres brasileiras. Esses números refletem uma mudança cultural profunda, onde autocuidado não é mais visto como vaidade, mas como necessidade básica de saúde.
 
 Para mulheres que estão iniciando nesse universo, é importante entender que as terapias holísticas não são mutuamente excludentes. Pelo contrário, elas se complementam. Uma mulher pode fazer psicoterapia, tomar medicação prescrita, praticar yoga, fazer sessões de reiki e usar cristais em sua mesa de trabalho — tudo isso faz parte de uma rotina de cuidado integral que respeita diferentes dimensões de sua experiência.
 
@@ -117,7 +117,7 @@ O ritual do banho de ervas pode ser simples ou elaborado. Na sua forma mais simp
 
 No Brasil, a tradição dos banhos de ervas é especialmente forte nas religiões de matriz africana como o candomblé e a umbanda, onde são parte integrante dos rituais religiosos. Mas a prática também transcende as fronteiras religiosas e tem sido adotada por mulheres de diferentes espiritualidades como forma de autocuidado simbólico e profundo.
 
-A pesquisadora Alessandra Crisostomo, especialista em culturas afro-brasileiras, destaca que "os banhos de ervas são uma das formas mais acessíveis de cuidar da saúde emocional, especialmente para mulheres que não têm recursos para terapias mais caras. É uma prática de cuidado que vem dos nossos ancestrais e que merece ser valorizada, estudada e integrada aos programas de saúde pública."
+É uma prática de cuidado que vem dos nossos ancestrais e que merece ser valorizada, estudada e integrada aos programas de saúde pública."
 
 Para mulheres que querem começar a praticar banhos de ervas, é recomendável começar com uma erva por vez, observando como o corpo e as emoções respondem. É importante escolher ervas de procedência confiável, preferencialmente orgânicas, e estar atenta a possíveis alergias. A prática pode ser feita semanalmente, mensalmente ou em momentos específicos do mês, dependendo das necessidades individuais.
 

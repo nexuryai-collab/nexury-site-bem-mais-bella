@@ -17,7 +17,7 @@ Se existe algo que as mulheres brasileiras finalmente entenderam em 2026, é que
 
 Não são os 300 convidados, o bolo de 5 andares ou a lua de mel em Maldivas que definem se um casamento é bem-sucedido. É a conexão real entre duas pessoas, a intenção por trás de cada decisão, a coerência com os valores de quem está construindo uma vida junta.
 
-Segundo dados do IBGE de 2025-2026, os casamentos civis no Brasil caíram 18% em comparação com 2019, mas a qualidade dos relacionamentos reportados subiu. As mulheres brasileiras estão priorizando **propósito sobre protocolo**. E isso se reflete diretamente na forma como planejam suas cerimônias.
+As mulheres brasileiras estão priorizando **propósito sobre protocolo**. E isso se reflete diretamente na forma como planejam suas cerimônias.
 
 Este artigo é o guia completo para entender e viver um casamento com propósito em 2026.
 

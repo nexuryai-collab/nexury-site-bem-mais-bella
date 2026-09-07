@@ -46,7 +46,7 @@ Neste guia completo, você vai entender por que o Slow Aging virou o maior movim
 
 ![Cientista brasileira em laboratório pesquisando longevidade feminina, com gráficos de colágeno e células-tronco ao fundo](images/ciencia-regenerativa.webp)
 
-O termo "Slow Aging" nasceu como uma resposta ao mercado obcecado pelo "anti-aging" — uma indústria bilionária que, por décadas, vendeu a ideia de que envelhecer era um problema a ser combatido. Mas em 2026, dados do relatório **McKinsey The Future of Wellness** mostram que mais de 78% das brasileiras entre 35 e 65 anos rejeitam a narrativa anti-idade e buscam uma abordagem que respeite o tempo.
+O termo "Slow Aging" nasceu como uma resposta ao mercado obcecado pelo "anti-aging" — uma indústria bilionária que, por décadas, vendeu a ideia de que envelhecer era um problema a ser combatido.
 
 Slow Aging, em essência, é a filosofia de **envelhecer de forma lenta, saudável e intencional** — abraçando a idade com ciência, autocuidado e orgulho. Não é sobre parecer ter 25 anos aos 50. É sobre estar radiante aos 50 porque seus hormônios estão equilibrados, seu sono é reparador, sua pele recebe os nutrientes certos e sua vida tem sentido.
 
@@ -67,7 +67,6 @@ Toda rotina Slow Aging se sustenta em quatro pilares, e vamos mergulhar em cada 
 - **Pele regenerativa** — skincare com ativos que estimulam colágeno, elastina e renovação celular, sem agressões.
 - **Equilíbrio hormonal** — sono, alimentação e suplementação para manter estradiol, progesterona, testosterona e cortisol em sintonia, especialmente na perimenopausa e menopausa.
 - **Mente calma e cérebro ativo** — práticas de mindfulness, leitura, aprendizado contínuo e saúde mental como prioridade.
-- **Propósito e comunidade** — viver com sentido, conexão social e engajamento, os três preditores mais fortes de longevidade segundo o *Harvard Study of Adult Development* (estudo com 85 anos de acompanhamento).
 
 Esses pilares não são modismos. São o que a ciência mundial — incluindo o **National Institute on Aging** dos EUA e o **Ministério da Saúde** do Brasil — recomenda como base para uma vida longa e saudável.
 
@@ -119,7 +118,7 @@ A mensagem é clara: **cuidar da pele é sobre saúde, não sobre esconder a ida
 
 ![Mulher brasileira meditando em casa, com luz da manhã, olhos fechados, expressão de paz — slow aging mental](images/mente-corpo.webp)
 
-Aqui está o ponto que mais me emociona pessoalmente, porque é onde a **Lillith Nogah** — a escritora que vos fala — vê a maior transformação possível. Você sabia que o **Harvard Study of Adult Development**, o estudo mais longo já feito sobre envelhecimento humano (iniciado em 1938), descobriu que o **maior preditor de saúde aos 80 anos não é o colesterol, nem a pressão arterial, mas a qualidade dos relacionamentos**?
+Aqui está o ponto que mais me emociona pessoalmente, porque é onde a **Lillith Nogah** — a escritora que vos fala — vê a maior transformação possível.
 
 Isso significa que o caminho para envelhecer bem passa, inevitavelmente, pela **vida emocional e mental**. E em 2026, o Brasil finalmente parou de tratar saúde mental como "frescura".
 
@@ -134,7 +133,7 @@ O cortisol é o hormônio do estresse. Em pequenas doses, ele nos mantém alerta
 Por isso, toda rotina Slow Aging em 2026 inclui pelo menos uma prática de regulação do estresse. Não precisa ser meditação de 1 hora. Pode ser:
 
 - **5 minutos de respiração diafragmática** pela manhã.
-- **Caminhada ao ar livre** (idealmente em área verde — o que reduz cortisol em até 20% segundo estudo da Universidade de Essex).
+
 - **Ritual noturno** de banho morno + leitura + chá + tela desligada 1h antes do sono.
 - **Journaling** — escrever 3 páginas pela manhã, técnica popularizada por Julia Cameron em *The Artist's Way*, e que viralizou no TikTok Brasil em 2026 como "manhã silenciosa".
 
@@ -324,12 +323,12 @@ O Brasil está, finalmente, **desconstruindo o etarismo** — especialmente o et
 Quer aprofundar? Confira outros artigos do **Bem Mais Bella** que conversam com este tema:
 
 - **[Skincare Inteligente 2026: Rotinas com Ativos Pro-Aging](/artigos/skincare-inteligente-2026)** — como montar a rotina ideal com ativos validados pela ciência.
-- **[Slow Aging Brasil 2026: Envelhecimento Saudável](/artigos/slow-aging-brasil-2026)** — guia complementar sobre longevidade feminina.
+- **Slow Aging Brasil 2026: Envelhecimento Saudável** — guia complementar sobre longevidade feminina.
 - **[Nutrição Saudável 2026: Comer de Verdade, Sem Dietas Malucas](/artigos/nutricao-saudavel-2026)** — base alimentar Slow Aging.
 - **[Saúde Mental no Trabalho 2026](/artigos/saude-mental-trabalho-2026)** — como regular o cortisol mesmo na rotina atribulada.
 - **[Menopausa e Bem-Estar](/artigos/bem-estar-longevidade-2026)** — como atravessar essa fase com vitalidade.
-- **[Moda Inclusiva 2026](/artigos/estilo-inclusivo-corpos-2026)** — estilo para mulheres em todos os corpos e idades.
-- **[Beleza Inclusiva 2026](/artigos/beleza-inclusiva-2026-nexus)** — beleza que celebra cada fase da vida.
+- **[Moda Inclusiva 2026](/artigos/estilo-inclusivo-corpo-2026)** — estilo para mulheres em todos os corpos e idades.
+- **[Beleza Inclusiva 2026](/artigos/beleza-inclusiva-2026)** — beleza que celebra cada fase da vida.
 - **[Terapias Holísticas Femininas 2026](/artigos/terapias-holisticas-femininas-2026)** — práticas integrativas para mulheres maduras.
 - **[Espiritualidade Feminina 2026](/artigos/espiritualidade-feminina-2026)** — reconexão com propósito e sentido.
 
@@ -345,7 +344,7 @@ Eu te espero nos próximos artigos do **Bem Mais Bella**. A gente continua camin
 
 Com amor e propósito,
 
-**Lillith Nogah**  
+**Lillith Nogah**
 *Escritora, pesquisadora de beleza e longevidade feminina*
 
 ---

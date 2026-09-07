@@ -27,17 +27,11 @@ relatedArticles:
 
 # Finanças Conscientes 2026: Como Alcançar a Liberdade Financeira com Propósito
 
-![Finanças conscientes 2026 - planejamento financeiro para mulheres](/artigos/financas-conscientes-2026/hero.webp)
-
-*Imagem hero: mulher brasileira organizando finanças em uma mesa com caderno, calculadora, moedas e um café quente. Ambiente doméstico acolhedor.*
-
 Em 2026, o Brasil está vivendo uma revolução silenciosa nas finanças pessoais. Nunca tantas mulheres investiram, empreenderam e planejaram suas contas com tanta consciência. Os dados mostram que o número de mulheres investidoras cresceu 145% desde 2023 — de 3,3 milhões para mais de 8 milhões de contas femininas ativas em corretoras e bancos digitais. O TikTok Brasil está inundado de conteúdo sobre #FEMININAFINANCEIRA, #EconomiaDasMulheres e #LivreDeDívidas — juntos acumulando mais de 10 bilhões de visualizações. Mas a grande mudança não é apenas quantidade: é qualidade. As mulheres brasileiras estão passando de "sobreviver" para "prosperar".
 
 > **Observação da Lillith:** Querida, eu sei o que é sentir que dinheiro é um tabu, que falar sobre finanças é coisa de gente rica, que guardar dinheiro é um sacrifício que você não consegue fazer. Eu cresci ouvindo que "mulher não precisa entender de dinheiro", que "homem é quem cuida das finanças". E sei que muitas de vocês também cresceram com isso. Mas deixe-me te dizer: **dinheiro é ferramenta, e ferramenta serve a quem a usa**. Você não precisa ser expert para começar. Você não precisa ter R$ 10 mil para investir. Você não precisa esperar a vida resolver. Comece com o que tem, onde está, agora. E acredite: cuidar do seu dinheiro é um ato de amor próprio, de autonomia e de liberdade.
 
 ## O Renascimento das Finanças Femininas no Brasil
-
-![O renascimento das finanças femininas no Brasil](/artigos/financas-conscientes-2026/section-1.webp)
 
 Os números do Brasil em 2026 são impressionantes:
 
@@ -45,13 +39,10 @@ Os números do Brasil em 2026 são impressionantes:
 - **68%** das mulheres brasileiras dizem que "finanças pessoais" é um tema que passaram a se importar mais desde 2024
 - **52%** das donas de pequenos negócios no Brasil são mulheres
 - **61%** das mulheres aprenderam sobre investimentos com conteúdo de TikTok, YouTube e Instagram
-- **R$ 45 bilhões** movimentados por mulheres investidoras na B3 em 2025
 
 O que mudou na mentalidade? As mulheres brasileiras não estão apenas investindo mais — estão investindo diferente. Enquanto a geração anterior focava em segurança (poupança, títulos de capitalização), as investidoras de 2026 buscam **equilíbrio entre retorno, propósito e risco controlado**.
 
 ## Os 5 Pilares das Finanças Conscientes
-
-![Os 5 pilares das finanças conscientes](/artigos/financas-conscientes-2026/section-2.webp)
 
 ### 1. Autoconhecimento Financeiro
 Antes de qualquer decisão, entenda onde está:
@@ -87,15 +78,13 @@ Liberdade financeira não é ser rica — é ter **escolhas**. Com reserva, inve
 
 ## A Dívida: O Maior Inimigo das Finanças Conscientes
 
-![A dívida como inimigo das finanças conscientes](/artigos/financas-conscientes-2026/section-3.webp)
-
 No Brasil, a dívida é o calcanhar de Aquiles de muitas mulheres. Segundo o Serviço de Proteção ao Crédito (SPC Brasil), 71,4% das mulheres brasileiras estão endividadas em 2026. O cartão de crédito rotativo cobra em média 15-20% ao mês — a dívida dobra em menos de 5 meses.
 
 ### Como sair das dívidas:
 
 1. **Enfrente a realidade**: liste todas as dívidas com valores, taxas e prazos
 2. **Negocie tudo**: ligue para bancos, lojas, operadoras — renegociação é obrigação do credor
-3. **Use o sistema Serasa Limpa Nome**: negociações com desconto de até 99%
+3.
 4. **Priorize a dívida mais cara** (cartão de crédito > empréstimo > financiamento)
 5. **Corte gastos supérfluos** temporariamente — isso é temporário, a paz é para sempre
 

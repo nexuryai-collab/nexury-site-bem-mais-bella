@@ -19,7 +19,7 @@ wordCount: 3000
 
 No Brasil de 2026, a maternidade está passando por uma transformação profunda. As mulheres estão deixando de ver a gravidez apenas como um processo biológico para abraçá-la como uma jornada espiritual, emocional e física de enorme significado. Este movimento, chamado de **maternidade consciente**, combina saberes ancestrais com ciência moderna para criar experiências de gravidez, parto e pós-parto que priorizam o bem-estar materno-fetal, a conexão emocional e a autonomia feminina.
 
-Os dados do "Relatório de Saúde Materna e Infantil 2026" do Ministério da Saúde mostram um crescimento de 52% no número de mulheres optando por partos humanizados, acompanhamento de doulas e práticas de mindfulness durante a gravidez. No TikTok e Instagram, hashtags como #MaternidadeConsciente e #GravidezHumanizada acumulam mais de 1,8 bilhão de visualizações, indicando uma mudança cultural significativa.
+No TikTok e Instagram, hashtags como #MaternidadeConsciente e #GravidezHumanizada acumulam mais de 1,8 bilhão de visualizações, indicando uma mudança cultural significativa.
 
 ## Observação de Lillith Nogah
 

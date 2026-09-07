@@ -1,4 +1,5 @@
 ---
+author: "Lillith Nogah"
 title: "Maternidade Real: Autenticidade no Cuidado com o Bebê"
 description: "Guia para mães brasileiras sobre autocuidado, saúde mental e estilo durante a pós-parto e vida com bebê, com dicas práticas e apoio emocional."
 slug: maternidade-real-autenticidade-cuidado-bebe-2026
@@ -7,9 +8,8 @@ category: Maternidade e Família
 subcategory: Maternidade
 keywords: [maternidade, autocuidado, saúde mental, pós-parto, estilo mãe, cuidado com bebê]
 image: /images/maternidade-real-2026.webp
-og:image: https://bemmaisbella.com.br/images/maternidade-real-2026.webp
+og:image: /artigos/maternidade-real-autenticidade-cuidado-bebe-2026/hero.webp
 date: 2026-09-05T00:00:00Z
-author: Nexury
 ---
 
 ## Introdução: O Novo Papel da Mãe no Brasil de 2026
@@ -112,7 +112,6 @@ A maternidade é uma fase única, mas não é o fim da sua história. Use essa f
 
 ---
 
-**Imagens WebP utilizadas:**
 1. Maternidade Real: /images/maternidade-real-2026.webp
 2. Look 1: /images/maternidade-real-2026-look1.webp
 3. Look 2: /images/maternidade-real-2026-look2.webp
@@ -121,6 +120,5 @@ A maternidade é uma fase única, mas não é o fim da sua história. Use essa f
 6. Estética: /images/maternidade-real-2026-estetica.webp
 
 **Total de palavras:** 2,612
-**Total de imagens WebP:** 6
 
 *Este artigo foi escrito com carinho para as mães brasileiras de 2026.*

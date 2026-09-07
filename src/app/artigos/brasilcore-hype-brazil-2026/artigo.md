@@ -106,7 +106,7 @@ O verdadeiro Brasilcore não é uma cópia — é uma celebração da identidade
 
 ## 8. Brasilcore e a Economia Criativa
 
-O impacto econômico do Brasilcore é significativo. De acordo com a Carta Capital, a economia criativa brasileira movimenta mais de R$ 150 bilhões anuais e emprega milhões de pessoas. O Brasilcore, ao valorizar o artesanato e a cultura nacional, gera renda para comunidades inteiras — especialmente mulheres empreendedoras no interior do Nordeste e da Amazônia.
+O impacto econômico do Brasilcore é significativo. O Brasilcore, ao valorizar o artesanato e a cultura nacional, gera renda para comunidades inteiras — especialmente mulheres empreendedoras no interior do Nordeste e da Amazônia.
 
 Quando você escolhe uma bolsa de palha trançada à mão, uma renda de filé ou um bordado feito à mão, você não está apenas comprando um produto: **está mantendo viva uma tradição e gerando emprego**.
 
@@ -135,8 +135,7 @@ O Brasilcore é muito mais que uma tendência de moda. É um movimento cultural 
 Seja no crochê da sua avó, na cor do seu vestido, no brilho do seu sorriso: o Brasilcore é você. É nós. É a nossa brasilidade em estado puro.
 
 ---
-
-**Links Internos:**
+**Leia também:**
 - [Moda Consciente 2026](/src/app/artigos/moda-consciente-guarda-roupa-sustentavel-2026) — Moda responsável para mulheres conscientes
 - [Estilos Inclusivos 2026](/src/app/artigos/estilos-inclusivos-2026) — Beleza que celebra a diversidade real
 - [Com a Voz da Mulher](/src/app/artigos/com-voz-da-mulher-2026) — Autoestima e beleza consciente

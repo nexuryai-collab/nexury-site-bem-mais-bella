@@ -165,8 +165,7 @@ Não precisa ser atleta, não precisa ter corpo de modelo, não precisa passar 2
 Comece hoje. Com 10 minutos. Com uma caminhada. Com um alongamento na cama. O importante é começar.
 
 ---
-
-**Links Internos:**
+**Leia também:**
 - [Nutrição Feminina 2026](/src/app/artigos/nutricao-feminina-transformacao-2026) — Alimentação que transforma
 - [Saúde Intestinal 2026](/src/app/artigos/saude-intestinal-2026) — O segundo cérebro
 - [Mindfulness para Mulheres 2026](/src/app/artigos/mindfulness-para-mulheres-2026) — Mente e corpo conectados

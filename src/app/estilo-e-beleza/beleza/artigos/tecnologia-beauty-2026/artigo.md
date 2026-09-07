@@ -58,9 +58,9 @@ Os espelhos tradicionais de 2026 não são apenas reflexos — são verdadeiras 
 **Exemplos inovadores:**
 
 - **SmartMirror Brasil**: um espelho de corpo inteiro equipado com câmeras de alta definição, sensores de temperatura e um assistente de IA integrado. Quando você se olha no espelho, o SmartMirror oferece:
-  - **Análise facial instantânea** (avaliações de textura da pele, análise de manchas)
-  - **Sugestões de maquiagem** baseadas no tom de pele, formato do rosto e clima
-  - **Avaliações de temperatura corporal** para sugerir clima adequado de produtos (frios vs. cremosos)
+- **Análise facial instantânea** (avaliações de textura da pele, análise de manchas)
+- **Sugestões de maquiagem** baseadas no tom de pele, formato do rosto e clima
+- **Avaliações de temperatura corporal** para sugerir clima adequado de produtos (frios vs. cremosos)
 
 - **Reflexo Realidade Aumentada**: um espelho compacto que funciona com seu smartphone. Ao apontar a câmera para o rosto, o aplicativo sobrepõe camadas de maquiagem virtual, simula resultados e permite que você visualize como diferentes tons de batom ficam em seus lábios antes de comprá-los.
 

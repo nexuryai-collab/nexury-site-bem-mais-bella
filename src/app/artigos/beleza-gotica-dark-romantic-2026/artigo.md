@@ -1,4 +1,7 @@
 ---
+author: "Lillith Nogah"
+category: "Estilo e Beleza"
+subcategory: "Beleza"
 slug: beleza-gotica-dark-romantic-2026
 title: Beleza Gótica e Dark Romantic: A Estética que Dominou o TikTok em 2026
 meta_description: Beleza gótica 2026: dark romantic, maquiagem escura e estética cinematográfica que transformam o modo de se vestir e se mapear no Brasil.
@@ -13,7 +16,7 @@ og_description: Descubra como a beleza gótica e dark romantic se tornou a tend�
 
 No Brasil de 2026, a beleza está deixando de ser apenas sobre perfeição e se tornando uma forma de expressão profunda e transformadora. A **beleza gótica** e seu movimento derivado, o **dark romantic**, surgiram como a grande aposta do TikTok e da moda brasileira. Com maquiagem dramática, roupas negras e um toque de romanticismo sombrio, essa estética conquistou milhões de usuários e virou referência para quem busca um estilo único, intenso e autêntico.
 
-A ascensão dessa tendência reflete uma mudança cultural: jovens e adultos estão buscando formas de expressão que fogem do convencional, sem medo de mostrar emoções fortes e estéticas marcantes. Segundo o relatório *“Tendências de Beleza TikTok 2026”* do *Google Trends Brasil*, as buscas por “beauty gothic” e “dark romantic makeup” aumentaram **320%** em relação a 2025, com picos em outubro e dezembro de 2026.
+A ascensão dessa tendência reflete uma mudança cultural: jovens e adultos estão buscando formas de expressão que fogem do convencional, sem medo de mostrar emoções fortes e estéticas marcantes.
 
 ## 1. Origem da Estética Gótica: Da Literatura ao TikTok
 

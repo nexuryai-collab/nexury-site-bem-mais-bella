@@ -27,19 +27,11 @@ relatedArticles:
 
 # Slow Aging 2026: A Ciência e a Filosofia do Envelhecimento Saudável no Brasil
 
-![Mulher brasileira 50+ com pele saudável e olhar sereno, praticando yoga em um jardim tropical, representando o slow aging](/artigos/slow-aging-2026-brasil/hero.webp)
-
-*Imagem hero: mulher brasileira com 50+ anos com pele naturalmente radiante, sorriso autêntico, praticando yoga ou meditação em ambiente natural e luminoso.*
-
 O **Slow Aging** chegou ao Brasil em 2026 como o contraponto perfeito à indústria de "anti-idade" que sempre tentou nos convencer de que envelhecer é um problema a ser combatido. Em vez disso, o Slow Aging propõe que envelhecer é uma jornada, e que cada fase da vida tem sua própria beleza, seu próprio ritmo, sua própria sabedoria.
 
 A Bem Mais Bella acredita que envelhecer não precisa ser assustador. Com informação, autocuidado e ciência, podemos atravessar cada década com vitalidade, confiança e propósito. Neste artigo, exploramos o que é o Slow Aging, como aplicá-lo no seu dia a dia e por que ele está revolucionando a relação das brasileiras com o tempo.
 
 ## O que é Slow Aging?
-
-![Slow Aging - filosofia do envelhecimento saudável](/artigos/slow-aging-2026-brasil/section-1.webp)
-
-*Imagem seção 1: composição visual mostrando os pilares do slow aging - movimento, alimentação, sono, conexões, propósito.*
 
 Slow Aging é uma abordagem integrativa de saúde e bem-estar que prioriza a **qualidade do envelhecimento** sobre a aparência de juventude. Diferente do "anti-idade", que tenta "combater" os sinais do tempo, o Slow Aging trabalha com o tempo, abraçando cada fase da vida com naturalidade e cuidado.
 
@@ -54,11 +46,7 @@ A Dra. Maria Augusta Simões, especialista em geriatria preventiva, explica: "Sl
 
 ## A ciência por trás do Slow Aging
 
-![A ciência por trás do Slow Aging](/artigos/slow-aging-2026-brasil/section-2.webp)
-
-*Imagem seção 2: infográfico científico mostrando dados sobre telomerase, inflamação crônica, saúde mitocondrial e exercício.*
-
-Estudos científicos recentes validam o que a intuição humana sempre soube: envelhecer bem é uma combinação de fatores controláveis. A pesquisa da Universidade de Harvard, publicada em 2024, identificou cinco fatores-chave que aumentam a expectativa de vida saudável:
+Estudos científicos recentes validam o que a intuição humana sempre soube: envelhecer bem é uma combinação de fatores controláveis.
 
 - **Alimentação baseada em plantas**: legumes, verduras, frutas, grãos integrais
 - **Movimento diário**: 30 minutos de atividade moderada
@@ -72,8 +60,6 @@ A pesquisa acompanhou 123.000 pessoas por 30 anos. Aqueles que seguiram todos os
 
 ![Slow Aging no Brasil - cultura, práticas tradicionais e saberes ancestrais](/artimentos/slow-aging-2026-brasil/section-3.webp)
 
-*Imagem seção 3: composição visual mostrando o contexto brasileiro do slow aging - iaiá, quebra-quebra, axé, samba, lambança, yoga, hábitos saudáveis.*
-
 O Brasil tem uma vantagem cultural única para o Slow Aging. Nossas práticas tradicionais de cuidado já incorporam muitos dos pilares do movimento:
 
 - **Cultura de quebra-quebra**: reuniões familiares e de amizade com comida e conversa
@@ -85,10 +71,6 @@ O Brasil tem uma vantagem cultural única para o Slow Aging. Nossas práticas tr
 A nutricionista e pesquisadora **Dra. Ana Paula Kfouri** argumenta: "O Brasil tem uma sabedoria ancestral de cuidado com a vida. O Slow Aging, na verdade, é um resgate dessa sabedoria, validado pela ciência moderna."
 
 ## Os 5 pilares do Slow Aging na prática
-
-![Os 5 pilares do Slow Aging - alimentação, movimento, sono, conexões, propósito](/artigos/slow-aging-2026-brasil/section-4.webp)
-
-*Imagem seção 4: ilustração dos 5 pilares do Slow Aging com ícones e descrições práticas.*
 
 ### 1. **Alimentação consciente**
 
@@ -146,10 +128,6 @@ Ter um "porquê" é essencial. Pode ser:
 > **Observação da Lillith:** Querida, eu sei como é difícil olhar no espelho e ver as marcas do tempo. Eu sei como aquela ruga nova no canto do olho pode gerar angústia, ou como aquele fio branco pode parecer um inimigo. Mas me permite uma outra perspectiva: **cada marca é uma história**. Cada ruga é uma risada que você deu de verdade. Cada fio branco é um dia de sabedoria que você acumulou. O Slow Aging não é sobre parar o tempo, mas sobre **honrar a sua jornada**. Você não precisa parecer 25 para ser desejável, amada, vibrante. Você precisa ser você — com suas rugas, com seus cabelos brancos, com tudo o que o tempo trouxe. E acredite: com autocuidado e amor-próprio, o tempo vai apenas te tornar mais bonita, mais sábia, mais completa.
 
 ## Rotina Slow Aging: manhã e noite
-
-![Rotina Slow Aging - manhã e noite para uma vida equilibrada](/artigos/slow-aging-2026-brasil/section-5.webp)
-
-*Imagem seção 5: rotina de manhã e noite Slow Aging - acordar, sol, alimentação, exercício, meditação, sono, skincare.*
 
 ### Rotina da manhã
 

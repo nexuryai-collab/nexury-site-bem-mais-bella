@@ -1,7 +1,7 @@
 ---
 title: "Beleza Caseira e Natural: A Revolução dos Ingredientes do Dia a Dia"
 slug: beleza-caseira-natural-2026
-description: "Descubra receitas de beleza caseira 100% naturais inspiradas em Harper's Bazaar, Carta Capital e tendencias brasileiras de 2026."
+description: "Descubra receitas de beleza caseira 100% naturais."
 keywords: [beleza caseira, cosméticos naturais, beleza com ingredientes de casa, Lillith Nogah, Bem Mais Bella]
 canonical: https://bemmaisbella.com.br/artigos/beleza-caseira-natural-2026
 ogImage: /images/hero-beleza-caseira.webp
@@ -57,7 +57,7 @@ Modo de preparo: Misture e aplique por 10 minutos antes de lavar com água morna
 
 ## 3. Cuidados com os Cabelos usando Ingredientes de Casa
 
-O cabelo brasileiro é conhecido pela riqueza de texturas. E a ciência da tratologia capilar caseira tem evoluído bastante. Uma máscara de óleo de coco e manteja pode reduzir em até 70% a quebra capilar em 4 semanas — segundo estudos da USP publicados no Gov.br.
+O cabelo brasileiro é conhecido pela riqueza de texturas. E a ciência da tratologia capilar caseira tem evoluído bastante.
 
 **3.1 Máscara de Reconstrução com Cacau e Banana**
 
@@ -86,14 +86,11 @@ Modo de preparo: Misture todos os ingredientes e aplique nos fios molhados após
 Teste sempre um teste de patch antes de aplicar qualquer receita nova. Armazene em recipientes opacos e em local fresco. Receitas com água devem ser usadas em até 3 dias. Caso haja irritação, interrompa e lave com água morna.
 
 ---
-
-**Links internos:**
-
-- [Com a Voz da Mulher — Beleza Consciente](/artigos/com-voz-da-mulher-2026)
+**Leia também:**
+- [Com a Voz da Mulher — Beleza Consciente](/artigos/corpo-real-2026)
 - [Finanças Femininas 2026](/artigos/financas-femininas-2026)
 - [Moda Consciente 2026](/artigos/moda-consciente-2026)
 - [Beleza Regenerativa 2026](/artigos/beleza-regenerativa-2026)
 
 ---
 
-*Artigo gerado automaticamente pelo Nexus (Nexus = segunda mente de Fellipe Lelis) para Bem Mais Bella. Inspirado em Harper's Bazaar Brasil, Carta Capital, Gov.br.*

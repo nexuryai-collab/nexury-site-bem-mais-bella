@@ -36,7 +36,7 @@ Neste guia longo e cuidadoso, escrito do jeitinho que conversa de uma mulher par
 
 ## 1. Por que a maternidade planejada virou trending no Brasil em 2026
 
-Se você abriu o TikTok nesta semana, deve ter visto hashtags como #maternidadereal, #gestaoconsciente e #antesdobebe explodindo entre mulheres de 27 a 38 anos. O Datafolha apontou, no início de 2026, que 41% das mulheres brasileiras que pretendem engravidar estão adiando a gestação para organizar vida profissional, financeira e emocional — um movimento puxado por classe média urbana e por mulheres que decidiram romper o ciclo de "filho como destino".
+Se você abriu o TikTok nesta semana, deve ter visto hashtags como #maternidadereal, #gestaoconsciente e #antesdobebe explodindo entre mulheres de 27 a 38 anos.
 
 A ginecologista e obstetra Dra. Marina Couto, referência em parto humanizado no Rio de Janeiro, explica: "A consulta pré-concepcional é o presente mais bonito que uma futura mãe pode dar a si mesma e ao bebê que vai chegar. É ali que ajustamos vitaminas, exames, estabilizamos doenças crônicas, conversamos sobre medicação, sobre o que fazer se a gestação não acontecer rápido".
 

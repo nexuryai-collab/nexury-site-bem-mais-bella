@@ -1,0 +1,121 @@
+{
+ "novidades": [
+  {
+   "slug": "banho-premium-ritual-2026",
+   "title": "Banho Premium: O Ritual de Autocuidado que Transformou a Higiene em Luxo em 2026",
+   "cat": "estilo-e-beleza",
+   "desc": "Descubra como o banho premium virou o ritual de autocuidado mais hype do Brasil em 2026. Esfoliação, fragrâncias e sensorialidade para transformar seu banheiro em spa.",
+   "img": "/artigos/banho-premium-ritual-2026/hero.webp",
+   "author": "Lillith Nogah",
+   "read": "14 minutos",
+   "date": "2026-09-25"
+  },
+  {
+   "slug": "moda-curadoria-guardaruopa-2026",
+   "title": "Moda Curadoria: Como Montar um Guarda-Roupa Intencional em 2026",
+   "cat": "estilo-e-beleza",
+   "desc": "Aprenda a montar um guarda-roupa curado e intencional para 2026: menos peças, mais significado, consumo consciente e estilo autêntico para mulheres reais.",
+   "img": "/artigos/moda-curadoria-guardaruopa-2026/hero.webp",
+   "author": "Lillith Nogah",
+   "read": "12 minutos",
+   "date": "2026-09-25"
+  },
+  {
+   "slug": "sustentabilidade-2026",
+   "title": "Sustentabilidade 2026: Consumir com Propósito e Consciência para um Planeta Saudável",
+   "cat": "estilo-de-vida",
+   "desc": "Descubra como consumir com propósito em 2026: técnicas de consumo consciente, produtos sustentáveis, impacto ambiental, escolhas ecológicas e como viver um estilo de vida verdadeiramente sustentável.",
+   "img": "/artigos/sustentabilidade-2026/hero.webp",
+   "author": "Lillith Nogah",
+   "read": "",
+   "date": "2026-09-20"
+  },
+  {
+   "slug": "autoconhecimento-2026",
+   "title": "Autoconhecimento 2026: Mindset Digital e Mindfulness para Transformação Pessoal",
+   "cat": "desenvolvimento-pessoal",
+   "desc": "Descubra como o autoconhecimento em 2026 está sendo revolucionado pela tecnologia digital e mindfulness. Aprenda a usar apps, IA e práticas ancestrais para transformação pessoal autêntica.",
+   "img": "/artigos/autoconhecimento-2026/hero.webp",
+   "author": "Lillith Nogah",
+   "read": "",
+   "date": "2026-09-15"
+  },
+  {
+   "slug": "brazilcore-beauty-2026",
+   "title": "Brazilcore Beauty 2026: Como Ser Brasileira e Brilhar com Autenticidade",
+   "cat": "estilo-e-beleza",
+   "desc": "Descubra o Brazilcore Beauty 2026: a celebração da beleza brasileira com autenticidade e cor. Aprenda a expressar sua identidade através da beleza natural, cores vibrantes e conexão com a terra.",
+   "img": "/artigos/brazilcore-beauty-2026/hero.webp",
+   "author": "Lillith Nogah",
+   "read": "",
+   "date": "2026-09-11"
+  },
+  {
+   "slug": "skinimalismo-2026",
+   "title": "Skinimalismo 2026: A Revolução da Pele Natural com Poucos Ativos",
+   "cat": "estilo-e-beleza",
+   "desc": "Descubra o skinimalismo 2026: a revolução da pele natural com poucos ativos. Saiba como simplificar sua rotina de skincare, cuidar da saúde da pele e alcançar resultados duradouros com menos produtos.",
+   "img": "/artigos/skinimalismo-2026/hero.webp",
+   "author": "Lillith Nogah",
+   "read": "",
+   "date": "2026-09-10"
+  }
+ ],
+ "populares": [
+  {
+   "slug": "estilo-e-beleza",
+   "nome": "Estilo e Beleza",
+   "total": 51,
+   "img": "/categorias/estilo-e-beleza.webp"
+  },
+  {
+   "slug": "saude-e-bem-estar",
+   "nome": "Saúde e Bem-Estar",
+   "total": 23,
+   "img": "/categorias/saude-e-bem-estar.webp"
+  },
+  {
+   "slug": "maternidade-e-familia",
+   "nome": "Maternidade e Família",
+   "total": 10,
+   "img": "/categorias/maternidade-e-familia.webp"
+  },
+  {
+   "slug": "casamentos-com-proposito",
+   "nome": "Casamentos com Propósito",
+   "total": 5,
+   "img": "/categorias/casamentos-com-proposito.webp"
+  },
+  {
+   "slug": "relacionamentos-conscientes",
+   "nome": "Relacionamentos Conscientes",
+   "total": 6,
+   "img": "/categorias/relacionamentos-conscientes.webp"
+  },
+  {
+   "slug": "carreira-e-financas",
+   "nome": "Carreira e Finanças",
+   "total": 14,
+   "img": "/categorias/carreira-e-financas.webp"
+  },
+  {
+   "slug": "estilo-de-vida",
+   "nome": "Estilo de Vida",
+   "total": 10,
+   "img": "/categorias/estilo-de-vida.webp"
+  },
+  {
+   "slug": "desenvolvimento-pessoal",
+   "nome": "Desenvolvimento Pessoal",
+   "total": 19,
+   "img": "/categorias/desenvolvimento-pessoal.webp"
+  },
+  {
+   "slug": "historias-inspiradoras",
+   "nome": "Histórias Inspiradoras",
+   "total": 4,
+   "img": "/categorias/historias-inspiradoras.webp"
+  }
+ ],
+ "totalArtigos": 142
+}

@@ -1,4 +1,5 @@
 ---
+author: "Lillith Nogah"
 title: "Moda Consciente 2026: Como Montar um Guarda-Roupa Sustentável Sem Perder Seu Estilo"
 description: "Descubra como criar um guarda-roupa consciente em 2026: peças duráveis, materiais sustentáveis e estilo autêntico para a mulher brasileira. Guia completo com tendências, dicas práticas e observação inspiradora da Lillith Nogah."
 slug: moda-consciente-guarda-roupa-sustentavel-2026
@@ -7,9 +8,8 @@ category: Estilo e Beleza
 subcategory: Moda
 keywords: [moda consciente, guarda-roupa sustentável, moda 2026, sustentabilidade moda Brasil, estilo responsável]
 image: /images/moda-consciente-2026-tendencias/hero.webp
-og:image: https://bemmaisbella.com.br/images/moda-consciente-2026-tendencias/hero.webp
+og:image: /artigos/moda-consciente-guarda-roupa-sustentavel-2026/hero.webp
 date: 2026-09-05T00:00:00Z
-author: Nexury
 ---
 
 ![Hero](/images/moda-consciente-2026-tendencias/hero.webp)
@@ -127,7 +127,6 @@ Lembre-se: cada peça que você escolhe com consciência é um passo em direçã
 
 ---
 
-**Imagens WebP utilizadas:**
 1. Hero: /images/moda-consciente-2026-tendencias/hero.webp
 2. Tendências de Cores: /images/moda-consciente-2026-tendencias/tendencias-cores.webp
 3. Blazer Sustentável: /images/moda-consciente-2026-tendencias/blazer.webp
@@ -136,4 +135,3 @@ Lembre-se: cada peça que você escolhe com consciência é um passo em direçã
 6. Calças Inclusivas: /images/moda-consciente-2026-tendencias/calcas.webp
 
 **Total de palavras:** 2,587
-**Total de imagens WebP:** 6

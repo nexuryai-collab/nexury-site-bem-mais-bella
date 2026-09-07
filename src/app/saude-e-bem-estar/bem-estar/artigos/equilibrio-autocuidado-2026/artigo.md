@@ -25,8 +25,9 @@ tags:
   - saúde mental mulheres
   - bem-estar feminino
   - limites saudáveis
-conteudo: |
-  O movimento "Não Queimar Out" — popularizado nas redes sociais brasileiras em 2026 — não é apenas uma frase de efeito. É uma resposta coletiva de mulheres que estão dizendo "basta" ao desgaste emocional, à síndrome da boa menina e à necessidade constante de entregar tudo de si para todos. Este artigo traz estratégias reais, inspiradas em especialistas brasileiras, para ajudar você a encontrar equilíbrio sem culpa.
+---
+
+ O movimento "Não Queimar Out" — popularizado nas redes sociais brasileiras em 2026 — não é apenas uma frase de efeito. É uma resposta coletiva de mulheres que estão dizendo "basta" ao desgaste emocional, à síndrome da boa menina e à necessidade constante de entregar tudo de si para todos. Este artigo traz estratégias reais, inspiradas em especialistas brasileiras, para ajudar você a encontrar equilíbrio sem culpa.
 ---
 
 # Equilíbrio e Autocuidado 2026: Como Mulheres Brasileiras Estão Parando de Queimar Out
@@ -35,7 +36,7 @@ conteudo: |
 
 ![Hero](/images/equilibrio-autocuidado-2026/hero.webp)
 
-A expressão "queimar out" — uma tradução criativa do inglês "burnout" — se popularizou entre as mulheres brasileiras em 2026 como uma forma de nomear aquele estado de exaustão profunda que muitas experimentam: a sensação de estar sempre ligada, sempre disponível, sempre entregando mais do que o corpo e a mente suportam. Segundo o Google Trends Brasil, buscas por "burnout feminino" e "como parar de se sentir cansada" cresceram 210% nos primeiros seis meses de 2026 — uma evidência de que as mulheres estão finalmente nomeando o que sempre souberam, mas tinham vergonha de admitir: estão esgotadas.
+A expressão "queimar out" — uma tradução criativa do inglês "burnout" — se popularizou entre as mulheres brasileiras em 2026 como uma forma de nomear aquele estado de exaustão profunda que muitas experimentam: a sensação de estar sempre ligada, sempre disponível, sempre entregando mais do que o corpo e a mente suportam.
 
 O movimento "Não Queimar Out" tornou-se viral no TikTok Brasil, com vídeos sobre rotinas de autocuidado, limites saudáveis e priorização do descanso atingindo milhões de visualizações. Não é apenas uma tendência — é uma mudança cultural profunda que está redefinindo o que significa ser uma mulher produtiva e bem-sucedida no século XXI.
 

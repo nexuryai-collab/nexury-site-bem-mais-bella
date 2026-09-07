@@ -154,7 +154,7 @@ Patrícia, preocupada com envelhecimento, usava 15 produtos anti-idade. Reduziu 
 
 ## Skinimalismo e o Sistema Imunológico
 
-Interessantemente, a pele saudável está diretamente conectada ao sistema imunológico. Pesquisas da *Harvard Medical School* (2026) mostram que uma barreira cutânea saudável reduz a entrada de patógenos em até 70%. O skinimalismo, ao fortalecer a barreira natural, também fortalece o sistema imunológico como um todo.
+Interessantemente, a pele saudável está diretamente conectada ao sistema imunológico. O skinimalismo, ao fortalecer a barreira natural, também fortalece o sistema imunológico como um todo.
 
 ### A Conexão entre Pele e Saúde Mental
 

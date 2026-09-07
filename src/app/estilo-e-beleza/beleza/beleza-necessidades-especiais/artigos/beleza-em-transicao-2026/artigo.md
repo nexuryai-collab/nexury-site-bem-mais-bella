@@ -24,7 +24,7 @@ views_to_internal: ["beleza-slow-aging-brasil-2026", "skincare-inteligente-2026"
 
 Toda mulher, em algum momento da vida, sente que precisa **reaprender a se cuidar**. O rosto que conhecia mudou, o corpo pediu novas medidas, a pele ganhou texturas diferentes. Não é fraqueza — é transição. E em 2026, o universo da beleza brasileira está, finalmente, reconhecendo que **mulheres em transição precisam de cuidados específicos, acolhimento e produtos pensados para elas**.
 
-A expressão "beleza em transição" ganhou força no TikTok brasileiro nos últimos 12 meses, com crescimento de 320% nas buscas segundo o Google Trends. Estamos falando de mulheres em diferentes fases: **gestantes**, **puérperas**, **mulheres na menopausa**, **quem passou por grandes mudanças de peso**, **quem lida com alterações hormonais**, **quem se recupera de doenças** ou simplesmente está **envelhecendo**.
+Estamos falando de mulheres em diferentes fases: **gestantes**, **puérperas**, **mulheres na menopausa**, **quem passou por grandes mudanças de peso**, **quem lida com alterações hormonais**, **quem se recupera de doenças** ou simplesmente está **envelhecendo**.
 
 Esse movimento se conecta ao **slow aging**, ao **body positive** e à busca por uma estética que respeita o tempo do corpo. Cada transição é uma oportunidade de **revisitar a si mesma** com gentileza, com novos rituais e com escolhas que celebram onde se está agora.
 

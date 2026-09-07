@@ -145,8 +145,7 @@ Em 2026, que cada mulher brasileira descubra que a relação mais importante da 
 Porque você não precisa ser perfeita para ser amada. Você já é suficiente. E o amor próprio é a prova.
 
 ---
-
-**Links Internos:**
+**Leia também:**
 - [Mindfulness para Mulheres 2026](/src/app/artigos/mindfulness-para-mulheres-2026) — Presença e aceitação
 - [Autoconhecimento e Journaling](/src/app/artigos/autoconhecimento-e-jornaling-2026) — Diário como ferramenta
 - [Casamentos com Propósito 2026](/src/app/artigos/casamentos-proposito-2026) — Amor com essência

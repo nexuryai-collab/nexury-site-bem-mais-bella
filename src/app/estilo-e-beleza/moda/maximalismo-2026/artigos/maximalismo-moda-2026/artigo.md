@@ -60,7 +60,7 @@ Historicamente, o maximalismo aparece em ciclos. Após anos em que o "clean girl
 
 Em 2026, o maximalismo se consolidou como uma das principais tendências de moda no Brasil, sendo impulsionado por três fatores principais: a popularidade de estética de moda no TikTok Brasil, a valorização da individualidade como resposta ao período pandâmico, e a crescente rejeição aos padrões estéticos restritivos que dominam a indústria da moda desde sempre.
 
-De acordo com um levantamento da consultancy WGSN para o mercado brasileiro, consultas por termos como "moda maximalista", "como usar estampas juntas" e "looks coloridos" cresceram mais de 340% entre janeiro e agosto de 2026 nas plataformas digitais do Brasil. O dado revela que o maximalismo não é um fenômeno passageiro — é uma mudança de paradigma no jeito como as brasileiras se relacionam com suas roupas.
+O dado revela que o maximalismo não é um fenômeno passageiro — é uma mudança de paradigma no jeito como as brasileiras se relacionam com suas roupas.
 
 Se você está acostumada a vestir-se de forma simples e quer entender como adicionar mais personalidade ao seu estilo sem se sentir deslocada, o maximalismo oferece um espectro amplio de possibilidades que vão desde a incorporação de um acessório statements até a reformulação completa do guarda-roupa.
 

@@ -29,15 +29,13 @@ relatedArticles:
 
 ![Viagens sustentáveis 2026 - viajante consciente ao ar livre](/artigos/viagens-sustentaveis-2026/hero.webp)
 
-*Imagem hero: mulher com mochila ecológica caminhando por um parque nacional, natureza preservada ao fundo. Luz natural, atmosfera de aventura consciente.*
-
 Em 2026, as viagens deixaram de ser apenas sobre "tirar fotos para o Instagram" e passaram a ser sobre conexão, propósito e respeito. O turismo brasileiro cresceu 48% em volume desde 2023, mas a consciência sobre o impacto ambiental e social também aumentou. As mulheres brasileiras estão liderando a mudança em direção a viagens mais conscientes, lentas e significativas.
 
 > **Observação da Lillith:** Querida, eu sei que viajar é uma das maiores alegrias da vida. Descobrir novos lugares, conhecer culturas diferentes, descansar, se surpreender. Mas eu também sei que a indústria do turismo tem um custo alto — para o planeta, para as comunidades locais, para as culturas. E eu te digo: **você pode viajar e ainda sim ser responsável**. Viagem sustentável não é sobre se privar — é sobre escolher melhor. É sobre garantir que os lugares que você ama visitar ainda existirão daqui a 20, 50, 100 anos. Cada escolha sua conta: o voo que você toma, o hotel onde você se hospeda, o souvenir que você compra.
 
 ## O Custo Oculto do Turismo Tradicional
 
-![O custo oculto do turismo tradicional](/artigos/viagens-sustentaveis-2026/section-1.webp)
+![O custo oculto do turismo tradicional](/artigos/viagens-sustentaveis-2026/hero.webp)
 
 O turismo convencional tem um preço oculto que muitas vezes não vemos:
 - **1 avião de longa distância** emite entre 0,15 e 0,3 toneladas de CO₂ por passageiro — e o Brasil tem mais de 9 milhões de turistas internacionais por ano.
@@ -49,7 +47,7 @@ O turismo convencional tem um preço oculto que muitas vezes não vemos:
 
 ## Os 5 Pilares das Viagens Sustentáveis
 
-![Os 5 pilares das viagens sustentáveis](/artigos/viagens-sustentaveis-2026/section-2.webp)
+![Os 5 pilares das viagens sustentáveis](/artigos/viagens-sustentaveis-2026/hero.webp)
 
 ### 1. Transporte Consciente
 - **Priorize trens e ônibus** em vez de voos curtos
@@ -83,7 +81,7 @@ O turismo convencional tem um preço oculto que muitas vezes não vemos:
 
 ## Destinos Sustentáveis no Brasil
 
-![Destinos sustentáveis no Brasil](/artigos/viagens-sustentaveis-2026/section-3.webp)
+![Destinos sustentáveis no Brasil](/artigos/viagens-sustentaveis-2026/hero.webp)
 
 O Brasil tem destinos incríveis que já priorizam sustentabilidade:
 
@@ -96,7 +94,7 @@ O Brasil tem destinos incríveis que já priorizam sustentabilidade:
 
 ## O Impacto de Cada Escolha
 
-![O impacto de cada escolha de viagem](/artigos/viagens-sustentaveis-2026/section-4.webp)
+![O impacto de cada escolha de viagem](/artigos/viagens-sustentaveis-2026/hero.webp)
 
 | **Sua Escolha** | **Impacto** |
 |---|---|

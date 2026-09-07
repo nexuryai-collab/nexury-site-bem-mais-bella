@@ -1,1 +1,10 @@
-export default function Page() { return <main className="min-h-screen bg-[#0f051a] text-[#f5f0e6] p-12"><h1 className="text-5xl text-[#F72585]">Maternidade e Família</h1><p className="text-[#9AA4AF] mt-4">Categoria Bem Mais Bella — conteudo em breve.</p></main> }
+import PaginaCategoria from '../../components/PaginaCategoria';
+
+export const metadata = {
+  title: 'Maternidade e Familia | Bem Mais Bella',
+  description: 'Antes do bebe, pos-parto e vida em familia. Gravidez, parto humanizado, rotina real e as escolhas que ninguem conta antes.',
+};
+
+export default function Page() {
+  return <PaginaCategoria cat="maternidade-e-familia" descricao="Antes do bebe, pos-parto e vida em familia. Gravidez, parto humanizado, rotina real e as escolhas que ninguem conta antes." />;
+}

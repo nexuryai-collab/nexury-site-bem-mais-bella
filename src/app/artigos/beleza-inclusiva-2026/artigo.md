@@ -88,7 +88,7 @@ Redes como Instagram e TikTok foram fundamentais para a disseminação da beleza
 
 ### 5.2. Campanhas Virais
 
-Campanhas como #MeuCorpoÉBelleza (lançada pelo *Gov.br* em 2026) incentivam mulheres de todas as idades a postarem fotos em seus próprios corpos, sem filtros. O resultado? Um aumento de **40% nas buscas por “beleza inclusiva”** no Google Brasil em 2026, conforme dados do *Google Trends Brasil*.
+br* em 2026) incentivam mulheres de todas as idades a postarem fotos em seus próprios corpos, sem filtros. O resultado? Um aumento de **40% nas buscas por “beleza inclusiva”** no Google Brasil em 2026, conforme dados do *Google Trends Brasil*.
 
 ---
 
@@ -122,11 +122,11 @@ Segue e apoia influenciadoras e designers que priorizam a diversidade. Cada comp
 
 ## Observação da Lillith: Uma Mensagem para Quem Luta por Aceite
 
-> **Querida, eu sei que às vezes o mundo parece grande demais e que seu corpo, sua identidade, sua forma de ser não cabem em moldes pré-existentes.**  
-> **Não precisa se esconder para ser bela.**  
-> **A beleza inclusiva não é um privilégio — é um direito humano.**  
-> **Quando você se sente vista, valorizada e livre, isso é o verdadeiro poder.**  
-> **Continue sendo você mesma. O Brasil está se tornando um lugar onde todos os corpos são celebrações.**  
+> **Querida, eu sei que às vezes o mundo parece grande demais e que seu corpo, sua identidade, sua forma de ser não cabem em moldes pré-existentes.** 
+> **Não precisa se esconder para ser bela.** 
+> **A beleza inclusiva não é um privilégio — é um direito humano.** 
+> **Quando você se sente vista, valorizada e livre, isso é o verdadeiro poder.** 
+> **Continue sendo você mesma. O Brasil está se tornando um lugar onde todos os corpos são celebrações.** 
 > **Lillith Nogah**
 
 ---
@@ -135,7 +135,7 @@ Segue e apoia influenciadoras e designers que priorizam a diversidade. Cada comp
 
 O movimento de beleza inclusiva em 2026 não é um fenômeno passageiro. Ele representa uma **transformação cultural profunda** que exige comprometimento contínuo de marcas, governos, mídia e indivíduos. A moda brasileira, ao abraçar a diversidade, não apenas se torna mais rica artisticamente — ela também se torna mais justa e relevante.
 
-Celebre sua própria beleza, independentemente de tamanho, idade, gênero ou origem. E inspire os outros a fazerem o mesmo. Porque quando todos somos incluídos, todos brilham.  
+Celebre sua própria beleza, independentemente de tamanho, idade, gênero ou origem. E inspire os outros a fazerem o mesmo. Porque quando todos somos incluídos, todos brilham. 
 
 **O futuro da beleza é plural, e nós somos todos os seus corpos.**
 

@@ -123,5 +123,5 @@ Em 2026, as mulheres brasileiras estão construindo uma nova narrativa sobre riq
 - [Casamento com Propósito: Planejar o Ritual que Reflete Quem Vocês São](/artigos/casamento-com-proposito-planejamento-2026)
 - [Autocuidado Diário: Como Cuidar do Seu Corpo e da Sua Mente](/artigos/autocuidado-diario-2026)
 - [Relacionamentos Conscientes: Construindo Uma União que Dura](/artigos/relacionamentos-conscientes-2026)
-- [Espiritualidade Feminina: Conexão com Seu Interior](/artigos/spiritualidade-feminina-2026)
+- [Espiritualidade Feminina: Conexão com Seu Interior](/artigos/espiritualidade-feminina-2026)
 - [Viagens Conscientes: Descobrindo o Brasil com Propósito](/artigos/viagens-conscientes-2026)

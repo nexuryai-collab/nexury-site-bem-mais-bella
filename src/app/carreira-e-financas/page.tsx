@@ -1,1 +1,10 @@
-export default function Page() { return <main className="min-h-screen bg-[#0f051a] text-[#f5f0e6] p-12"><h1 className="text-5xl text-[#F72585]">Carreira e Finanças</h1><p className="text-[#9AA4AF] mt-4">Categoria Bem Mais Bella — conteudo em breve.</p></main> }
+import PaginaCategoria from '../../components/PaginaCategoria';
+
+export const metadata = {
+  title: 'Carreira e Financas | Bem Mais Bella',
+  description: 'Vocacao, lideranca feminina, empreendedorismo e dinheiro com proposito. Do primeiro passo ao investimento.',
+};
+
+export default function Page() {
+  return <PaginaCategoria cat="carreira-e-financas" descricao="Vocacao, lideranca feminina, empreendedorismo e dinheiro com proposito. Do primeiro passo ao investimento." />;
+}

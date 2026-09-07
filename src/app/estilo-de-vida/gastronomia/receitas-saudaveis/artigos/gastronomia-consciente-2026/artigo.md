@@ -28,19 +28,11 @@ relatedArticles:
 
 # Gastronomia Consciente 2026: Comer com Propósito e Sabor Autêntico
 
-![Mulher brasileira comendo comida caseira colorida em um ambiente natural, com ingredientes frescos à mesa](/artigos/gastronomia-consciente-2026/hero.webp)
-
-*Imagem hero: mulher brasileira com prato de comida caseira colorida, sorrindo, em ambiente natural com ingredientes frescos ao redor.*
-
 Em 2026, a gastronomia brasileira está vivendo uma revolução silenciosa: a **Gastronomia Consciente**. Mais do que uma simples troca de ingredientes, é uma mudança de mentalidade que valoriza o que é nosso, respeita o planeta e transforma a alimentação em um ato de amor-próprio e de celebração da nossa cultura.
 
 A Bem Mais Bella acredita que a comida é uma das mais profundas expressões de amor e conexão. Quando comemos com consciência, não apenas nutrimos o corpo, mas também o coração e a alma. Neste artigo, vamos explorar como transformar sua relação com a comida em uma prática consciente, saborosa e significativa.
 
 ## O que é Gastronomia Consciente?
-
-![Definição de Gastronomia Consciente - princípios e contexto cultural](/artigos/gastronomia-consciente-2026/section-1.webp)
-
-*Imagem seção 1: composição visual mostrando os pilares - origem local, sustentabilidade, respeito à cultura, bem-estar, conexão.*
 
 Gastronomia Consciente é uma abordagem que vai além do "só o que é saboroso". Ela considera:
 
@@ -53,10 +45,6 @@ Gastronomia Consciente é uma abordagem que vai além do "só o que é saboroso"
 A chef **Mariana Silva**, da marca **Sabor do Brasil**, afirma: "Gastronomia Consciente é quando você sabe de onde veio o seu arroz, o seu feijão, o seu peixe. É saber que seu prato não só satisfaz o paladar, mas também respeita quem plantou, colheu e cozinhou."
 
 ## Os pilares da Gastronomia Consciente
-
-![Os 5 pilares da gastronomia consciente](/artigos/gastronomia-consciente-2026/section-2.webp)
-
-*Imagem seção 2: ilustração dos 5 pilares - origem local, preparo consciente, sustentabilidade, bem-estar, conexão.*
 
 ### 1. **Origem Local e Sazonável**
 A base da Gastronomia Consciente é o **ingrediente local**. Quando você compra tomate no mercado da esquina, ele está mais maduro, mais saboroso e com menor pegada de carbono.
@@ -100,12 +88,12 @@ A Gastronomia Consciente também cuida da saúde:
 - Priorize alimentos integrais, vegetais e proteínas magras
 - Evite excesso de açúcar, sal e gorduras saturadas
 - Inclua superalimentos brasileiros como:
-  - Açaí (antioxidante poderoso)
-  - Açaí (antioxidante poderoso)
-  - Castanha-do-Brasil (selênio e gorduras boas)
-  - Açaí (vitamina C e fibras)
-  - Açaí (fibras e antioxidantes)
-  - Açaí (minerais essenciais)
+- Açaí (antioxidante poderoso)
+- Açaí (antioxidante poderoso)
+- Castanha-do-Brasil (selênio e gorduras boas)
+- Açaí (vitamina C e fibras)
+- Açaí (fibras e antioxidantes)
+- Açaí (minerais essenciais)
 
 ### 6. **Conexão com a Comunidade**
 A Gastronomia Consciente também é sobre **quem come com você**.
@@ -116,10 +104,6 @@ A Gastronomia Consciente também é sobre **quem come com você**.
 - Compartilhe receitas e histórias com quem você come
 
 ## Receitas Práticas para o Dia a Dia
-
-![Receitas práticas e saudáveis para a semana](/artigos/gastronomia-consciente-2026/section-5.webp)
-
-*Imagem seção 5: fotos de receitas práticas - tigela de açaí, saladão, sopa, smoothie, tapioca.*
 
 ### Receita 1: Salada Tropical de Quinoa
 - Quinoa cozida
@@ -144,10 +128,6 @@ A Gastronomia Consciente também é sobre **quem come com você**.
 - Gelo a gosto
 
 ## Como começar sua jornada na Gastronomia Consciente
-
-![Como começar na Gastronomia Consciente](/artigos/gastronomia-consciente-2026/section-5.webp)
-
-*Imagem seção 5: etapas práticas - observar, aprender, experimentar, compartilhar.*
 
 1. **Observe sua alimentação atual**: Anote o que você come em uma semana
 2. **Identifique padrões**: excesso de processados? pouca variedade?

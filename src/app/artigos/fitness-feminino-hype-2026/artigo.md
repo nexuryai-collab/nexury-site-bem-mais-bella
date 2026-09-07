@@ -101,4 +101,3 @@ Quando o hype vem da dentro, ele se manifesta como amor, respeito e gratidão pe
 
 ---
 
-*Artigo gerado automaticamente pelo Nexus (Nexus = segunda mente de Fellipe Lelis) para Bem Mais Bella. Inspirado em Marie Claire, Harvard Health Publishing e a crescente demanda por fit feminino inclusivo.*

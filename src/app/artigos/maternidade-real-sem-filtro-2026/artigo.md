@@ -13,7 +13,7 @@ sub: Maternidade
 
 # Maternidade Real Sem Filtro: 2026 com Verdade e Amor
 
-Em 2026, a maternidade está sendo recontada — sem idealização, sem culpa e com muito mais verdade. O movimento, conhecido como "maternidade real", ganhou força no TikTok Brasil, no Instagram e em reportagens de Marie Claire, onde milhares de mães estão compartilhando experiências autênticas sobre o pós-parto, a identidade após a maternidade e os desafios de cuidar de uma vida enquanto se cuida da própria.
+Em 2026, a maternidade está sendo recontada — sem idealização, sem culpa e com muito mais verdade.
 
 ![Maternidade real — mãe com bebê](/images/hero-maternidade-real.webp)
 
@@ -36,7 +36,7 @@ Reconhecer essa realidade não é derrotismo — é um ato de honestidade que li
 
 Uma das queixas mais frequentes de mães de primeira viagem é: "Quem sou eu agora?". Esse fenômeno é amplamente documentado e tem nome: matrescência — a transição psicológica para a maternidade, que é tão profunda quanto a adolescência.
 
-A pesquisa conduzida pela Universidade Federal do Rio Grande do Sul (UFRGS) e publicada na *Psicologia: Teoria e Pesquisa* mostra que **80% das mães relatam perda parcial ou significativa da identidade pré-maternal** no primeiro ano de pós-parto. Essa perda pode se manifestar como:
+Essa perda pode se manifestar como:
 - Sensação de não reconhecer mais os próprios gostos e desejos.
 - Distanciamento do parceiro ou da família.
 - Sensação de que "tudo gira em torno do bebê".
@@ -92,14 +92,11 @@ Grupos de apoio presenciais, comunidades online, grupos de WhatsApp — encontra
 Terapia não é para "pessoas fracas" ou "quebradas". É para mães que entendem que cuidar da mente é tão importante quanto cuidar do corpo. Existem profissionais especializados em saúde mental materna, e muitas prefeituras oferecem atendimento gratuito pelo SUS.
 
 ---
-
-**Links internos:**
-
-- [Pós-Parto em 2026](/artigos/pos-parto-2026)
-- [Vida com Bebê 2026](/artigos/vida-com-bebe-2026)
-- [Autocuidado Mental em 2026](/artigos/autocuidado-mental-2026)
-- [Maternidade e Vida 2026](/artigos/maternidade-e-vida-2026)
+**Leia também:**
+- Pós-Parto em 2026
+- Vida com Bebê 2026
+- [Autocuidado Mental em 2026](/artigos/saude-mental-estrategias-2026)
+- Maternidade e Vida 2026
 
 ---
 
-*Artigo gerado automaticamente pelo Nexus (Nexus = segunda mente de Fellipe Lelis) para Bem Mais Bella. Inspirado em Marie Claire Brasil, Gov.br, OMS, UFRGS.*

@@ -31,8 +31,6 @@ A decoração sustentável no Brasil nasce da necessidade e da criatividade. Com
 
 Marcas como Osklen, Isay e Estúdio Guto Requena estão liderando o design sustentável no país, usando materiais reciclados, madeira certificada e técnicas artesanais. O Minas Trend 2026 teve como destaque a valorização da matéria-prima brasileira e do design que respeita o planeta.
 
-Segundo a Carta Capital, a economia criativa brasileira movimenta mais de R$ 150 bilhões anualmente, e o design sustentável é uma das áreas de maior crescimento.
-
 ![Design sustentável brasileiro — design consciente 2026](/images/decoracao-sustentavel-2026/design-brasileiro.webp)
 
 ## 2. Materiais que Vêm da Terra: Madeira, Cerâmica e Natural
@@ -236,8 +234,7 @@ Quando você decora com propósito, seu lar ganha alma, suas paredes contam hist
 Seja na palha de um cesto trançado, na cerâmica de um artesão mineiro, numa planta que você mesmo propagou — cada escolha sustentável é um passo em direção a um mundo melhor. E isso começa em casa.
 
 ---
-
-**Links Internos:**
+**Leia também:**
 - [Brasilcore 2026: A Hype Brasileira](/src/app/artigos/brasilcore-hype-brazil-2026) — Moda e cultura brasileira
 - [Quiet Luxury Brasileira](/src/app/artigos/quiet-luxury-brasileira-2026) — Elegância em silêncio com essência brasileira
 - [Viagens Sustentáveis 2026](/src/app/artigos/viagens-sustentaveis-2026) — Turismo consciente no Brasil

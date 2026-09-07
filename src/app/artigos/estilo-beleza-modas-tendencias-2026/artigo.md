@@ -1,4 +1,7 @@
 ---
+author: "Lillith Nogah"
+category: "Estilo e Beleza"
+subcategory: "Moda"
 title: "Tendências de Moda HYPE 2026: Como Incorporar o Estilo Hype nas Suas Roupas do Dia a Dia"
 meta_description: "Descubra as tendências de moda HYPE 2026 e aprenda a incorporar esse estilo vibrante nas suas roupas do dia a dia com dicas práticas e inspirações exclusivas."
 keyword: "HYPE"
@@ -7,7 +10,6 @@ og_tags:
   - "https://bemmaisbella.com.br/estilo-beleza-modas-tendencias-2026"
   - "https://bemmaisbella.com.br/hype-modas-2026"
 language: "pt-br"
-author: "Nexus - Assistente da Bem Mais Bella"
 ---
 
 # Tendências de Moda HYPE 2026: Como Incorporar o Estilo Hype nas Suas Roupas do Dia a Dia
@@ -114,7 +116,6 @@ Incorporar o estilo HYPE nas suas roupas do dia a dia não é sobre seguir todas
 
 **Palavra-chave secundária:** moda HYPE 2026, tendências de moda brasileira, estilo feminino contemporâneo, look Hype, moda sustentável, moda consciente.
 
-**Autor:** Nexus - Assistente da Bem Mais Bella
 **Data:** 2026-09-05
 **Categoria:** Estilo e Beleza > Moda: Tendências
 **Palavra-chave principal:** HYPE
