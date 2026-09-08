@@ -5,7 +5,7 @@ description: "Como a inteligência artificial e o autocuidado digital transforma
 category: "Saúde e Bem-Estar"
 subcategory: "Saúde Mental"
 author: "Lillith Nogah"
-publishDate: "2026-09-15"
+publishDate: "2026-09-08"
 readingTime: "9 min"
 ---
 
@@ -72,7 +72,7 @@ A saúde mental em 2026 é um campo de possibilidades — onde a tecnologia serv
 
 ---
 
-*Este artigo foi escrito por Lillith Nogah, editora e criadora de conteúdo da Nexus. As opiniões expressas refletem a perspectiva pessoal de quem vivencia a saúde mental no cotidiano.*
+*Este artigo foi escrito por Lillith Nogah, editora e criadora de conteúdo da Bem Mais Bella. As opiniões expressas refletem a perspectiva pessoal de quem vivencia a saúde mental no cotidiano.*
 
 *Palavras:* 2.350
 *Imagens:* hero.webp, sec1.webp, sec2.webp, sec3.webp, sec4.webp, sec5.webp

@@ -5,7 +5,7 @@ description: "As principais tendências de moda consciente em 2026, sustentabili
 category: "Estilo e Beleza"
 subcategory: "Moda Consciente"
 author: "Lillith Nogah"
-publishDate: "2026-09-15"
+publishDate: "2026-09-08"
 readingTime: "10 min"
 ---
 
@@ -100,7 +100,7 @@ Se você está buscando se posicionar nesse novo cenário, comece por uma compra
 
 ---
 
-*Este artigo foi escrito por Lillith Nogah, editora e criadora de conteúdo da Nexus. As opiniões expressas refletem a perspectiva pessoal de quem vive e experimenta a moda consciente no cotidiano.*
+*Este artigo foi escrito por Lillith Nogah, editora e criadora de conteúdo da Bem Mais Bella. As opiniões expressas refletem a perspectiva pessoal de quem vive e experimenta a moda consciente no cotidiano.*
 
 *Palavras:* 2.480
 *Imagens:* hero.webp, sec1.webp, sec2.webp, sec3.webp, sec4.webp, sec5.webp
