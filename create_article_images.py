@@ -71,8 +71,8 @@ def create_image(width, height, bg_color, title, subtitle="", accent_color=None)
 
 def generate_article_images(slug, category, section_titles, hero_title):
     """Gera as 6 imagens para um artigo."""
-    # Diretório: public/images/<slug>/
-    img_dir = f"/opt/data/nexury-site-bem-mais-bella/public/images/{slug}"
+    # Diretório: public/artigos/<slug>/
+    img_dir = f"public/artigos/{slug}"
     os.makedirs(img_dir, exist_ok=True)
     
     # 1. Hero
