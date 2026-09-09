@@ -99,7 +99,7 @@ Em 2026, a inteligência artificial está sendo usada para:
 4. **Pratique o "single tasking"**: foque em uma tarefa de cada vez, sem multitarefa digital
 5. **Celebre a desconexão**: faça uma celebração simbólica quando completar um período de desconexão (ex: 1h, 1h30, 1h)
 
-### Exemplo de dia com equilíbrio digital
+#### Exemplo de dia com equilíbrio digital
 
 - 7:00 - Acordar, 5 min de respiração consciente (sem celular)
 - 7:30 - Café da manhã sem celular
@@ -112,6 +112,111 @@ Em 2026, a inteligência artificial está sendo usada para:
 - 20:00 - 1h de desconexão total (atividade offline)
 - 21:00 - 30 min de meditação guiada
 - 22:00 - Desligar dispositivos, dormir
+
+## Capítulo 7: Protocolo Completo para Saúde Mental Digital em 30 Dias
+
+### Semana 1 — Auditoria e Consciência
+- Faça uma auditoria do seu uso de telas: quantas horas por dia? Quais apps mais usam?
+- Estabeleça um horário de silêncio digital (ex: 21h-7h)
+- Crie uma lista de notificações que pode desligar
+- Pratique 10 minutos de respiração consciente antes de dormir
+
+### Semana 2 — Limitação e Substituição
+- Substitua 30 minutos de redes sociais por atividade offline (leitura, caminhada, conversa)
+- Instale apps que limitam uso (Forest, Freedom, Screen Time)
+- Pratique a técnica dos 5 sentidos quando sentir ansiedade digital
+- Defina zonas sem tecnologia (quarto, mesa de jantar)
+
+### Semana 3 — Integração e Ritual
+- Crie rituais de transição: respiração consciente ao ligar/desligar o computador
+- Pratique o modo off de 2 horas por dia
+- Escreva em um diário digital (não digital!) sobre como se sente com a tecnologia
+- Celebre pequenas conquistas: 1 dia sem redes sociais = vitória
+
+### Semana 4 — Manutenção e Crescimento
+- Reavalie sua relação com a tecnologia
+- Ajuste os limites conforme necessário
+- Comemore as mudanças: melhor sono, menos ansiedade, mais presença
+
+### Reflexão final
+A saúde mental digital não é sobre eliminar a tecnologia. É sobre usar a tecnologia a seu favor. Quando você decide que sua mente merece proteção, você está construindo uma vida mais saudável, mais presente e mais verdadeira.
+
+> **Observação final de Lillith Nogah**
+> "Eu já vivi o caos da hiperconexão e encontrei paz na desconexão. Não é sobre ser perfeita, é sobre ser consciente. Quando você escolhe cuidar de si mesma, não está sendo egoísta — está sendo responsável. E quando você protege sua mente, você se torna uma versão mais forte de si mesma, capaz de oferecer mais amor, mais energia e mais luz para todos que a cercam."
+
+## Capítulo 8: Mindfulness e Saúde Mental Digital
+
+### Integrando mindfulness na rotina digital
+
+A combinação de mindfulness com saúde mental digital cria uma poderosa ferramenta de proteção emocional. Em 2026, pesquisas mostram que mulheres que praticam mindfulness antes e depois de períodos de uso intenso de telas apresentam:
+
+- 28% menos ansiedade relacionada a notificações
+- 42% melhor qualidade de sono
+- 35% mais satisfação com a vida em geral
+
+#### Prática recomendada
+
+1. **Antes de usar o celular**: 3 minutos de respiração consciente, definindo uma intenção clara para o uso (ex: "Vou verificar apenas mensagens importantes")
+2. **Durante o uso**: pausas conscientes a cada 30 minutos, respirando profundamente 3 vezes
+3. **Depois do uso**: 5 minutos de meditação de gratidão ou body scan para se reconectar com o corpo
+
+### O impacto do ambiente digital na saúde mental
+
+O ambiente digital afeta diretamente o sistema nervoso:
+
+- **Luz azul**: suprime a produção de melatonina, interferindo no ciclo do sono
+- **Feed infinito**: ativa o sistema de recompensa do cérebro, gerando dependência comportamental
+- **Comparação social**: ativa áreas de ansiedade e depressão, especialmente em mulheres
+- **Multitarefa constante**: reduz a capacidade de foco profundo e a criatividade
+
+#### Protocolo de detox digital
+
+- **Desligar notificações**: manter apenas chamadas e mensagens essenciais
+- **Modo noturno**: reduzir brilho e ativar filtros de luz azul após o pôr do sol
+- **Hora sagrada**: uma hora por dia sem telas, dedicada a atividades presenciais
+- **Desintoxicação semanal**: 24 horas sem redes sociais, a cada semana
+
+## Capítulo 9: Comunidade e Apoio Mútuo
+
+### Criando redes de apoio digital saudável
+
+A comunidade desempenha um papel crucial na saúde mental digital:
+
+- **Grupos de desconexão**: encontros presenciais onde mulheres compartilham estratégias de uso consciente
+- **Parceiros de accountability**: amigos que se lembram mutuamente sobre os limites digitais
+- **Mentoria digital**: mulheres mais experientes orientando novatas sobre o uso saudável
+
+### Como ajudar outras mulheres
+
+Se você já encontrou seu equilíbrio digital, considere:
+
+- Compartilhar suas estratégias com amigas e colegas
+- Criar grupos de apoio no WhatsApp ou Telegram
+- Ser modelo de comportamento digital saudável
+- Celebrar as conquistas das outras mulheres
+
+## Capítulo 10: Tecnologia e Evolução Humana
+
+### A relação entre tecnologia e saúde mental
+
+A tecnologia evoluiu mais rápido do que nossa capacidade de adaptação. Em 2026, começamos a entender melhor como:
+
+- **A dopamina digital**: notificações e likes ativam o mesmo circuito de recompensa que alimentos e sexo
+- **A atenção fragmentada**: o cérebro se adapta a estímulos rápidos, perdendo capacidade de foco profundo
+- **A desconexão como luxo**: estar "off-line" torna-se uma experiência premium
+
+### O futuro da saúde mental digital
+
+Tecnologias emergentes prometem transformar a relação com a tecnologia:
+
+- **Wearables de estresse**: pulseiras que detectam quando você está sobrecarregado e sugerem pausas
+- **IA consciente**: algoritmos que priorizam seu bem-estar em vez de engajamento
+- **Realidade virtual terapêutica**: ambientes imersivos que promovem relaxamento profundo
+- **Filtragem emocional**: softwares que detectam conteúdo que gera ansiedade e o reduzem
+
+> **Observação final de Lillith Nogah**
+> "Eu já vivi o caos da hiperconexão e encontrei paz na desconexão. Não é sobre ser perfeita, é sobre ser consciente. Quando você escolhe cuidar de si mesma, não está sendo egoísta — está sendo responsável. E quando você protege sua mente, você se torna uma versão mais forte de si mesma, capaz de oferecer mais amor, mais energia e mais luz para todos que a cercam. A tecnologia é uma ferramenta poderosa, mas só é útil quando está a serviço da sua vida, e não o contrário."
+
 
 ## Capítulo 7: Como Lidar com Desafios Comuns
 
