@@ -29,7 +29,7 @@ O quiet luxury (luxo silencioso) conquistou o Brasil em 2026, com uma abordagem 
 - **Calças straight leg em tecidos leves** — conforto com elegância
 - **Casacos de lã leve** — para o inverno, com linhas limpas
 
-[IMAGEM: sec1.webp]
+[IMAGEM: section1.webp]
 
 ## Cores Dominantes de 2026
 
@@ -45,7 +45,7 @@ A cor azul marinho profundo tornou-se a cor do outono e inverno, com variações
 
 Essas tonalidades verdes ecoam a natureza brasileira — florestas, praias e montanhas. São ideais para peças que combinam conforto com elegância.
 
-[IMAGEM: sec2.webp] [IMAGEM: sec3.webp] [IMAGEM: sec4.webp] [IMAGEM: sec5.webp]
+[IMAGEM: section2.webp] [IMAGEM: section3.webp] [IMAGEM: section4.webp] [IMAGEM: section5.webp]
 
 ## Moda Inclusiva: Estilo para Todos os Corpos
 
@@ -63,7 +63,7 @@ Corpos com ombros largos e quadris estreitos se beneficiam de vestidos que caem 
 
 Mulheres com corpo em forma de arena (ombros e quadris equilibrados) devem focar em peças que criam a ilusão de curvas, usando cintos e drapeados.
 
-[IMAGEM: sec6.webp] [IMAGEM: sec7.webp]
+[IMAGEM: section6.webp] [IMAGEM: section7.webp]
 
 ## Moda Sustentável e Consciente
 
