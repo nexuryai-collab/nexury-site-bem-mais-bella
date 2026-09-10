@@ -12,11 +12,11 @@ publishedAt: "2026-09-10T14:00:00.000Z"
 readingTime: "25 min"
 images:
   hero: "/artigos/renda-2026-hype/hero.webp"
-  section1: "/artigos/renda-2026-hype/section-1.webp"
-  section2: "/artigos/renda-2026-hype/section-2.webp"
-  section3: "/artigos/renda-2026-hype/section-3.webp"
-  section4: "/artigos/renda-2026-hype/section-4.webp"
-  section5: "/artigos/renda-2026-hype/section-5.webp"
+  section1: "/artigos/renda-2026-hype/sec1.webp"
+  section2: "/artigos/renda-2026-hype/sec2.webp"
+  section3: "/artigos/renda-2026-hype/sec3.webp"
+  section4: "/artigos/renda-2026-hype/sec4.webp"
+  section5: "/artigos/renda-2026-hype/sec5.webp"
 ogImage: "/artigos/renda-2026-hype/hero.webp"
 tags: ["renda", "moda 2026", "tendências moda", "beleza 2026", "hype brasil", "moda sustentável", "tendência delicada"]
 relatedArticles:
