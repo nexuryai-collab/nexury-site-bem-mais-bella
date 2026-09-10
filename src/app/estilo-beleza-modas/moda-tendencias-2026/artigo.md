@@ -118,6 +118,11 @@ Lillith Nogah nos lembra que a verdadeira elegância está na autenticidade. Esc
 
 ---
 
+*Este artigo foi escrito por Lillith Nogah, voz editorial do Bem Mais Bella.*
+*Data de publicação: 2026-09-10*
+*Canonical URL: https://bemmaisbella.com.br/artigos/tendencias-modas-2026-consciencia*
+*OG Tag: <meta property="og:title" content="Tendências de Moda 2026: Como Vestir com Consciência"> <meta property="og:description" content="Guia completo das tendências de moda sustentável e consciente para 2026, com dicas práticas para mulheres que querem se expressar com responsabilidade."> <meta property="og:image" content="https://bemmaisbella.com.br/public/artigos/tendencias-modas-2026-consciencia/hero.webp"> <meta property="og:url" content="https://bemmaisbella.com.br/artigos/tendencias-modas-2026-consciencia"> <meta property="og:type" content="article">*
+
 **Leia também:**
 - [Saúde e Bem-Estar: Nutrição Inteligente para Mulheres em 2026](https://bemmaisbella.com.br/artigos/nutricao-hype-2026-mulheres-ocupadas)
 - [Casamentos com Propósito: Planejamento e Essência](https://bemmaisbella.com.br/artigos/casamentos-com-proposito-planejamento-2026)
