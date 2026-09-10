@@ -147,3 +147,21 @@ Se hoje você está num momento de dúvida sobre o que é "aceitável" vestir, e
 - [Beauty Glow 2026](/artigos/beauty-glow-2026) — cuidados para uma pele saudável e iluminada.
 
 *Artigo criado com carinho. Que ele seja uma celebração da sua história.*
+
+---
+
+## A Relação Entre Moda Brasileira e Sustentabilidade
+
+Em 2026, a sustentabilidade não é uma tendência isolada — é uma expectativa. Consumidores brasileiros, especialmente das gerações Z e Millennials, estão cada vez mais atentos ao impacto ambiental de suas compras. O Brazilcore, por sua origem no reaproveitamento e na criatividade com poucos recursos, já carrega uma ética sustentável em seu DNA.
+
+A moda artesanal — com crochê, renda, bordados, tecidos naturais — está no centro das tendências de verão 2026, segundo especialistas ouvidos pelo Estadão. Essa estética não é apenas bonita: é resistente, durável e profundamente humana. Quando você escolhe uma peça artesanal, está valorizando o trabalho de uma artesã, uma costureira, uma criadora. Está contribuindo para uma economia que respeita o tempo, a técnica e a história.
+
+O Brazilcore e a sustentabilidade, portanto, caminham juntos. Ambos celebram o que é feito com cuidado. Ambos rejeitam a padronização industrial em favor da diversidade. Ambos reconhecem que a beleza está nos detalhes — nas imperfeições que tornam cada peça única.
+
+---
+
+## Como o Brasilcore Transforma o Conceito de Moda Inclusiva
+
+A moda inclusiva não é um nicho no Brazilcore — é a base. A estética brasileira nasceu de corpos diversos, de vidas diversas, de histórias diversas. Quando uma mulher veste uma camisa de seleção combinada com uma saia de alfaiataria, ela não está apenas criando um look — está afirmando que seu corpo, seu estilo e sua identidade têm espaço na moda global.
+
+As tendências de 2026 apontam para uma moda que celebra o maximalismo, a diversidade de corpos e a rejeição de padrões estreitos. O Brazilcore está perfeitamente alinhado com esse movimento. Ele não exige que você seja alta, magra ou de uma cor específica. Ele convida você a ser você mesma — com intensidade, com autenticidade e com orgulho.
