@@ -111,6 +111,23 @@ As redes sociais continuam a moldar o que é "tendência" em tempo real. Em 2026
 
 O mesmo algoritmo que inspira também impulsiona o consumo compulsivo. Em 2026, estudos mostram que mulheres expostas a 10+ vídeos de "haul" (compras) por semana compram 40% mais roupas do que aquelas que consomem conteúdo educativo sobre estilo. A solução não é abandonar as redes, mas curar seu feed: siga estilistas que ensinam a combinar peças, costureiras que mostram reparos, e ativistas que denunciam greenwashing.
 
+### O que é greenwashing e como identificar
+
+Greenwashing é a prática de marketing enganosa onde marcas se apresentam como sustentáveis sem fazer alterações reais em seus processos. Sinais de alerta: alegações vagas como "eco-friendly" sem certificação, uso excessivo de verde e naturezas em embalagens sem substância, e compromissos de sustentabilidade que não são mensuráveis ou auditáveis.
+
+### Consumindo com consciência digital
+
+Antes de comprar, verifique: a marca publica sua cadeia de fornecimento? possui certificações visíveis? permite rastreabilidade? Desconfie de promoções irreais e marketing de escassez artificial. O consumo consciente digital começa com a leitura crítica do conteúdo que consumimos online.
+
+### O que fazer quando o impulso bater
+
+Tenha uma lista de verificação prática antes de finalizar qualquer compra de roupa:
+1. **Espere 48h.** Se após dois dias a peça ainda parecer essencial, repense.
+2. **Pense no custo por uso.** Divida o preço pelo número de vezes que usará.
+3. **Pergunte-se: "Isso combina com meu guarda-roupa atual?"**
+4. **Considere alternativas:** Aluguel, brechó, troca com amigas, ou segunda mão.
+5. **Verifique as credenciais da marca** antes de clicar em "comprar".
+
 ## Lillith Nogah: Uma Visão de Quebra-Cabeça
 
 Como escritora e defensora da autenticidade, Lillith Nogah observa que muitas mulheres se sentem pressionadas a seguir padrões de beleza rígidos e a consumir sem pensar. Em entrevistas recentes, ela compartilhou que a verdadeira elegância nasce da conexão com si mesma e com o mundo ao redor.

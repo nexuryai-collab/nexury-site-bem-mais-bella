@@ -97,6 +97,18 @@ Se você identifica três ou mais desses sintomas, é hora de consultar um gastr
 
 O profissional provavelmente pedirá um histórico detalhado de sintomas, alimentação e uso de medicamentos. Em alguns casos, exames de fezes para calprotectina, elastase pancreática ou análise microbiana podem ser solicitados. O diagnóstico precoce permite intervenções mais eficazes e evita a progressão para condições crônicas.
 
+### Alimentos que devem ser evitados durante o processo de cura
+
+Durante o período de recuperação intestinal, é recomendável evitar ou reduzir significativamente: açúcar refinado, farinha branca, embutidos, alimentos ultraprocessados, álcool, café em excesso e laticínios (para quem apresenta intolerância à lactose). Esses alimentos alimentam bactérias patogênicas e comprometem a regeneração da mucosa intestinal.
+
+### Alimentos que aceleram a recuperação
+
+- **Cenoura cozida:** rica em beta-caroteno, ajuda na regeneração da mucosa.
+- **Abóbora:** fonte de betacaroteno e fibras solúveis, suave para o intestino.
+- **Gengibre:** anti-inflamatório natural que acelera a digestão.
+- **Cúrcuma com pimenta preta:** potente combate à inflamação intestinal.
+- **Chá de camomila:** acalma o trato gastrointestinal e reduz espasmos.
+
 ## Plano de Ação: 30 Dias para um Intestino Mais Feliz
 
 ### Semana 1 — Eliminação de Inflamatórios
