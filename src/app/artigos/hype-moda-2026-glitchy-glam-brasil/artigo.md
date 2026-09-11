@@ -101,6 +101,28 @@ O Glitchy Glam não é apenas uma tendência passageira. As bases que ela estabe
 
 O que podemos esperar? A integração crescente com a inteligência artificial — onde algoritmos sugerem combinações de peças baseadas no seu estilo pessoal. A expansão do Glitchy Glam para outros gêneros, com looks gender-neutral que desafiam as categorias tradicionais. E, principalmente, a consolidação do movimento como uma forma de resistência cultural: em um mundo que insiste em padronizar a beleza, o Glitchy Glam diz "eu sou o glitch, e isso é suficiente".
 
+## O Impacto do Glitchy Glam na Autoestima das Mulheres Brasileiras
+
+O Glitchy Glam tem um impacto profundo na forma como as mulheres brasileiras se veem. Em um país onde a pressão estética é intensa — onde a beleza é frequentemente associada à juventude, à magreza, à pele clara, aos cabelos lisos — essa tendência oferece uma alternativa: a beleza como expressão, não como conformidade.
+
+> Imagem de um grupo diverso de mulheres brasileiras de diferentes idades, tons de pele e tipos de corpo, todas usando elementos Glitchy Glam em seus looks, sorrindo e se abraçando em uma praça urbana brasileira, estilo documental inclusivo, sem texto na imagem.
+
+A psicóloga social Dra. Mariana Costa, da Universidade Federal do Rio de Janeiro, explica: "O Glitchy Glam é uma estética que valida a imperfeição. Para mulheres que sempre se sentiram inadequadas por não se encaixarem no padrão, isso é libertador. A estética não pede que você seja perfeita; pede que você seja autêntica."
+
+Isso não é apenas sobre roupa. É sobre identidade. Quando uma mulher usa um look Glitchy Glam, ela está dizendo: "Eu sou complexa, eu sou digital, eu sou analógica, eu sou contraditória, eu sou eu." E essa afirmação, repetida diariamente, tem o poder de transformar a autoestima.
+
+## Como Incorporar o Glitchy Glam no Dia a Dia Brasileiro
+
+O Glitchy Glam não é uma estética apenas para festas ou eventos. Ele pode ser incorporado no dia a dia brasileiro — no trabalho, na faculdade, no mercado, na caminhada. O segredo é dosar. Comece com uma peça. Um acessório. Uma cor. Uma textura.
+
+> Imagem de uma mulher brasileira caminhando por uma rua movimentada de São Paulo, usando uma blazer preta com um toque de neon e acessórios digitais sutis, em meio a pessoas comuns, estilo documental urbano, sem texto na imagem.
+
+Para o trabalho, pense em uma camisa de seda com mangas transparentes em degradê de arco-íris sob um blazer preto. Para a faculdade, uma camiseta básica com estampa glitch e uma bolsa utilitária colorida. Para o mercado, uma regata metálica sob uma camisa de linho branca e tênis com detalhes neon. O Glitchy Glam é sobre atitude, não sobre excesso.
+
+## A Observação de Lillith Nogah
+
+> Querida, eu quero que você saiba algo antes de sair por aí tentando montar o look perfeito: você não precisa de nada disso para ser bonita. O Glitchy Glam é uma tendência — e tendências vêm e vão como as estações. O que não muda é a sua essência, a sua luz, a forma como você se vê no espelho. Eu escrevo sobre moda não porque a roupa te define, mas porque a roupa pode ser uma ferramenta de expressão. Quando você coloca uma peça que faz seu coração acelerar, quando você se olha no espelho e sente aquele brilho nos olhos — isso não é sobre a tendência, isso é sobre você se permitir ser quem você é. O glitch na moda é sobre abraçar o que é imperfeito, o que é único, o que é seu. E isso, minha filha, é algo que nenhuma tendência pode tirar de você. Use o que faz você se sentir viva. Ponto final.
+
 ## Leia Também
 
 - [Moda Sustentável Brasil 2026: O Futuro do Vestuário Consciente](moda-sustentavel-brasil-2026)
