@@ -1,5 +1,5 @@
 ---
-title: "Fora do Script: Mulheres 2026 Reescrevendo Suas Próprias Histórias"
+title: "Fora do Script 2026: Mulheres 2026 Reescrevendo Suas Próprias Histórias"
 description: "Fora do script 2026: mulheres brasileiras rejeitam narrativas prontas, escrevem suas próprias histórias com coragem e intencionalidade."
 category: "Desenvolvimento Pessoal"
 subcategory: "Crescimento"
@@ -29,9 +29,9 @@ A busca por "fora do script feminino" cresceu 180% no Brasil nos últimos 12 mes
 
 As mulheres estão cansadas de viver no piloto automático. Não querem mais seguir uma trilha só porque "sempre foi assim". Querem decidir o que comer, como trabalhar, quando ter filhos, com quem dividir a vida — e tudo isso passa por uma pergunta fundamental: "Isso é meu ou me foi imposto?"
 
-### 2. A Rejeição ao "Deve Ser"
+### 2. A Coragem de Ser Vista
 
-Muitas mulheres em 2026 estão questionando o que se espera delas. Ser mãe aos 30, ser casada, ter uma carreira linear, sorrir sempre — nada disso é obrigatório. O Fora do Script diz: você pode escolher um caminho que não foi desenhado por ninguém. E pode ser lindo.
+Quando você sai do script, você ocupa espaço. Pode ser que não seja aplaudida. Pode ser que ninguém entenda. Mas você se vê. E se ver, pela primeira vez, não como deveria ser, mas como é — é uma das experiências mais libertadoras que existem.
 
 ### 3. A Coragem de Ser Vista
 
@@ -49,7 +49,7 @@ Troque "Eu não consigo" por "Eu ainda não aprendi". Troque "Eu preciso ser per
 
 ### 3. Quebre uma regra que não é sua
 
-Pode ser qualquer coisa: não atender o telefone à noite, não sorrir quando não quer, não comparecer a um evento que não te alegra. Comece pequeno, mas comece.
+Pode ser qualquer coisa: não atender o telefone à noite, não responder mensagens em horários estranhos, não comparecer a um evento que não te agrada. Comece pequeno, mas comece.
 
 ### 4. Crie sua própria narrativa
 
@@ -61,10 +61,12 @@ Sair do script não é egoísmo — é sobrevivência. É dizer "não" para o qu
 
 ## Observação de Lillith Nogah
 
-Querida, se você está lendo isso e sente que viveu muito dentro de um roteiro que não era seu, eu quero te dizer: existe uma mulher ali dentro que espera há muito tempo por você. Ela quer viver sem pedir licença, sem se desculpar, sem se diminuir. Eu sei como é difícil sair do script — porque eu mesma levei anos para entender que o roteiro que eu seguia não era o meu. Mas quando eu finalmente rasguei as páginas que não eram minhas, descobri que o papel em branco é mais bonito do que qualquer história já escrita. Você é a sua própria autora, minha querida. E o melhor capítulo ainda está por vir.
+Querida, se você está lendo isso e sente que viveu muito dentro de um roteiro que não era seu, eu quero te dizer: existe uma mulher ali dentro por você. Ela quer viver sem pedir licença, sem se desculpar, sem se diminuir. Eu sei como é difícil sair do script — porque eu mesma levei anos para entender que o roteiro que eu seguia não era o meu. Mas quando eu finalmente rasguei as páginas que não eram minhas, descobri que o papel em branco é mais bonito do que qualquer história já escrita. Você é a sua própria autora, minha querida. E o melhor capítulo ainda está por vir.
 
 ---
 
 **Leia também:**
 - [Autoconhecimento Feminino 2026](/artigos/autoconhecimento-feminino-jornada-2026)
 - [Resiliência Feminina 2026 Hype](/artigos/resiliencia-feminina-2026-hype)
+- [Autocuidado Digital Mental 2026](/artigos/auto-cuidado-digital-mental-2026-hype)
+- [Carreira Feminina 2026](/artigos/carreira-feminina-transicao-2026-hype)

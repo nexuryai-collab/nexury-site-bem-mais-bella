@@ -32,24 +32,32 @@ No Pinterest Brasil, termos como "decoração afroboêmia", "tecido adire", "art
 ## Como Trazer a Afrodecor para Casa
 
 ### 1. Comece pelas Texturas
-
 A Afrodecor é profundamente tátil. Invista em tecidos naturais, cestos de palha, almofadas bordadas, tapetes de fibra e peças artesanais. A riqueza está nos detalhes — cada textura conta uma história.
 
 ### 2. Valorize a Arte Africana e Afro-Brasileira
-
 Quadros, esculturas e pinturas de artistas africanos e afro-brasileiros não são apenas decoração — são afirmação cultural. Ao trazer uma obra para a sua casa, você também está apoiando uma cadeia produtiva que muitas vezes é invisibilizada.
 
 ### 3. Use Cores que Contam Histórias
-
 Terracota, ocre, vermelho queimado, azul índigo e verde profundo são cores que conversam com a terra, com o corpo e com a ancestralidade. Elas trazem calor e profundidade para qualquer ambiente.
 
 ### 4. Misture o Tradicional com o Contemporâneo
-
 A Afrodecor não precisa ser uma recriação do passado. Combine peças artesanais com móveis modernos, arte africana com linhas minimalistas, tecidos tradicionais com silhuetas contemporâneas. O resultado é uma casa que respeita a origem, mas vive o presente.
 
 ## A Afrodecor como Ato de Identidade
 
 Decorar a casa com elementos afro-brasileiros é mais do que uma escolha estética — é um ato político e afetivo. É dizer que a cultura africana não é um detalhe exótico, mas parte fundamental da identidade brasileira. É criar um lar onde crianças negras possam se ver representadas, onde mulheres possam se sentir orgulhosas de suas raízes, e onde visitantes sejam recebidos por uma história real.
+
+## O Papel das Mulheres na Afrodecor
+
+No Brasil, as mulheres estão liderando o movimento da Afrodecor. São decoradoras, arquitetas, artistas e consumidoras que estão transformando casas e apartamentos em espaços de afirmação cultural. Elas estão mostrando que beleza e identidade não precisam ser separadas.
+
+A Afrodecor também é uma forma de empoderamento econômico. Ao comprar de artesãos e artistas afro-brasileiros, as mulheres estão fortalecendo uma cadeia produtiva que há muito tempo é marginalizada. Cada peça adquirida é um voto de confiança em uma comunidade que merece ser valorizada.
+
+## Afrodecor e Sustentabilidade
+
+A Afrodecor também conversa com a sustentabilidade. Muitos dos materiais usados nessa estética são naturais, renováveis e produzidos de forma artesanal. A palha, a madeira, o algodão, o barro — todos elementos que respeitam o meio ambiente e a cultura local.
+
+Em 2026, a mulher brasileira está cada vez mais consciente do impacto de suas escolhas de consumo. A Afrodecor oferece uma alternativa que é bonita, sustentável e significativa.
 
 ## Observação de Lillith Nogah
 
@@ -60,3 +68,5 @@ Querida, se você sempre sentiu que sua casa precisava se encaixar em um padrão
 **Leia também:**
 - [Decoração Sustentável 2026](/artigos/decoracao-sustentavel-2026)
 - [Estilo de Vida Sustentável 2026](/artigos/estilo-de-vida-sustentavel-2026.md)
+- [Moda Consciente Sustentável Hype 2026](/artigos/moda-consciente-sustentavel-hype-2026)
+- [Casamento com Propósito 2026](/artigos/casamento-com-proposito-2026)
