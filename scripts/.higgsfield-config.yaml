@@ -1,0 +1,7 @@
+style: "0"
+formats:
+  webp:
+    lossless: true
+    q: 85
+    width: 1280
+    height: 720
