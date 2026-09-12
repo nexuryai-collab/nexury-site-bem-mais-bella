@@ -1,16 +1,29 @@
 from PIL import Image, ImageDraw, ImageFilter
 
+def hex_to_rgb(hex_color):
+    hex_color = hex_color.lstrip('#')
+    if len(hex_color) == 6:
+        return tuple(int(hex_color[i:i+2], 16) for i in (0, 2, 4))
+    elif len(hex_color) == 3:
+        return tuple(int(hex_color[i]*2, 16) for i in (0, 1, 2))
+    else:
+        raise ValueError(f"Invalid hex color: {hex_color}")
+
 def make(path, name, palette, accent):
+    # Convert hex colors to RGB
+    palette_rgb = [hex_to_rgb(c) for c in palette]
+    accent_rgb = hex_to_rgb(accent)
+    
     w, h = 1600, 900
-    img = Image.new('RGB', (w, h), palette[0])
+    img = Image.new('RGB', (w, h), palette_rgb[0])
     px = img.load()
     for y in range(h):
         t = y / h
         for x in range(w):
             sx = x / w
-            r = int(palette[1][0] * (1 - t) + palette[2][0] * t + accent[0] * sx * (1 - sx) * 18)
-            g = int(palette[1][1] * (1 - t) + palette[2][1] * t + accent[1] * sx * (1 - sx) * 18)
-            b = int(palette[1][2] * (1 - t) + palette[2][2] * t + accent[2] * sx * (1 - sx) * 18)
+            r = int(palette_rgb[1][0] * (1 - t) + palette_rgb[2][0] * t + accent_rgb[0] * sx * (1 - sx) * 18)
+            g = int(palette_rgb[1][1] * (1 - t) + palette_rgb[2][1] * t + accent_rgb[1] * sx * (1 - sx) * 18)
+            b = int(palette_rgb[1][2] * (1 - t) + palette_rgb[2][2] * t + accent_rgb[2] * sx * (1 - sx) * 18)
             px[x, y] = (r, g, b)
     draw = ImageDraw.Draw(img)
     # soft translucent shapes, no text, no logos
