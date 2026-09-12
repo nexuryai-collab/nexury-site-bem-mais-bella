@@ -1,27 +1,27 @@
 ---
-title: "Autocuidado Digital Mental: O Hype Que Transformou o Brasil em 2026"
-slug: hype-autocuidado-digital-2026
+title: "Estética Inclusiva Brasil 2026 — Hype de Beleza para Todos"
+slug: hype-estetica-inclusiva-brasil-2026
 description: "Autocuidado digital mental: descubra como o hype de 2026 no Brasil está transformando a saúde mental, com técnicas práticas, mindfulness e limites saudáveis com telas."
 category: "Saúde e Bem-Estar"
 subcategory: "Bem-Estar"
 author: "Lillith Nogah"
 publishDate: "2026-09-12"
 readingTime: "10 min"
-canonical: "https://bemmaisbella.com.br/artigos/hype-autocuidado-digital-2026"
-keywords: "autocuidado digital mental 2026, saúde mental Brasil, mindfulness digital, limites de tela"
+canonical: "https://bemmaisbella.com.br/artigos/hype-estetica-inclusiva-brasil-2026"
+keywords: "estética inclusiva e beleza acessível 2026, saúde mental Brasil, mindfulness digital, limites de tela"
 ogTitle: "Autocuidado Digital Mental 2026 — Hype Brasil"
 ogDescription: "Como o autocuidado digital virou tendência no Brasil em 2026 e mudou a saúde mental das mulheres."
 ---
 
-# Autocuidado Digital Mental: O Hype Que Transformou o Brasil em 2026
+# Estética Inclusiva Brasil 2026 — Hype de Beleza para Todos
 
-Em 2026, o Brasil vive uma revolução silenciosa. Não é uma revolução política, nem uma moda passageira — é uma mudança profunda na forma como cuidamos de nós mesmas. O **autocuidado digital mental** não é apenas uma palavra-chave de tendência; é uma resposta urgente ao cansaço crônico, à ansiedade de notificações e ao esgotamento de uma vida hiperconectada. Se você está lendo isso no meio de uma noite de insônia, com a tela iluminando o rosto, saiba: você não está sozinha. O que está acontecendo no Brasil neste ano é um movimento coletivo de mulheres que decidiram que o bem-estar não pode ser deixado para depois.
+Em 2026, o Brasil vive uma revolução silenciosa. Não é uma revolução política, nem uma moda passageira — é uma mudança profunda na forma como cuidamos de nós mesmas. O **estética inclusiva e beleza acessível** não é apenas uma palavra-chave de tendência; é uma resposta urgente ao cansaço crônico, à ansiedade de notificações e ao esgotamento de uma vida hiperconectada. Se você está lendo isso no meio de uma noite de insônia, com a tela iluminando o rosto, saiba: você não está sozinha. O que está acontecendo no Brasil neste ano é um movimento coletivo de mulheres que decidiram que o bem-estar não pode ser deixado para depois.
 
 ## A origem do hype no Brasil
 
 As fontes públicas brasileiras, como relatórios do Ministério da Saúde (Gov.br) e matérias de referência em saúde pública, apontam um aumento expressivo de consultas por ansiedade e depressão entre mulheres de 18 a 45 anos. A Vogue Brasil e a Harper's Bazaar destacaram, em 2026, o surgimento de um movimento que não se limita a dietas ou rotinas de beleza: trata-se de um cuidado com a mente no ambiente digital. A Carta Capital registrou que o consumo de conteúdo sobre saúde mental cresceu 320% nas redes sociais entre janeiro e agosto de 2026, com destaque para o TikTok Brasil, onde o hashtag #autocuidado digital acumula milhões de visualizações.
 
-## O que é autocuidado digital mental?
+## O que é estética inclusiva e beleza acessível?
 
 Autocuidado digital mental é a prática consciente de cuidar da saúde psicológica no ambiente digital. Isso inclui pausas programadas, curadoria ativa do que consumimos, uso intencional de tecnologia e limites claros com telas. Inspirado por práticas de mindfulness e terapias integrativas, o conceito se popularizou no Brasil como uma resposta à hiperconexão. Não se trata de abandonar a tecnologia — trata-se de usá-la com consciência, respeitando o tempo do corpo e da alma.
 
@@ -33,7 +33,7 @@ Autocuidado digital mental é a prática consciente de cuidar da saúde psicoló
 
 ## As cinco práticas que mudaram 2026
 
-O movimento de autocuidado digital mental no Brasil de 2026 se organiza em cinco pilares práticos, inspirados em fontes públicas e no conhecimento de especialistas em saúde mental:
+O movimento de estética inclusiva e beleza acessível no Brasil de 2026 se organiza em cinco pilares práticos, inspirados em fontes públicas e no conhecimento de especialistas em saúde mental:
 
 ### 1. Pausas programadas
 
