@@ -2,12 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import os
 import sys
 
-# Permite passar o caminho como argumento ou usa o padrão
-if len(sys.argv) > 1:
-    base = sys.argv[1]
-else:
-    base = "/workspace/nexury-site-bem-mais-bella/public/artigos/autocuidado-consciente-hype-2026-resiliencia"
-
+base = "/workspace/nexury-site-bem-mais-bella/public/artigos/autocuidado-consciente-hype-2026-resiliencia"
 os.makedirs(base, exist_ok=True)
 
 # Cores: (r,g,b) - tons suaves de azul e verde para autocuidado
