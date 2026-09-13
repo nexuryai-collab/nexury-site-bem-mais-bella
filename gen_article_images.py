@@ -32,7 +32,7 @@ def make(path, name, palette, accent):
 
 if __name__ == '__main__':
     slug = sys.argv[1]
-    d = f'/opt/data/nexury-site-bem-mais-bella/public/artigos/{slug}'
+    d = f'/workspace/nexury-site-bem-mais-bella/public/artigos/{slug}'
     os.makedirs(d, exist_ok=True)
     make(f'{d}/hero.webp', 'hero', [BRAND['dark'], BRAND['gray'], BRAND['light']], BRAND['pink'])
     for i in range(1, 6):
