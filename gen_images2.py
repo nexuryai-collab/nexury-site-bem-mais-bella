@@ -1,42 +1,60 @@
 from PIL import Image, ImageDraw, ImageFont
 import os
+import sys
 
-base = '/opt/data/nexury-site-bem-mais-bella/public/artigos/autocuidado-mental-2026'
+# Permite passar o caminho como argumento ou usa o padrão
+if len(sys.argv) > 1:
+    base = sys.argv[1]
+else:
+    base = "/workspace/nexury-site-bem-mais-bella/public/artigos/autocuidado-consciente-hype-2026-resiliencia"
+
 os.makedirs(base, exist_ok=True)
 
-def create_img(w, h, c, label, fn, sub=None):
-    img = Image.new('RGB', (w, h), c)
-    d = ImageDraw.Draw(img)
-    for i in range(0, w, 50):
-        d.line([(i, 0), (i, h)], fill=(255,255,255), width=3)
-    for i in range(0, h, 50):
-        d.line([(0, i), (w, i)], fill=(255,255,255), width=3)
-    for i in range(8):
-        cx = w*(0.2+i*0.1)
-        cy = h*(0.3+i*0.06)
-        r = 100+i*25
-        d.ellipse([cx-r, cy-r, cx+r, cy+r], outline=(255,255,255), width=4)
-    try:
-        ft = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 80)
-        fs = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', 40)
-    except:
-        ft = ImageFont.load_default()
-        fs = ImageFont.load_default()
-    tc = (36,0,70) if c[0] >= 128 else (255,255,255)
-    d.text((w//2, h//2-60), label, fill=tc, font=ft, anchor='mm')
-    if sub: d.text((w//2, h//2+50), sub, fill=tc, font=fs, anchor='mm')
-    img.save(fn, 'WEBP', quality=92)
-    print(f"OK: {fn} ({os.path.getsize(fn)/1024:.0f}KB)")
+# Cores: (r,g,b) - tons suaves de azul e verde para autocuidado
+colors = {
+    "hero": ((30, 60, 100), (100, 180, 255)),
+    "sec1": ((40, 80, 60), (140, 220, 180)),
+    "sec2": ((80, 40, 80), (220, 180, 220)),
+    "sec3": ((60, 60, 100), (180, 180, 220)),
+    "sec4": ((100, 60, 40), (220, 180, 140)),
+    "sec5": ((50, 50, 50), (180, 180, 180)),
+}
 
-entries = [
-    ((36,0,70), "AUTOCUIDADO MENTAL 2026", "NUTRA SUA MENTE E ALMA"),
-    ((247,37,133), "MINDFULNESS DIARIO", "PRESENCA E CALMA"),
-    ((85,135,245), "MOVIMENTO CONSCIENTE", "CORPO E MENTE UNIDOS"),
-    ((50,150,100), "JORNAL TERAPEUTICO", "ESCREVA SUAS EMOÇOES"),
-    ((255,140,0), "LIMITES SAUDAVEIS", "PROTEJA SUA ENERGIA"),
-    ((106,90,205), "GRATIDÃO E CURA", "CADA DIA UMA NOVA CHANCE"),
-]
+try:
+    font_title = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 56)
+    font_small = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 32)
+except:
+    font_title = None
+    font_small = None
 
-for i, (c, l, s) in enumerate(entries):
-    fn_name = 'hero' if i == 0 else f'sec{i}'
-    create_img(1600, 800, c, l, f"{base}/{fn_name}.webp", s)
+def create_image(filename, bg, fg, title, subtitle):
+    img = Image.new("RGB", (1920, 1080))
+    draw = ImageDraw.Draw(img)
+    # Gradiente vertical
+    for y in range(1080):
+        t = y / 1080
+        r = int(bg[0] + (fg[0]-bg[0])*t)
+        g = int(bg[1] + (fg[1]-bg[1])*t)
+        b = int(bg[2] + (fg[2]-bg[2])*t)
+        draw.line([(0,y),(1920,y)], fill=(r,g,b))
+    # Título
+    if font_title:
+        draw.text((120, 300), title, fill="#FFFFFF", font=font_title)
+    draw.text((120, 420), subtitle, fill="#FFFFFF", font=font_small)
+    # Rodapé
+    draw.text((120, 900), "Bem Mais Bella · Lillith Nogah", fill="#FFFFFF", font=font_small)
+    img.save(os.path.join(base, filename), "WEBP", quality=95)
+
+# Cria as 6 imagens
+create_image("hero.webp", (30,60,100), (100,180,255), "Autocuidado Consciente 2026", "Transformando a Mente e o Corpo")
+create_image("sec1.webp", (40,80,60), (140,220,180), "Mindfulness Diário", "Presença no momento presente")
+create_image("sec2.webp", (80,40,80), (220,180,220), "Meditação Guiada", "Paz interior em minutos")
+create_image("sec3.webp", (60,60,100), (180,180,220), "Respiração Consciente", "Antídoto para o estresse")
+create_image("sec4.webp", (100,60,40), (220,180,140), "Movimento e Nutrição", "Corpo e mente em equilíbrio")
+create_image("sec5.webp", (50,50,50), (180,180,180), "Rituais Diários", "Sono, alimentação e conexão")
+
+# Mostra os tamanhos
+for f in sorted(os.listdir(base)):
+    if f.endswith(".webp"):
+        size = os.path.getsize(os.path.join(base, f))
+        print(f"{f}: {size} bytes")
