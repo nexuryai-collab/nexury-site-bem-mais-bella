@@ -9,7 +9,7 @@ regenerar com o Higgsfield.
 from PIL import Image, ImageDraw, ImageFilter
 import os
 
-BASE = "/opt/data/nexury-site-bem-mais-bella"
+BASE = "/workspace/nexury-site-bem-mais-bella"
 PUB = os.path.join(BASE, "public", "artigos")
 PALETTE = ['#240046', '#54595F', '#9AA4AF']
 ACCENT = '#F72585'
