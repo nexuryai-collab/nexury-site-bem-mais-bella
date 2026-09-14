@@ -151,6 +151,75 @@ A empregabilidade em 2026 não é sobre prever o futuro. É sobre desenvolver a 
 
 > Querida, sei que esse texto pode estar gerando uma mistura de empolgação e ansiedade dentro de você. De um lado, o mundo parece mudar mais rápido do que a gente consegue acompanhar; de outro, aquele silêncio constrangedor de quem sente que ficou para trás. Eu passei por isso — senti que todos estavam correndo e eu estava parada, imóvel, sem saber por onde começar. Mas deixa eu te contar o que aprendi: **você não precisa correr, precisa caminhar**. Cada passo, mesmo que pequeno, já te coloca à frente de onde estava ontem. A IA é uma ferramenta — poderosa, sim, mas ainda assim uma ferramenta. E a maior ferramenta que você tem, a que nenhum algoritmo substitui, é a sua história, a sua intuição, a sua capacidade de sentir e de se importar. Comece pelo que você sabe, use a IA para acelerar o que você já faz, e confie: **nunca foi tarde demais para começar de novo**. Seja gentil consigo mesma nessa jornada — você está exatamente onde precisa estar.
 
+## 7. Como se Preparar para a IA: Um Plano Prático em 30 Dias
+
+### Semana 1: Entendendo a IA
+
+A primeira semana do seu plano deve ser dedicada a entender o que a IA é e o que ela pode fazer por você. Não se trata de estudar teoria profundamente, mas de conhecer as ferramentas básicas e seus limites.
+
+- **Teste ferramentas de IA generativa**: ChatGPT, Gemini, Claude ou Copilot. Use-as para escrever textos, resumir documentos e responder perguntas simples.
+- **Aprenda sobre limitações**: Entenda o que é alucinação de IA, por que as respostas podem estar erradas e como verificar informações em fontes confiáveis.
+- **Leia fontes brasileiras**: Acompanhe FIAP, PwC, Gupy e Correio Braziliense para entender o mercado nacional.
+
+### Semana 2: Mapeando seu Trabalho
+
+Na segunda semana, documente suas tarefas diárias e semanais. Classifique cada tarefa em uma das três categorias:
+
+1. **Tarefas repetitivas**: Podem ser automatizadas ou auxiliadas por IA.
+2. **Tarefas criativas**: A IA pode ajudar a gerar ideias, mas a decisão final é sua.
+3. **Tarefas estratégicas**: A IA pode fornecer dados, mas o raciocínio e a interpretação são seus.
+
+Essa classificação é fundamental porque mostra onde a IA realmente agrega valor — e onde você deve manter o controle.
+
+### Semana 3: Escolhendo Ferramentas
+
+Na terceira semana, escolha uma ferramenta de IA para cada categoria de tarefa:
+
+- **Escrita e comunicação**: Claude, ChatGPT ou Gemini
+- **Design e imagens**: Canva com IA, Adobe Firefly ou Midjourney
+- **Dados e planilhas**: ChatGPT Advanced Data Analysis ou Google Colab
+- **Organização e produtividade**: Notion AI, Motion ou Reclaim.ai
+
+Comece com uma ferramenta por vez. A curva de aprendizado é mais fácil quando você domina uma ferramenta antes de adicionar a próxima.
+
+### Semana 4: Documentando Resultados
+
+Na quarta semana, meça o impacto da IA no seu trabalho:
+
+- **Tempo economizado**: Quantas horas você deixou de gastar em tarefas repetitivas?
+- **Qualidade melhorada**: Suas entregas ficaram melhores?
+- **Volume aumentado**: Você produziu mais conteúdo, mais análises ou mais ideias?
+
+Esses números serão úteis em processos seletivos, conversas de carreira e avaliações de desempenho.
+
+## 8. Erros Comuns que Devem ser Evitados
+
+### Acreditar Que IA Substitui Pensamento Crítico
+
+Um dos maiores erros é aceitar qualquer resposta da IA como verdade. A IA pode gerar conteúdo plausível, mas também pode estar errada. Sempre verifique informações em fontes primárias e fontes confiáveis.
+
+### Usar IA Demais
+
+Outro erro comum é tentar usar IA para tudo. Isso pode levar a uma perda de autonomia e de desenvolvimento de habilidades. A IA deve ser uma ferramenta, não uma muleta.
+
+### Ignorar a Privacidade
+
+Ao usar ferramentas de IA, cuidado com informações confidenciais. Não insira dados sensíveis da empresa ou da sua vida pessoal em ferramentas que você não conhece.
+
+## 9. O Que o Mercado Vai Pedir nos Próximos Anos
+
+### Habilidade de Aprender
+
+A habilidade mais valiosa no mercado de 2026 não é saber usar uma ferramenta específica, mas saber aprender novas ferramentas rapidamente. A IA muda, os modelos mudam, os produtos mudam. O que permanece é a capacidade de se adaptar.
+
+### Pensamento Estratégico
+
+Com a automação de tarefas repetitivas, as empresas passarão a valorizar mais o pensamento estratégico. Profissionais que conseguem analisar dados, interpretar tendências e propor soluções serão cada vez mais disputados.
+
+### Comunicação Clara
+
+A IA pode gerar textos, mas a comunicação eficaz ainda é humana. Saber explicar ideias complexas de forma simples, persuasiva e clara será uma vantagem enorme em qualquer profissão.
+
 ## Conclusão: A IA É o Seu Copiloto, Não o Motorista
 
 O mercado de trabalho brasileiro em 2026 não é um cenário de substituição — é um cenário de amplificação. As empresas não estão procurando substituir pessoas por máquinas; estão procurando pessoas que saibam trabalhar com máquinas. A diferença entre quem prospera e quem fica para trás não é a idade, a formação ou a experiência prévia — é a disposição de aprender, testar e aplicar.
