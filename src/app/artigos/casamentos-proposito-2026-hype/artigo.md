@@ -111,6 +111,60 @@ Isso não é falta de cuidado — é **cuidado diferente**. É escolher conforto
 
 > **Leia também:** [Beleza Inclusiva 2026 — Beleza Para Todas As Mulheres](/artigos/beleza-inclusiva-2026)
 
+## A Transformação do Vestido de Noiva em 2026
+
+O vestido é talvez o símbolo mais forte dessa mudança. A estilista brasileira Lethicia Bronstein, em entrevista à Harper's Bazaar Brasil de julho de 2026, disse: "Nossas noivas não querem mais parecer bonecas. Elas querem parecer *elas mesmas* — só que em um dia especial."
+
+As tendências que estão dominando:
+
+### 1. Vestidos de Aluguel e Segunda Mão
+A economia circular chegou aos casamentos. Plataformas como **Enjoei**, **Repassa** e **Closet BoB** têm seções dedicadas a vestidos de noiva. "Por que comprar um vestido que vou usar uma vez?", pergunta Mariana, 29, que alugou seu vestido por R$ 2.500 — economia de 80% comparado à compra.
+
+### 2. Tecidos Naturais e Confortáveis
+Linho, algodão orgânico, seda sustentável e até **jeans** estão aparecendo em casamentos. O foco é: você vai dançar, vai sentar no chão, vai abraçar pessoas. O vestido precisa permitir isso.
+
+### 3. Dois Looks: Cerimônia e Festa
+Muitas noivas estão optando por dois looks — um mais formal para a cerimônia e outro confortável para a festa. O segundo pode ser um macacão, um vestido curto, ou até um conjunto de calça e blazer.
+
+### 4. Personalização Real
+Bordados com iniciais dos filhos, do animal de estimação, da data do primeiro encontro. Detalhes que só o casal entende — e isso é o que torna especial.
+
+> **Leia também:** [Moda Consciente Sustentável Hype 2026 Inclusiva](/artigos/moda-consciente-sustentavel-hype-2026-inclusiva)
+
+## O Papel dos Convidados: De Expectadores a Participantes
+
+Em casamentos com propósito, os convidados não são plateia — são **parte da cerimônia**. Veja como:
+
+### 1. Votos Coletivos
+Em vez de apenas o casal fazer votos, os convidados mais próximos são convidados a dizer uma palavra de benção ou compromisso de apoio.
+
+### 2. Círculo de Proteção
+Antes da cerimônia, os convidados formam um círculo ao redor do casal. Cada pessoa coloca a mão no ombro de quem está ao lado e compartilha um desejo silencioso.
+
+### 3. Mural de Memórias
+Os convidados trazem fotos, bilhetes ou pequenos objetos que representam momentos com o casal. Tudo vira um mural que fica exposto durante a festa.
+
+### 4. Co-Criação da Playlist
+Cada convidado escolhe uma música que tem significado para o casal. A playlist vira a trilha sonora da festa — e cada música conta uma história.
+
+## O Pós-Casamento: O Que Vem Depois
+
+O casamento não termina na festa. O que vem depois — a construção da vida a dois — é onde o propósito realmente se prova.
+
+### 1. Primeira Semana: Descompressão
+Não marque lua de mel imediatamente. Tire 3-5 dias só para vocês, sem celular, sem planejamento. Durmam, comam, conversem sobre o que sentiram.
+
+### 2. Primeiro Mês: Check-in Intencional
+Agendem uma conversa: "Como foi pra você? O que mudou? O que você precisa de mim agora?" Não assuma que o casamento resolve tudo — ele é o começo.
+
+### 3. Primeiro Ano: Rituais de Conexão
+Crie rituais mensais: jantar sem celular, caminhada de domingo, leitura conjunta. O casamento é construído nos pequenos momentos.
+
+### 4. Renovação de Votos Contínua
+Não precisa esperar 10 anos. A cada aniversário, leiam os votos originais. Perguntem: "Ainda faz sentido? O que adicionaríamos hoje?"
+
+> **Leia também:** [Casamentos com Propósito — Planejamento Para 2026](/artigos/casamentos-com-proposito-planejamento)
+
 ## Onde Casar em 2026: Os Destaques
 
 ### Sítios e Fazendas
@@ -129,7 +183,7 @@ Para casamentos de outono/inverno, a serra oferece clima europeu sem sair do Bra
 
 > Querida, se você está lendo isso no meio de um planejamento de casamento — ou no meio de uma decisão sobre casar — eu quero te dizer uma coisa: não precisa ser perfeito. Não precisa ser o casamento que a sua mãe sonhou, o que a sua amiga fez, ou o que a Instagram mostra. Precisa ser seu. Precisa ser verdadeiro. Se você não quer casamento, não casar é um ato de propósito. Se você quer casamento pequeno no quintal, é o mais proposital que existe. Se você quer cerimônia no meio da floresta com 5 pessoas — é o casamento mais bonito do mundo. O propósito não está no tamanho, no orçamento ou no número de convidados. Está na honestidade do que vocês declaram ao mundo: "eu escolho você, hoje e sempre, não porque devo, mas porque quero." E essa escolha — qualquer forma que ela tome — já é o casamento mais bonito que existe. Eu torço por você. Com todo meu carinho, Lillith.
 
----
+--
 
 **Leia também:**
 - [Casamento com Propósito 2026 — Essência No Coração do Ritual](/artigos/casamento-com-proposito-2026-essencia)
@@ -138,3 +192,25 @@ Para casamentos de outono/inverno, a serra oferece clima europeu sem sair do Bra
 - [Beleza Inclusiva 2026 — Beleza Para Todas As Mulheres](/artigos/beleza-inclusiva-2026)
 - [Casamento Essência Amor 2026](/artigos/casamento-essencia-amor-2026)
 - [Relacionamento Consciente 2026 — Conexão Que Transforma](/artigos/relacionamento-consciente-2026)
+
+## Perguntas Frequentes (FAQ) sobre Casamentos com Propósito
+
+### Como convencer meus pais a fazer um micro wedding?
+
+Comece mostrando dados: "68% dos casamentos de 2026 estão considerando formatos reduzidos". Mostre o que vocês podem fazer com o dinheiro economizado: viagem, casa, ou simplesmente menos estresse. Ofereça um híbrido: micro wedding para família próxima + festa maior depois.
+
+### E se a família não couber no formato íntimo?
+
+O micro wedding não significa excluir. Significa priorizar. Você pode ter o cerimônia com 15 pessoas e a recepção maior depois. Ou fazer o cerimônia agora e um "renewal of vows" (renovação de votos) em 5 anos para incluir mais gente.
+
+### Micro wedding é mais barato?
+
+Sim. Mas cuidado: o custo por pessoa pode ser maior. O segredo está em reduzir desperdício, não em reduzir qualidade. Um jantar simples com pessoas queridas pode ser mais caro que um buffet enorme com gente que você não conversa.
+
+### E se eu sentir que estou perdendo algo ao não ter casamento grande?
+
+É normal sentir. Permita-se sentir. Depois de alguns meses, a maioria das noivas diz que o que realmente importou foi a cerimônia e o casal, não o número de convidados. O casamento grande fica na memória como "foi bonito", mas o micro fica como "foi nosso".
+
+### Podemos ter fotógrafo profissional?
+
+Sem problema. O segredo é contratar alguém que entenda o conceito de micro wedding — alguém que capture intimidade, não poseções em massa.
