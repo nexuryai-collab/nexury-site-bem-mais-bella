@@ -167,3 +167,27 @@ Se a resposta for sim para pelo menos uma, você está no caminho certo. Não pr
 - [Hype Mulher Resiliência 2026](/artigos/hype-mulher-resiliencia-2026)
 - [Cripto Mulheres 2026 — Liberdade Financeira](/artigos/cripto-mulheres-2026)
 - [Mindfulness 2026 — A Prática Que Mudou Minha Relação Com o Stress](/artigos/mindfulness-2026)
+- [Autoconhecimento Hype 2026 — O Mapa Que Vai Te Ajudar](/artigos/autoconhecimento-hype-2026-estilo-bem-estar)
+- [Estilo Inclusivo 2026 — A Virada Que Precisávamos](/artigos/hype-gastronomia-2026)
+
+## FAQs: Perguntas Frequentes Sobre Autocuidado com IA
+
+### Posso confiar minhas informações privadas nos apps de IA?
+
+Sim, a maioria dos apps de bem-estar confiáveis tem políticas de privacidade claras e opções de anonimização. Muitos permitem armazenar dados localmente. A recomendação é ler o termo de uso e escolher apps com "hippocratic AI" — que garantem não usar dados para fins comerciais ou de treinamento.
+
+### A IA funciona para todo mundo?
+
+A tecnologia tem melhorado, mas ainda pode não ser ideal para todos. Mulheres com transtorno de ansiedade generalizado, depressão clinica ou outras condições psicoticas precisam de acompanhamento profissional. A IA é um suporte, não um substituto.
+
+### Quanto tempo leva pra ver resultados?
+
+Estudos mostram melhoras mensuráveis com uso consistente por 4-8 semanas. A mudança não é imediata — é gradual. A beleza da IA é que ela te acompanha todos os dias, reforçando pequenos hábitos que, ao longo do tempo, criam grandes mudanças.
+
+### Preciso pagar para usar essas ferramentas?
+
+Muitas são gratuitas ou têm versões free. O paid pode oferecer mais personalização, mas o essencial do autocuidado está na escolha consciente de pausas, respiração e atenção — coisas que não precisam de plano premium para existir.
+
+### A IA pode me julgar demais?
+
+Alguns apps têm tendência a criar padrões ideais. Se isso acontece, ajuste as notificações ou mude de app. Lembre-se: autocuidado é pessoal, não competitivo.
